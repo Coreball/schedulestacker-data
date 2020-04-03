@@ -1,0 +1,31 @@
+[
+  {
+    "name": "*AP English Literature And Composition",
+    "type": "1",
+    "year": {
+      "1": [
+        {
+          "name": "*AP English Literature And Composition",
+          "semester": "Year",
+          "period": "1",
+          "teacher": "Abrahamsson, Yael",
+          "room": "IC746"
+        },
+        {
+          "name": "*AP English Literature And Composition",
+          "semester": "Year",
+          "period": "2",
+          "teacher": "Morris, Joel",
+          "room": "E304"
+        },
+        {
+          "name": "*AP English Literature And Composition",
+          "semester": "Year",
+          "period": "8",
+          "teacher": "Park, Yoon",
+          "room": "E305"
+        }
+      ]
+    }
+  }
+]

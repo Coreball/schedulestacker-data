@@ -1,0 +1,216 @@
+[
+  {
+    "name": "*AP English Language And Composition",
+    "type": "1",
+    "year": {
+      "1": [
+        {
+          "name": "*AP English Language And Composition",
+          "semester": "Year",
+          "period": "1",
+          "teacher": "Gustafson, Matthew A",
+          "room": "IC743"
+        },
+        {
+          "name": "*AP English Language And Composition",
+          "semester": "Year",
+          "period": "1",
+          "teacher": "Jacob, Christin",
+          "room": "E301"
+        }
+      ]
+    }
+  },
+  {
+    "name": "*AP English Literature And Composition",
+    "type": "1",
+    "year": {
+      "1": [
+        {
+          "name": "*AP English Literature And Composition",
+          "semester": "Year",
+          "period": "1",
+          "teacher": "Abrahamsson, Yael",
+          "room": "IC746"
+        }
+      ],
+      "2": [
+        {
+          "name": "*AP English Literature And Composition",
+          "semester": "Year",
+          "period": "2",
+          "teacher": "Morris, Joel",
+          "room": "E304"
+        }
+      ],
+      "3": [
+        {
+          "name": "*AP English Literature And Composition",
+          "semester": "Year",
+          "period": "3",
+          "teacher": "Morris, Joel",
+          "room": "E301"
+        }
+      ],
+      "4": [
+        {
+          "name": "*AP English Literature And Composition",
+          "semester": "Year",
+          "period": "4",
+          "teacher": "Abrahamsson, Yael",
+          "room": "IC746"
+        }
+      ],
+      "6": [
+        {
+          "name": "*AP English Literature And Composition",
+          "semester": "Year",
+          "period": "6",
+          "teacher": "Bachman, Ariell",
+          "room": "E207"
+        }
+      ],
+      "7": [
+        {
+          "name": "*AP English Literature And Composition",
+          "semester": "Year",
+          "period": "7",
+          "teacher": "Park, Yoon",
+          "room": "E305"
+        }
+      ],
+      "8": [
+        {
+          "name": "*AP English Literature And Composition",
+          "semester": "Year",
+          "period": "8",
+          "teacher": "Park, Yoon",
+          "room": "E305"
+        }
+      ]
+    }
+  },
+  {
+    "name": "*AP Comparative Government/Politics",
+    "type": "2",
+    "s2": {
+      "2": [
+        {
+          "name": "*AP Comparative Government/Politics",
+          "semester": "S2",
+          "period": "2",
+          "teacher": "Singh, Benwari",
+          "room": "E114"
+        }
+      ],
+      "3": [
+        {
+          "name": "*AP Comparative Government/Politics",
+          "semester": "S2",
+          "period": "3",
+          "teacher": "Singh, Benwari",
+          "room": "E114"
+        }
+      ]
+    }
+  },
+  {
+    "name": "*AP US Government And Politics",
+    "type": "2",
+    "s1": {
+      "2": [
+        {
+          "name": "*AP US Government And Politics",
+          "semester": "S1",
+          "period": "2",
+          "teacher": "Singh, Benwari",
+          "room": "E114"
+        }
+      ],
+      "3": [
+        {
+          "name": "*AP US Government And Politics",
+          "semester": "S1",
+          "period": "3",
+          "teacher": "Singh, Benwari",
+          "room": "E114"
+        }
+      ],
+      "7": [
+        {
+          "name": "*AP US Government And Politics",
+          "semester": "S1",
+          "period": "7",
+          "teacher": "Singh, Benwari",
+          "room": "E114"
+        }
+      ]
+    }
+  },
+  {
+    "name": "*AP Computer Science A",
+    "type": "3",
+    "year": {
+      "1": [
+        {
+          "name": "*AP Computer Science A",
+          "semester": "Year",
+          "period": "1",
+          "teacher": "Wetterer, Anna M",
+          "room": "W431"
+        }
+      ],
+      "2": [
+        {
+          "name": "*AP Computer Science A",
+          "semester": "Year",
+          "period": "2",
+          "teacher": "Wetterer, Anna M",
+          "room": "W431"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Health",
+    "type": "7",
+    "s1": {
+      "1": [
+        {
+          "name": "Health",
+          "semester": "S1",
+          "period": "1",
+          "teacher": "Carroll, Michael",
+          "room": "W203"
+        },
+        {
+          "name": "Health",
+          "semester": "S1",
+          "period": "1",
+          "teacher": "McKean, Allison J",
+          "room": "W201"
+        }
+      ],
+      "2": [
+        {
+          "name": "Health",
+          "semester": "S1",
+          "period": "2",
+          "teacher": "Carroll, Michael",
+          "room": "W203"
+        }
+      ]
+    },
+    "s2": {
+      "1": [
+        {
+          "name": "Health",
+          "semester": "S2",
+          "period": "1",
+          "teacher": "Carroll, Michael",
+          "room": "W203"
+        }
+      ]
+    }
+  }
+]
