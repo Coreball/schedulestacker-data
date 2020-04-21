@@ -3,1211 +3,1185 @@
 # COMPILED 21 APRIL 2020 BY CHANGYUAN LIN
 
 # ENGLISH
-1 *Advanced Debate Honors (Extemp) 1(A-E) 20-21 Benham, Martha FA625 
-1 *Advanced Debate Honors (LD) 2(A-E) 20-21 Benham, Martha FA625 
-1 *Advanced Debate Honors (Interp/OO) 3(A-E) 20-21 Benham, Martha FA625 
-1 *Advanced Debate Honors (Interp/OO) 3(A-E) 20-21 Holladay, Carlye L FA624 
-1 *Advanced Debate Honors (PF) 4(A-E) 20-21 Benham, Martha FA625 
-1 *AP English Language And Composition 1(A-E) 20-21 Jacob, Christin E301 
-1 *AP English Language And Composition 1(A-E) 20-21 Shadwell, Stephany E303 
-1 *AP English Language And Composition 2(A-E) 20-21 Hughes, Deborah E207 
-1 *AP English Language And Composition 2(A-E) 20-21 Jacob, Christin E301 
-1 *AP English Language And Composition 2(A-E) 20-21 Shadwell, Stephany E303 
-1 *AP English Language And Composition 3(A-E) 20-21 Gilbert, Kim M IC743 
-1 *AP English Language And Composition 3(A-E) 20-21 Mazenko, Michael E202 
-1 *AP English Language And Composition 3(A-E) 20-21 Riegler, Kirsten E304 
-1 *AP English Language And Composition 4(A-E) 20-21 Gustafson, Matthew A IC743 
-1 *AP English Language And Composition 4(A-E) 20-21 Jacob, Christin E301 
-1 *AP English Language And Composition 4(A-E) 20-21 Rowe, David E302 
-1 *AP English Language And Composition 6(A-E) 20-21 Doyle, Mhari C E202 
-1 *AP English Language And Composition 6(A-E) 20-21 Hughes, Deborah E207 
-1 *AP English Language And Composition 7(A-E) 20-21 Doyle, Mhari C E202 
-1 *AP English Language And Composition 7(A-E) 20-21 Gustafson, Matthew A IC743 
-1 *AP English Language And Composition 8(A-E) 20-21 Riegler, Kirsten E304 
-1 *AP English Language And Composition 8(A-E) 20-21 Rowe, David E211 
-1 *AP English Literature And Composition 1(A-E) 20-21 Abrahamsson, Yael IC746 
-1 *AP English Literature And Composition 1(A-E) 20-21 Park, Yoon E305 
-1 *AP English Literature And Composition 2(A-E) 20-21 Morris, Joel E304 
-1 *AP English Literature And Composition 3(A-E) 20-21 Bachman, Ariell E205 
-1 *AP English Literature And Composition 4(A-E) 20-21 Abrahamsson, Yael IC746 
-1 *AP English Literature And Composition 7(A-E) 20-21 Bachman, Ariell E205 
-1 *AP English Literature And Composition 7(A-E) 20-21 Park, Yoon E305 
-1 *AP English Literature And Composition 8(A-E) 20-21 Morris, Joel E203 
-1 *Cross Ex Debate Honors 8(A-E) 20-21 Benham, Martha FA625 
-1 *English 10 Honors 1(A-E) 20-21 Bachman, Ariell E204 
-1 *English 10 Honors 1(A-E) 20-21 Doyle, Mhari C E202 
-1 *English 10 Honors 1(A-E) 20-21 Eng Tch A, A E207 
-1 *English 10 Honors 2(A-E) 20-21 Abrahamsson, Yael IC746 
-1 *English 10 Honors 2(A-E) 20-21 Doyle, Mhari C E202 
-1 *English 10 Honors 3(A-E) 20-21 Bartholomew, Stephen J IC737 
-1 *English 10 Honors 3(A-E) 20-21 Morris, Joel E203 
-1 *English 10 Honors 4(A-E) 20-21 Eng Tch A, A E303 
-1 *English 10 Honors 4(A-E) 20-21 Foster, Jason E400 
-
-1 *English 10 Honors 5(A-E) 20-21 Bartholomew, Stephen J IC746 
-1 *English 10 Honors 5(A-E) 20-21 Chapman, Mary E207 
-1 *English 10 Honors 6(A-E) 20-21 Bachman, Ariell E205 
-1 *English 10 Honors 6(A-E) 20-21 Foster, Jason E400 
-1 *English 10 Honors 6(A-E) 20-21 Morris, Joel E304 
-1 *English 10 Honors 7(A-E) 20-21 Chapman, Mary E207 
-1 *English 10 Honors 7(A-E) 20-21 DeShay, Erika P E204 
-1 *English 10 Honors 7(A-E) 20-21 Foster, Jason E400 
-1 *English 10 Honors 8(A-E) 20-21 Bartholomew, Stephen J IC746 
-1 *English 10 Honors 8(A-E) 20-21 DeShay, Erika P E204 
-1 *English 9 Honors 1(A-E) 20-21 Eichorn, Andrew E300 
-1 *English 9 Honors 1(A-E) 20-21 Popplewell, Sanae J IC736 
-1 *English 9 Honors 2(A-E) 20-21 Fine, Jonathan S. E305 
-1 *English 9 Honors 2(A-E) 20-21 Gustafson, Matthew A IC743 
-1 *English 9 Honors 2(A-E) 20-21 Philipps, Lesley E203 
-1 *English 9 Honors 2(A-E) 20-21 Werber, Lisa E406 
-1 *English 9 Honors 3(A-E) 20-21 Popplewell, Sanae J IC736 
-1 *English 9 Honors 3(A-E) 20-21 Shadwell, Stephany E303 
-1 *English 9 Honors 4(A-E) 20-21 Swanson, Timothy IC737 
-1 *English 9 Honors 4(A-E) 20-21 Werber, Lisa E406 
-1 *English 9 Honors 5(A-E) 20-21 Philipps, Lesley E203 
-1 *English 9 Honors 5(A-E) 20-21 Werber, Lisa E406 
-1 *English 9 Honors 6(A-E) 20-21 Chapman, Jenna M E211 
-1 *English 9 Honors 6(A-E) 20-21 Gustafson, Matthew A IC743 
-1 *English 9 Honors 7(A-E) 20-21 Chapman, Jenna M E211 
-1 *English 9 Honors 7(A-E) 20-21 Eichorn, Andrew E300 
-1 *English 9 Honors 7(A-E) 20-21 Fine, Jonathan S. IC746 
-1 *English 9 Honors 8(A-E) 20-21 Shadwell, Stephany E303 
-1 *English 9 Honors 8(A-E) 20-21 Swanson, Timothy IC737 
-1 Beginning Debate 1(A-E) 20-21 Holladay, Carlye L FA624 
-1 Beginning Debate 7(A-E) 20-21Cave, Emily L FA624 
-1 Beginning Debate 8(A-E) 20-21Cave, Emily L FA624 
-1 CP African-American Literature 6(A-E) S1 Pope,Vernal E209 
-1 CP African-American Literature 7(A-E) S1 Pope,Vernal E209 
-1 CP African-American Literature 6(A-E) S2 Pope,Vernal E209 
-1 CP Award Winners 3(A-E) S1 Abrahamsson, Yael IC746 
-1 CP Award Winners 7(A-E) S1 Shadwell, Stephany E303 
-1 CP Award Winners 7(A-E) S2 Shadwell, Stephany E303 
-1 CP Creative Writing 1(A-E) S1 Gustafson, Matthew A IC743 
-1 CP Creative Writing (ELA Tm) 2(A-E) S1 Voss, Marissa E402 
-
-1 CP Creative Writing 4(A-E) S1 DeShay, Erika P E204 
-1 CP Creative Writing 6(A-E) S1 Voss, Marissa E402 
-1 CP Creative Writing 1(A-E) S2 Gustafson, Matthew A IC743 
-1 CP Creative Writing (ELA Tm) 2(A-E) S2 Voss, Marissa E402 
-1 CP Creative Writing 6(A-E) S2 Voss, Marissa E402 
-1 CP Creative Writing 7(A-E) S2 Pope, Vernal E209 
-1 CP English 10 (ELA Tm) 1(A-E) 20-21 Chapman, Jenna M E205 
-1 CP English 10 1(A-E) 20-21 Ramsey, Sarah E200 
-1 CP English 10 2(A-E) 20-21 Chapman, Jenna M E205 
-1 CP English 10 2(A-E) 20-21 DeShay, Erika P E204 
-1 CP English 10 (ELA Tm) 2(A-E) 20-21 Hughes, Loreen E302 
-1 CP English 10 3(A-E) 20-21 Fine, Jonathan S. E305 
-1 CP English 10 (ELA Tm) 3(A-E) 20-21 Hughes, Loreen E302 
-1 CP English 10 (SAS Tm) 3(A-E) 20-21 Raycraft, Brandon E406 
-1 CP English 10 4(A-E) 20-21 Fine, Jonathan S. E305 
-1 CP English 10 4(A-E) 20-21 Ramsey, Sarah E200 
-1 CP English 10 5(A-E) 20-21 Chapman, Jenna M E205 
-1 CP English 10 5(A-E) 20-21 Kort, Kimberly IC743 
-1 CP English 10 5(A-E) 20-21 Ramsey, Sarah E200 
-1 CP English 10 6(A-E) 20-21 DeShay, Erika P E204 
-1 CP English 10 6(A-E) 20-21 Hughes, Loreen E302 
-1 CP English 10 7(A-E) 20-21 Ramsey, Sarah E200 
-1 CP English 10 8(A-E) 20-21 Kort, Kimberly IC743 
-1 CP English 10 8(A-E) 20-21 Raycraft, Brandon E406 
-1 CP English 11 (ELA Tm) 1(A-E) 20-21 Philipps, Lesley E203 
-1 CP English 11 1(A-E) 20-21 Pope, Vernal E209 
-1 CP English 11 1(A-E) 20-21 Voss, Marissa E402 
-1 CP English 11 2(A-E) 20-21 Pope, Vernal E209 
-1 CP English 11 2(A-E) 20-21 Raycraft, Brandon E400 
-1 CP English 11 3(A-E) 20-21 Eichorn, Andrew E300 
-1 CP English 11 3(A-E) 20-21 Hein, Brie N E402 
-1 CP English 11 4(A-E) 20-21 Cave, Emily L E211 
-1 CP English 11 4(A-E) 20-21 Pope, Vernal E209 
-1 CP English 11 4(A-E) 20-21 Popplewell, Sanae J IC736 
-1 CP English 11 4(A-E) 20-21 Voss, Marissa E402 
-1 CP English 11 6(A-E) 20-21 Hein, Brie N E404 
-1 CP English 11 (ELA Tm) 6(A-E) 20-21 Philipps, Lesley E203 
-1 CP English 11 6(A-E) 20-21 Popplewell, Sanae J IC736 
-1 CP English 11 6(A-E) 20-21 Raycraft, Brandon E406 
-1 CP English 11 7(A-E) 20-21 Philipps, Lesley E203 
-1 CP English 11 7(A-E) 20-21 Raycraft, Brandon E406 
-1 CP English 11 7(A-E) 20-21 Voss, Marissa E402 
-1 CP English 11 8(A-E) 20-21 Popplewell, Sanae J IC736 
-1 CP English 9 1(A-E) 20-21 Bartholomew, Stephen J IC737 
-1 CP English 9 (ELA Tm) 1(A-E) 20-21 Hein, Brie N E404 
-1 CP English 9 2(A-E) 20-21 Cave, Emily L E211 
-1 CP English 9 2(A-E) 20-21 Gilbert, Kim M IC736 
-1 CP English 9 2(A-E) 20-21 Kellogg-Dunlop, Emily B E404 
-1 CP English 9 3(A-E) 20-21 Kellogg-Dunlop, Emily B E404 
-1 CP English 9 3(A-E) 20-21 Smith, Susanne IC742 
-1 CP English 9 4(A-E) 20-21 Kellogg-Dunlop, Emily B E404 
-1 CP English 9 (ELA Tm) 4(A-E) 20-21 Riegler, Kirsten E304 
-1 CP English 9 5(A-E) 20-21 Cave, Emily L E211 
-1 CP English 9 5(A-E) 20-21 Eng Tch A, A E303 
-1 CP English 9 (SAS Tm) 6(A-E) 20-21 Bartholomew, Stephen J IC746 
-1 CP English 9 6(A-E) 20-21 Eng Tch A, A E303 
-1 CP English 9 7(A-E) 20-21 Hein, Brie N E404 
-1 CP English 9 (ELA Tm) 7(A-E) 20-21 Riegler, Kirsten E304 
-1 CP English 9 8(A-E) 20-21 Eng Tch A, A E209 
-1 CP English 9 8(A-E) 20-21 Hein, Brie N E404 
-1 CP Humanities English 9: Amer Studies 2(A-E) 20-21 Park, Yoon E320 
-1 CP Humanities English 9: Amer Studies 3(A-E) 20-21 Park, Yoon E320 
-1 CP Introduction to College Composition 2(A-E) S1 Swanson,Timothy IC737 
-1 CP Introduction to College Composition 7(A-E) S2 Swanson,Timothy IC737 
-1 CP Introduction to College Literature 4(A-E) S1 Morris,Joel E203 
-1 CP Introduction to College Literature 4(A-E) S2 Morris,Joel E203 
-1 CP Journalism 8(A-E) 20-21 Fine, Jonathan S. IC703 
-1 CP Journalism Leadership Workshop 8(A-E) S1 Fine, Jonathan S. IC703 
-1 CP Journalism Leadership Workshop 8(A-E) S2 Fine, Jonathan S. IC703 
-1 CP Multi-Cultural Literature 6(A-E) S2 Park, Yoon E305 
-1 CP Narrative Art in Lit and Film 2(A-E) S1 Holladay, Carlye L FA624 
-1 CP Narrative Art in Lit and Film 2(A-E) S2 Holladay, Carlye L FA624 
-1 CP Science Fiction 1(A-E) S1 Foster, Jason E400 
-1 CP Science Fiction 3(A-E) S1 Foster, Jason E400 
-1 CP Science Fiction 8(A-E) S1 Chapman, Mary E207 
-1 CP Science Fiction 1(A-E) S2 Foster, Jason E400 
-1 CP Science Fiction 8(A-E) S2 Chapman, Mary E207 
-1 CP Senior Seminar: Lit and Writing 1(A-E) 20-21 Hughes, Loreen E302 
-
-1 CP Senior Seminar: Lit and Writing 1(A-E) 20-21 Rowe, David E211 
-1 CP Senior Seminar: Lit and Writing 2(A-E) 20-21 Eichorn, Andrew E300 
-1 CP Senior Seminar: Lit and Writing 3(A-E) 20-21 Hughes, Deborah E207 
-1 CP Senior Seminar: Lit and Writing 3(A-E) 20-21 Rowe, David E211 
-1 CP Senior Seminar: Lit and Writing 4(A-E) 20-21 Hughes, Deborah E207 
-1 CP Senior Seminar: Lit and Writing 6(A-E) 20-21 Eichorn, Andrew E300 
-1 CP Senior Seminar: Lit and Writing 6(A-E) 20-21 Jacob, Christin E301 
-1 CP Senior Seminar: Lit and Writing 7(A-E) 20-21 Jacob, Christin E301 
-1 CP Senior Seminar: Lit and Writing 7(A-E) 20-21 Rowe, David E302 
-1 CP Senior Seminar: Lit and Writing 8(A-E) 20-21 Hughes, Loreen E302 
-1 CP Shakespeare 8(A-E) S1 Doyle, Mhari C E202 
-1 CP Shakespeare 4(A-E) S2 Doyle, Mhari C E202 
-1 CP Survey of Poetry 4(A-E) S2 DeShay, Erika P E204 
-1 CP Writing on Film 6(A-E) S1 Park, Yoon E305 
-1 CP Writing on Film 6(A-E) S1 Swanson, Timothy IC737 
-1 CP Writing on Film 7(A-E) S1 Swanson, Timothy IC737 
-1 CP Writing on Film 2(A-E) S2 Swanson, Timothy IC737 
-1 CP Writing on Film 3(A-E) S2 Foster, Jason E400 
-1 CP Writing on Film 6(A-E) S2 Swanson, Timothy IC737 
-1 Reading/Studying For Success 1(A-E) S2 Kort, Kimberly IC739 
-1 Writing Clinic 1(A-E) S1 Kort, Kimberly IC739 
-8 Reading Essentials 1 2(A-E) S1 Kort, Kimberly IC739 
-8 Reading Essentials 2 2(A-E) S2 Kort, Kimberly IC739 
-8 Reading Essentials 3 3(A-E) S1 Kort, Kimberly IC739 
-8 Reading Essentials 4 3(A-E) S2 Kort, Kimberly IC739 
+1 *Advanced Debate Honors (Extemp) 1(A-E) 20-21 Benham, Martha FA625
+1 *Advanced Debate Honors (LD) 2(A-E) 20-21 Benham, Martha FA625
+1 *Advanced Debate Honors (Interp/OO) 3(A-E) 20-21 Benham, Martha FA625
+1 *Advanced Debate Honors (Interp/OO) 3(A-E) 20-21 Holladay, Carlye L FA624
+1 *Advanced Debate Honors (PF) 4(A-E) 20-21 Benham, Martha FA625
+1 *AP English Language And Composition 1(A-E) 20-21 Jacob, Christin E301
+1 *AP English Language And Composition 1(A-E) 20-21 Shadwell, Stephany E303
+1 *AP English Language And Composition 2(A-E) 20-21 Hughes, Deborah E207
+1 *AP English Language And Composition 2(A-E) 20-21 Jacob, Christin E301
+1 *AP English Language And Composition 2(A-E) 20-21 Shadwell, Stephany E303
+1 *AP English Language And Composition 3(A-E) 20-21 Gilbert, Kim M IC743
+1 *AP English Language And Composition 3(A-E) 20-21 Mazenko, Michael E202
+1 *AP English Language And Composition 3(A-E) 20-21 Riegler, Kirsten E304
+1 *AP English Language And Composition 4(A-E) 20-21 Gustafson, Matthew A IC743
+1 *AP English Language And Composition 4(A-E) 20-21 Jacob, Christin E301
+1 *AP English Language And Composition 4(A-E) 20-21 Rowe, David E302
+1 *AP English Language And Composition 6(A-E) 20-21 Doyle, Mhari C E202
+1 *AP English Language And Composition 6(A-E) 20-21 Hughes, Deborah E207
+1 *AP English Language And Composition 7(A-E) 20-21 Doyle, Mhari C E202
+1 *AP English Language And Composition 7(A-E) 20-21 Gustafson, Matthew A IC743
+1 *AP English Language And Composition 8(A-E) 20-21 Riegler, Kirsten E304
+1 *AP English Language And Composition 8(A-E) 20-21 Rowe, David E211
+1 *AP English Literature And Composition 1(A-E) 20-21 Abrahamsson, Yael IC746
+1 *AP English Literature And Composition 1(A-E) 20-21 Park, Yoon E305
+1 *AP English Literature And Composition 2(A-E) 20-21 Morris, Joel E304
+1 *AP English Literature And Composition 3(A-E) 20-21 Bachman, Ariell E205
+1 *AP English Literature And Composition 4(A-E) 20-21 Abrahamsson, Yael IC746
+1 *AP English Literature And Composition 7(A-E) 20-21 Bachman, Ariell E205
+1 *AP English Literature And Composition 7(A-E) 20-21 Park, Yoon E305
+1 *AP English Literature And Composition 8(A-E) 20-21 Morris, Joel E203
+1 *Cross Ex Debate Honors 8(A-E) 20-21 Benham, Martha FA625
+1 *English 10 Honors 1(A-E) 20-21 Bachman, Ariell E204
+1 *English 10 Honors 1(A-E) 20-21 Doyle, Mhari C E202
+1 *English 10 Honors 1(A-E) 20-21 Eng Tch A, A E207
+1 *English 10 Honors 2(A-E) 20-21 Abrahamsson, Yael IC746
+1 *English 10 Honors 2(A-E) 20-21 Doyle, Mhari C E202
+1 *English 10 Honors 3(A-E) 20-21 Bartholomew, Stephen J IC737
+1 *English 10 Honors 3(A-E) 20-21 Morris, Joel E203
+1 *English 10 Honors 4(A-E) 20-21 Eng Tch A, A E303
+1 *English 10 Honors 4(A-E) 20-21 Foster, Jason E400
+1 *English 10 Honors 5(A-E) 20-21 Bartholomew, Stephen J IC746
+1 *English 10 Honors 5(A-E) 20-21 Chapman, Mary E207
+1 *English 10 Honors 6(A-E) 20-21 Bachman, Ariell E205
+1 *English 10 Honors 6(A-E) 20-21 Foster, Jason E400
+1 *English 10 Honors 6(A-E) 20-21 Morris, Joel E304
+1 *English 10 Honors 7(A-E) 20-21 Chapman, Mary E207
+1 *English 10 Honors 7(A-E) 20-21 DeShay, Erika P E204
+1 *English 10 Honors 7(A-E) 20-21 Foster, Jason E400
+1 *English 10 Honors 8(A-E) 20-21 Bartholomew, Stephen J IC746
+1 *English 10 Honors 8(A-E) 20-21 DeShay, Erika P E204
+1 *English 9 Honors 1(A-E) 20-21 Eichorn, Andrew E300
+1 *English 9 Honors 1(A-E) 20-21 Popplewell, Sanae J IC736
+1 *English 9 Honors 2(A-E) 20-21 Fine, Jonathan S. E305
+1 *English 9 Honors 2(A-E) 20-21 Gustafson, Matthew A IC743
+1 *English 9 Honors 2(A-E) 20-21 Philipps, Lesley E203
+1 *English 9 Honors 2(A-E) 20-21 Werber, Lisa E406
+1 *English 9 Honors 3(A-E) 20-21 Popplewell, Sanae J IC736
+1 *English 9 Honors 3(A-E) 20-21 Shadwell, Stephany E303
+1 *English 9 Honors 4(A-E) 20-21 Swanson, Timothy IC737
+1 *English 9 Honors 4(A-E) 20-21 Werber, Lisa E406
+1 *English 9 Honors 5(A-E) 20-21 Philipps, Lesley E203
+1 *English 9 Honors 5(A-E) 20-21 Werber, Lisa E406
+1 *English 9 Honors 6(A-E) 20-21 Chapman, Jenna M E211
+1 *English 9 Honors 6(A-E) 20-21 Gustafson, Matthew A IC743
+1 *English 9 Honors 7(A-E) 20-21 Chapman, Jenna M E211
+1 *English 9 Honors 7(A-E) 20-21 Eichorn, Andrew E300
+1 *English 9 Honors 7(A-E) 20-21 Fine, Jonathan S. IC746
+1 *English 9 Honors 8(A-E) 20-21 Shadwell, Stephany E303
+1 *English 9 Honors 8(A-E) 20-21 Swanson, Timothy IC737
+1 Beginning Debate 1(A-E) 20-21 Holladay, Carlye L FA624
+1 Beginning Debate 7(A-E) 20-21 Cave, Emily L FA624
+1 Beginning Debate 8(A-E) 20-21 Cave, Emily L FA624
+1 CP African-American Literature 6(A-E) S1 Pope, Vernal E209
+1 CP African-American Literature 7(A-E) S1 Pope, Vernal E209
+1 CP African-American Literature 6(A-E) S2 Pope, Vernal E209
+1 CP Award Winners 3(A-E) S1 Abrahamsson, Yael IC746
+1 CP Award Winners 7(A-E) S1 Shadwell, Stephany E303
+1 CP Award Winners 7(A-E) S2 Shadwell, Stephany E303
+1 CP Creative Writing 1(A-E) S1 Gustafson, Matthew A IC743
+1 CP Creative Writing (ELA Tm) 2(A-E) S1 Voss, Marissa E402
+1 CP Creative Writing 4(A-E) S1 DeShay, Erika P E204
+1 CP Creative Writing 6(A-E) S1 Voss, Marissa E402
+1 CP Creative Writing 1(A-E) S2 Gustafson, Matthew A IC743
+1 CP Creative Writing (ELA Tm) 2(A-E) S2 Voss, Marissa E402
+1 CP Creative Writing 6(A-E) S2 Voss, Marissa E402
+1 CP Creative Writing 7(A-E) S2 Pope, Vernal E209
+1 CP English 10 (ELA Tm) 1(A-E) 20-21 Chapman, Jenna M E205
+1 CP English 10 1(A-E) 20-21 Ramsey, Sarah E200
+1 CP English 10 2(A-E) 20-21 Chapman, Jenna M E205
+1 CP English 10 2(A-E) 20-21 DeShay, Erika P E204
+1 CP English 10 (ELA Tm) 2(A-E) 20-21 Hughes, Loreen E302
+1 CP English 10 3(A-E) 20-21 Fine, Jonathan S. E305
+1 CP English 10 (ELA Tm) 3(A-E) 20-21 Hughes, Loreen E302
+1 CP English 10 (SAS Tm) 3(A-E) 20-21 Raycraft, Brandon E406
+1 CP English 10 4(A-E) 20-21 Fine, Jonathan S. E305
+1 CP English 10 4(A-E) 20-21 Ramsey, Sarah E200
+1 CP English 10 5(A-E) 20-21 Chapman, Jenna M E205
+1 CP English 10 5(A-E) 20-21 Kort, Kimberly IC743
+1 CP English 10 5(A-E) 20-21 Ramsey, Sarah E200
+1 CP English 10 6(A-E) 20-21 DeShay, Erika P E204
+1 CP English 10 6(A-E) 20-21 Hughes, Loreen E302
+1 CP English 10 7(A-E) 20-21 Ramsey, Sarah E200
+1 CP English 10 8(A-E) 20-21 Kort, Kimberly IC743
+1 CP English 10 8(A-E) 20-21 Raycraft, Brandon E406
+1 CP English 11 (ELA Tm) 1(A-E) 20-21 Philipps, Lesley E203
+1 CP English 11 1(A-E) 20-21 Pope, Vernal E209
+1 CP English 11 1(A-E) 20-21 Voss, Marissa E402
+1 CP English 11 2(A-E) 20-21 Pope, Vernal E209
+1 CP English 11 2(A-E) 20-21 Raycraft, Brandon E400
+1 CP English 11 3(A-E) 20-21 Eichorn, Andrew E300
+1 CP English 11 3(A-E) 20-21 Hein, Brie N E402
+1 CP English 11 4(A-E) 20-21 Cave, Emily L E211
+1 CP English 11 4(A-E) 20-21 Pope, Vernal E209
+1 CP English 11 4(A-E) 20-21 Popplewell, Sanae J IC736
+1 CP English 11 4(A-E) 20-21 Voss, Marissa E402
+1 CP English 11 6(A-E) 20-21 Hein, Brie N E404
+1 CP English 11 (ELA Tm) 6(A-E) 20-21 Philipps, Lesley E203
+1 CP English 11 6(A-E) 20-21 Popplewell, Sanae J IC736
+1 CP English 11 6(A-E) 20-21 Raycraft, Brandon E406
+1 CP English 11 7(A-E) 20-21 Philipps, Lesley E203
+1 CP English 11 7(A-E) 20-21 Raycraft, Brandon E406
+1 CP English 11 7(A-E) 20-21 Voss, Marissa E402
+1 CP English 11 8(A-E) 20-21 Popplewell, Sanae J IC736
+1 CP English 9 1(A-E) 20-21 Bartholomew, Stephen J IC737
+1 CP English 9 (ELA Tm) 1(A-E) 20-21 Hein, Brie N E404
+1 CP English 9 2(A-E) 20-21 Cave, Emily L E211
+1 CP English 9 2(A-E) 20-21 Gilbert, Kim M IC736
+1 CP English 9 2(A-E) 20-21 Kellogg-Dunlop, Emily B E404
+1 CP English 9 3(A-E) 20-21 Kellogg-Dunlop, Emily B E404
+1 CP English 9 3(A-E) 20-21 Smith, Susanne IC742
+1 CP English 9 4(A-E) 20-21 Kellogg-Dunlop, Emily B E404
+1 CP English 9 (ELA Tm) 4(A-E) 20-21 Riegler, Kirsten E304
+1 CP English 9 5(A-E) 20-21 Cave, Emily L E211
+1 CP English 9 5(A-E) 20-21 Eng Tch A, A E303
+1 CP English 9 (SAS Tm) 6(A-E) 20-21 Bartholomew, Stephen J IC746
+1 CP English 9 6(A-E) 20-21 Eng Tch A, A E303
+1 CP English 9 7(A-E) 20-21 Hein, Brie N E404
+1 CP English 9 (ELA Tm) 7(A-E) 20-21 Riegler, Kirsten E304
+1 CP English 9 8(A-E) 20-21 Eng Tch A, A E209
+1 CP English 9 8(A-E) 20-21 Hein, Brie N E404
+1 CP Humanities English 9: Amer Studies 2(A-E) 20-21 Park, Yoon E320
+1 CP Humanities English 9: Amer Studies 3(A-E) 20-21 Park, Yoon E320
+1 CP Introduction to College Composition 2(A-E) S1 Swanson, Timothy IC737
+1 CP Introduction to College Composition 7(A-E) S2 Swanson, Timothy IC737
+1 CP Introduction to College Literature 4(A-E) S1 Morris, Joel E203
+1 CP Introduction to College Literature 4(A-E) S2 Morris, Joel E203
+1 CP Journalism 8(A-E) 20-21 Fine, Jonathan S. IC703
+1 CP Journalism Leadership Workshop 8(A-E) S1 Fine, Jonathan S. IC703
+1 CP Journalism Leadership Workshop 8(A-E) S2 Fine, Jonathan S. IC703
+1 CP Multi-Cultural Literature 6(A-E) S2 Park, Yoon E305
+1 CP Narrative Art in Lit and Film 2(A-E) S1 Holladay, Carlye L FA624
+1 CP Narrative Art in Lit and Film 2(A-E) S2 Holladay, Carlye L FA624
+1 CP Science Fiction 1(A-E) S1 Foster, Jason E400
+1 CP Science Fiction 3(A-E) S1 Foster, Jason E400
+1 CP Science Fiction 8(A-E) S1 Chapman, Mary E207
+1 CP Science Fiction 1(A-E) S2 Foster, Jason E400
+1 CP Science Fiction 8(A-E) S2 Chapman, Mary E207
+1 CP Senior Seminar: Lit and Writing 1(A-E) 20-21 Hughes, Loreen E302
+1 CP Senior Seminar: Lit and Writing 1(A-E) 20-21 Rowe, David E211
+1 CP Senior Seminar: Lit and Writing 2(A-E) 20-21 Eichorn, Andrew E300
+1 CP Senior Seminar: Lit and Writing 3(A-E) 20-21 Hughes, Deborah E207
+1 CP Senior Seminar: Lit and Writing 3(A-E) 20-21 Rowe, David E211
+1 CP Senior Seminar: Lit and Writing 4(A-E) 20-21 Hughes, Deborah E207
+1 CP Senior Seminar: Lit and Writing 6(A-E) 20-21 Eichorn, Andrew E300
+1 CP Senior Seminar: Lit and Writing 6(A-E) 20-21 Jacob, Christin E301
+1 CP Senior Seminar: Lit and Writing 7(A-E) 20-21 Jacob, Christin E301
+1 CP Senior Seminar: Lit and Writing 7(A-E) 20-21 Rowe, David E302
+1 CP Senior Seminar: Lit and Writing 8(A-E) 20-21 Hughes, Loreen E302
+1 CP Shakespeare 8(A-E) S1 Doyle, Mhari C E202
+1 CP Shakespeare 4(A-E) S2 Doyle, Mhari C E202
+1 CP Survey of Poetry 4(A-E) S2 DeShay, Erika P E204
+1 CP Writing on Film 6(A-E) S1 Park, Yoon E305
+1 CP Writing on Film 6(A-E) S1 Swanson, Timothy IC737
+1 CP Writing on Film 7(A-E) S1 Swanson, Timothy IC737
+1 CP Writing on Film 2(A-E) S2 Swanson, Timothy IC737
+1 CP Writing on Film 3(A-E) S2 Foster, Jason E400
+1 CP Writing on Film 6(A-E) S2 Swanson, Timothy IC737
+1 Reading/Studying For Success 1(A-E) S2 Kort, Kimberly IC739
+1 Writing Clinic 1(A-E) S1 Kort, Kimberly IC739
+8 Reading Essentials 1 2(A-E) S1 Kort, Kimberly IC739
+8 Reading Essentials 2 2(A-E) S2 Kort, Kimberly IC739
+8 Reading Essentials 3 3(A-E) S1 Kort, Kimberly IC739
+8 Reading Essentials 4 3(A-E) S2 Kort, Kimberly IC739
 
 # SOCIAL STUDIES
-2 *AP Comparative Government/Politics 3(A-E) S2 Singh,Benwari E114 
-2 *AP Comparative Government/Politics 6(A-E) S2 Singh,Benwari E114 
-2 *AP Comparative Government/Politics 7(A-E) S2 Singh,Benwari E114 
-2 *AP European History 8(A-E) 20-21 Pool, Emily IC735 
-2 *AP Human Geography 1(A-E) S1 Buddington, Matthew E111 
-2 *AP Human Geography 2(A-E) S1 Buddington, Matthew E111 
-2 *AP Human Geography 6(A-E) S1 Valdez, David IC744 
-2 *AP Human Geography 7(A-E) S1 Valdez, David IC744 
-2 *AP Human Geography 1(A-E) S2 Buddington, Matthew E111 
-2 *AP Human Geography 2(A-E) S2 Buddington, Matthew E111 
-2 *AP Human Geography 6(A-E) S2 Valdez, David IC744 
-2 *AP Human Geography 7(A-E) S2 Valdez, David IC744 
-2 *AP Macroeconomics 2(A-E) S2 Kraft, Michael E314 
-2 *AP Macroeconomics 3(A-E) S2 Kraft, Michael E314 
-2 *AP Macroeconomics 4(A-E) S2 Knoeckel, David E316 
-2 *AP Macroeconomics 6(A-E) S2 Knoeckel, David E316 
-2 *AP Macroeconomics 7(A-E) S2 Knoeckel, David E316 
-2 *AP Microeconomics 1(A-E) S1 Knoeckel, David E316 
-2 *AP Microeconomics 2(A-E) S1 Kraft, Michael E314 
-2 *AP Microeconomics 3(A-E) S1 Kraft, Michael E314 
-2 *AP Microeconomics 4(A-E) S1 Knoeckel, David E316 
-2 *AP Microeconomics 6(A-E) S1 Knoeckel, David E316 
-2 *AP Microeconomics 6(A-E) S1 Woolsey, Fletcher E314 
-2 *AP Microeconomics 7(A-E) S1 Knoeckel, David E316 
-2 *AP Seminar 1(A-E) 20-21 Best, Jodi IC735 
-2 *AP Seminar 2(A-E) 20-21 Best, Jodi IC735 
-2 *AP US Government And Politics 1(A-E) S1 Michel, Thomas E401 
-2 *AP US Government And Politics 2(A-E) S1 Michel, Thomas E401 
-2 *AP US Government And Politics 3(A-E) S1 Singh, Benwari E114 
-2 *AP US Government And Politics 4(A-E) S1 Woolsey, Fletcher E314 
-2 *AP US Government And Politics 6(A-E) S1 Singh, Benwari E114 
-2 *AP US Government And Politics 7(A-E) S1 Singh, Benwari E114 
-2 *AP US Government And Politics 7(A-E) S1 Woolsey, Fletcher E314 
-2 *AP US Government And Politics 1(A-E) S2 Michel, Thomas E401 
-2 *AP US Government And Politics 2(A-E) S2 Michel, Thomas E401 
-2 *AP US Government And Politics 3(A-E) S2 Michel, Thomas E401 
-2 *AP US Government And Politics 4(A-E) S2 Woolsey, Fletcher E314 
-2 *AP US Government And Politics 6(A-E) S2 Woolsey, Fletcher E314 
-
-2 *AP US Government And Politics 7(A-E) S2 Woolsey, Fletcher E314 
-2 *AP US History (9th Grade) 1(A-E) 20-21 Singh, Benwari E114 
-2 *AP US History (9th Grade) 2(A-E) 20-21 Singh, Benwari E114 
-2 *AP US History (9th Grade) 3(A-E) 20-21 Decesare, Virginia E113 
-2 *AP US History 4(A-E) 20-21 Decesare, Virginia E113 
-2 *AP World History 1(A-E) 20-21 Ingles, Julie R E109 
-2 *AP World History 2(A-E) 20-21 Jordan, Ashley E E109 
-2 *AP World History 3(A-E) 20-21 Best, Jodi IC735 
-2 *AP World History 5(A-E) 20-21 Best, Jodi IC735 
-2 *AP World History 6(A-E) 20-21 Best, Jodi IC735 
-2 *AP World History 7(A-E) 20-21 Ingles, Julie R E109 
-2 American Government 4(A-E) S1 Zepelin, Noah E118 
-2 CP American Government 1(A-E) S1 Bybee, Kristina J E113 
-2 CP American Government (SAS Tm) 2(A-E) S1 Kirkpatrick, Timothy E306 
-2 CP American Government (ELA Tm) 3(A-E) S1 Smith, Joseph C E107 
-2 CP American Government 3(A-E) S1 SS Tch A, A E312 
-2 CP American Government 4(A-E) S1 Kirkpatrick, Timothy E306 
-2 CP American Government 4(A-E) S1 Smith, Joseph C E107 
-2 CP American Government 4(A-E) S1 SS Tch C, C E116 
-2 CP American Government 6(A-E) S1 Michel, Thomas E401 
-2 CP American Government 7(A-E) S1 Bybee, Kristina J E318 
-2 CP American Government 8(A-E) S1 Bybee, Kristina J E316 
-2 CP American Government 8(A-E) S1 Michel, Thomas E401 
-2 CP American Government 1(A-E) S2 Bybee, Kristina J E113 
-2 CP American Government 2(A-E) S2 Kirkpatrick, Timothy E306 
-2 CP American Government 3(A-E) S2 Smith, Joseph C E107 
-2 CP American Government 4(A-E) S2 Kirkpatrick, Timothy E306 
-2 CP American Government 4(A-E) S2 Smith, Joseph C E107 
-2 CP American Government 4(A-E) S2 SS Tch C, C E116 
-2 CP American Government 6(A-E) S2 Michel, Thomas E401 
-2 CP American Government 7(A-E) S2 Bybee, Kristina J E318 
-2 CP American Government 8(A-E) S2 Bybee, Kristina J E316 
-2 CP American History Through Music 3(A-E) S1 Michel, Thomas E401 
-2 CP Economics 4(A-E) S1 Weiss, Matthew W E403 
-2 CP Economics 6(A-E) S1 Weiss, Matthew W E403 
-2 CP Economics 3(A-E) S2 SS Tch A, A E312 
-2 CP Economics 4(A-E) S2 Weiss, Matthew W E403 
-2 CP Economics 6(A-E) S2 Weiss, Matthew W E403 
-
-2 CP History of Ancient Rome 3(A-E) S1 Knoeckel, David E316 
-2 CP History of Ancient Rome 1(A-E) S2 Knoeckel, David E316 
-2 CP History of Ancient Rome 3(A-E) S2 Knoeckel, David E316 
-2 CP Humanities 9 American Studies 2(A-E) 20-21 Moyer, Kerry E318 
-2 CP Humanities 9 American Studies 3(A-E) 20-21 Moyer, Kerry E318 
-2 CP Psychology 1(A-E) S1 Meagher, Chris E312 
-2 CP Psychology 2(A-E) S1 Meagher, Chris E312 
-2 CP Psychology 3(A-E) S1 Smith, Ganelle G IC738 
-2 CP Psychology 4(A-E) S1 Buddington, Matthew E111 
-2 CP Psychology 6(A-E) S1 Smith, Ganelle G IC738 
-2 CP Psychology 7(A-E) S1 Buddington, Matthew E111 
-2 CP Psychology 8(A-E) S1 Meagher, Chris E312 
-2 CP Psychology 1(A-E) S2 Meagher, Chris E312 
-2 CP Psychology 2(A-E) S2 Meagher, Chris E312 
-2 CP Psychology 3(A-E) S2 Smith, Ganelle G IC738 
-2 CP Psychology 4(A-E) S2 Buddington, Matthew E111 
-2 CP Psychology 6(A-E) S2 Smith, Ganelle G IC738 
-2 CP Psychology 7(A-E) S2 Meagher, Chris E312 
-2 CP Psychology 8(A-E) S2 Meagher, Chris E312 
-2 CP Recent America 1945 to Present 2(A-E) S1 Decesare, Virginia E113 
-2 CP Sociology 1(A-E) S1 Woolsey,Fletcher E314 
-2 CP Sociology 2(A-E) S1 Woolsey,Fletcher E316 
-2 CP Sociology 1(A-E) S2 Woolsey,Fletcher E314 
-2 CP Sociology 2(A-E) S2 Woolsey,Fletcher E316 
-2 CP Street Law 1(A-E) S1 Nance, Adam E405 
-2 CP Street Law 2(A-E) S1 Erickson, Cari S. E405 
-2 CP Street Law 3(A-E) S1 Erickson, Cari S. E405 
-2 CP Street Law 4(A-E) S1 Nance, Adam E405 
-2 CP Street Law 6(A-E) S1 Erickson, Cari S. E405 
-2 CP Street Law 1(A-E) S2 Nance, Adam E405 
-2 CP Street Law 2(A-E) S2 Erickson, Cari S. E405 
-2 CP Street Law 3(A-E) S2 Erickson, Cari S. E405 
-2 CP Street Law 4(A-E) S2 Nance, Adam E405 
-2 CP Street Law 6(A-E) S2 Erickson, Cari S. E405 
-2 CP United States History 1(A-E) 20-21 Johnson, Jonathan S E107 
-2 CP United States History 1(A-E) 20-21 Moyer, Kerry E318 
-2 CP United States History 1(A-E) 20-21 Smith, Ganelle G IC738 
-2 CP United States History 1(A-E) 20-21 Yeatts, David B E116 
-2 CP United States History 2(A-E) 20-21 Nance, Adam E403 
-
-2 CP United States History 2(A-E) 20-21 Smith, Ganelle G IC738 
-2 CP United States History 2(A-E) 20-21 Yeatts, David B E116 
-2 CP United States History 2(A-E) 20-21 SS Tch B, B E107 
-2 CP United States History 3(A-E) 20-21 Johnson, Jonathan S E306 
-2 CP United States History (SAS Tm) 3(A-E) 20-21 Jordan, Ashley E E310 
-2 CP United States History 3(A-E) 20-21 SS Tch B, B E111 
-2 CP United States History 3(A-E) 20-21 SS Tch C, C E116 
-2 CP United States History 4(A-E) 20-21 Bybee, Kristina J E114 
-2 CP United States History (SAS Tm) 4(A-E) 20-21 Jordan, Ashley E E310 
-2 CP United States History 5(A-E) 20-21 Bybee, Kristina J E114 
-2 CP United States History 5(A-E) 20-21 Moyer, Kerry E318 
-2 CP United States History (ELA Tm) 5(A-E) 20-21 Smith, Joseph C E107 
-2 CP United States History 5(A-E) 20-21 SS Tch A, A E118 
-2 CP United States History 5(A-E) 20-21 SS Tch B, B IC744 
-2 CP United States History 5(A-E) 20-21 SS Tch C, C E316 
-2 CP United States History 6(A-E) 20-21 SS Tch A, A E107 
-2 CP United States History 6(A-E) 20-21 Kirkpatrick, Timothy E306 
-2 CP United States History 7(A-E) 20-21 Kirkpatrick, Timothy E306 
-2 CP United States History 7(A-E) 20-21 Nance, Adam E405 
-2 CP United States History 7(A-E) 20-21 Smith, Joseph C E107 
-2 CP United States History 7(A-E) 20-21 Jordan, Ashley E E401 
-2 CP United States History 8(A-E) 20-21 Jordan, Ashley E E109 
-2 CP United States History 8(A-E) 20-21 Moyer, Kerry E318 
-2 CP United States History 8(A-E) 20-21 Nance, Adam E306 
-2 CP United States History 8(A-E) 20-21 SS Tch A, A E314 
-2 CP US History 11-12 Sem 1 1(A-E) S1 Zepelin,Noah E118 
-2 CP US History 11-12 Sem 1 3(A-E) S1 Zepelin,Noah E118 
-2 CP US History 11-12 Sem 1 6(A-E) S1 Zepelin,Noah E118 
-2 CP US History 11-12 Sem 2 1(A-E) S2 Zepelin,Noah E118 
-2 CP US History 11-12 Sem 2 3(A-E) S2 Zepelin,Noah E118 
-2 CP US History 11-12 Sem 2 6(A-E) S2 Zepelin,Noah E118 
-2 CP Western Philosophy and Ethics 4(A-E) S1 Meagher,Chris E312 
-2 CP Western Philosophy and Ethics 7(A-E) S1 Meagher,Chris E312 
-2 CP Western Philosophy and Ethics 4(A-E) S2 Meagher,Chris E312 
-2 CP World Geography 6(A-E) S1 Buddington,Matthew E107 
-2 CP World Geography 6(A-E) S2 Buddington,Matthew E107 
-2 CP World Geography 7(A-E) S2 Buddington,Matthew E107 
-2 CP World History 1(A-E) 20-21 SS Tch A, A IC744 
-2 CP World History 1(A-E) 20-21 Weiss, Matthew W E403 
-2 CP World History 2(A-E) 20-21 Pool, Emily E118 
-2 CP World History 2(A-E) 20-21 Valdez, David IC744 
-
-2 CP World History 3(A-E) 20-21 Ingles, Julie R E109 
-2 CP World History 3(A-E) 20-21 Valdez, David IC744 
-2 CP World History 3(A-E) 20-21 Weiss, Matthew W E403 
-2 CP World History 4(A-E) 20-21 Pool, Emily E401 
-2 CP World History 4(A-E) 20-21 Valdez, David IC744 
-2 CP World History 5(A-E) 20-21 Erickson, Cari S. E405 
-2 CP World History 5(A-E) 20-21 Hamilton, Andrew E116 
-2 CP World History 5(A-E) 20-21 Ingles, Julie R E109 
-2 CP World History 5(A-E) 20-21 Johnson, Jonathan S E312 
-2 CP World History 5(A-E) 20-21 Pool, Emily E401 
-2 CP World History 5(A-E) 20-21 Yeatts, David B E403 
-2 CP World History 6(A-E) 20-21 Hamilton, Andrew E116 
-2 CP World History 6(A-E) 20-21 Ingles, Julie R E109 
-2 CP World History 6(A-E) 20-21 Johnson, Jonathan S E312 
-2 CP World History 7(A-E) 20-21 Hamilton, Andrew E116 
-2 CP World History 7(A-E) 20-21 Pool, Emily IC735 
-2 CP World History 7(A-E) 20-21 Yeatts, David B E403 
-2 CP World History 7(A-E) 20-21 SS Tch B, B IC738 
-2 CP World History 8(A-E) 20-21 Erickson, Cari S. E405 
-2 CP World History 8(A-E) 20-21 Johnson, Jonathan S E114 
-2 CP World History 8(A-E) 20-21 SS Tch B, B IC738 
-2 CP World History 8(A-E) 20-21 Yeatts, David B E403 
-2 CP World Religions 8(A-E) S1 Zepelin,Noah E118 
-2 CP World Religions 4(A-E) S2 Zepelin,Noah E118 
-2 CP World Religions 7(A-E) S2 Zepelin,Noah E118 
-2 CP World War 1 and 2 6(A-E) S1 Decesare,Virginia E113 
-2 CP World War 1 and 2 7(A-E) S1 Decesare,Virginia E113 
-2 CP World War 1 and 2 2(A-E) S2 Decesare,Virginia E113 
-2 CP World War 1 and 2 6(A-E) S2 Decesare,Virginia E113 
-2 CP World War 1 and 2 7(A-E) S2 Decesare,Virginia E113 
-2 US History 1(A-E) 20-21 Kirkpatrick, Timothy E306 
+2 *AP Comparative Government/Politics 3(A-E) S2 Singh, Benwari E114
+2 *AP Comparative Government/Politics 6(A-E) S2 Singh, Benwari E114
+2 *AP Comparative Government/Politics 7(A-E) S2 Singh, Benwari E114
+2 *AP European History 8(A-E) 20-21 Pool, Emily IC735
+2 *AP Human Geography 1(A-E) S1 Buddington, Matthew E111
+2 *AP Human Geography 2(A-E) S1 Buddington, Matthew E111
+2 *AP Human Geography 6(A-E) S1 Valdez, David IC744
+2 *AP Human Geography 7(A-E) S1 Valdez, David IC744
+2 *AP Human Geography 1(A-E) S2 Buddington, Matthew E111
+2 *AP Human Geography 2(A-E) S2 Buddington, Matthew E111
+2 *AP Human Geography 6(A-E) S2 Valdez, David IC744
+2 *AP Human Geography 7(A-E) S2 Valdez, David IC744
+2 *AP Macroeconomics 2(A-E) S2 Kraft, Michael E314
+2 *AP Macroeconomics 3(A-E) S2 Kraft, Michael E314
+2 *AP Macroeconomics 4(A-E) S2 Knoeckel, David E316
+2 *AP Macroeconomics 6(A-E) S2 Knoeckel, David E316
+2 *AP Macroeconomics 7(A-E) S2 Knoeckel, David E316
+2 *AP Microeconomics 1(A-E) S1 Knoeckel, David E316
+2 *AP Microeconomics 2(A-E) S1 Kraft, Michael E314
+2 *AP Microeconomics 3(A-E) S1 Kraft, Michael E314
+2 *AP Microeconomics 4(A-E) S1 Knoeckel, David E316
+2 *AP Microeconomics 6(A-E) S1 Knoeckel, David E316
+2 *AP Microeconomics 6(A-E) S1 Woolsey, Fletcher E314
+2 *AP Microeconomics 7(A-E) S1 Knoeckel, David E316
+2 *AP Seminar 1(A-E) 20-21 Best, Jodi IC735
+2 *AP Seminar 2(A-E) 20-21 Best, Jodi IC735
+2 *AP US Government And Politics 1(A-E) S1 Michel, Thomas E401
+2 *AP US Government And Politics 2(A-E) S1 Michel, Thomas E401
+2 *AP US Government And Politics 3(A-E) S1 Singh, Benwari E114
+2 *AP US Government And Politics 4(A-E) S1 Woolsey, Fletcher E314
+2 *AP US Government And Politics 6(A-E) S1 Singh, Benwari E114
+2 *AP US Government And Politics 7(A-E) S1 Singh, Benwari E114
+2 *AP US Government And Politics 7(A-E) S1 Woolsey, Fletcher E314
+2 *AP US Government And Politics 1(A-E) S2 Michel, Thomas E401
+2 *AP US Government And Politics 2(A-E) S2 Michel, Thomas E401
+2 *AP US Government And Politics 3(A-E) S2 Michel, Thomas E401
+2 *AP US Government And Politics 4(A-E) S2 Woolsey, Fletcher E314
+2 *AP US Government And Politics 6(A-E) S2 Woolsey, Fletcher E314
+2 *AP US Government And Politics 7(A-E) S2 Woolsey, Fletcher E314
+2 *AP US History (9th Grade) 1(A-E) 20-21 Singh, Benwari E114
+2 *AP US History (9th Grade) 2(A-E) 20-21 Singh, Benwari E114
+2 *AP US History (9th Grade) 3(A-E) 20-21 Decesare, Virginia E113
+2 *AP US History 4(A-E) 20-21 Decesare, Virginia E113
+2 *AP World History 1(A-E) 20-21 Ingles, Julie R E109
+2 *AP World History 2(A-E) 20-21 Jordan, Ashley E E109
+2 *AP World History 3(A-E) 20-21 Best, Jodi IC735
+2 *AP World History 5(A-E) 20-21 Best, Jodi IC735
+2 *AP World History 6(A-E) 20-21 Best, Jodi IC735
+2 *AP World History 7(A-E) 20-21 Ingles, Julie R E109
+2 American Government 4(A-E) S1 Zepelin, Noah E118
+2 CP American Government 1(A-E) S1 Bybee, Kristina J E113
+2 CP American Government (SAS Tm) 2(A-E) S1 Kirkpatrick, Timothy E306
+2 CP American Government (ELA Tm) 3(A-E) S1 Smith, Joseph C E107
+2 CP American Government 3(A-E) S1 SS Tch A, A E312
+2 CP American Government 4(A-E) S1 Kirkpatrick, Timothy E306
+2 CP American Government 4(A-E) S1 Smith, Joseph C E107
+2 CP American Government 4(A-E) S1 SS Tch C, C E116
+2 CP American Government 6(A-E) S1 Michel, Thomas E401
+2 CP American Government 7(A-E) S1 Bybee, Kristina J E318
+2 CP American Government 8(A-E) S1 Bybee, Kristina J E316
+2 CP American Government 8(A-E) S1 Michel, Thomas E401
+2 CP American Government 1(A-E) S2 Bybee, Kristina J E113
+2 CP American Government 2(A-E) S2 Kirkpatrick, Timothy E306
+2 CP American Government 3(A-E) S2 Smith, Joseph C E107
+2 CP American Government 4(A-E) S2 Kirkpatrick, Timothy E306
+2 CP American Government 4(A-E) S2 Smith, Joseph C E107
+2 CP American Government 4(A-E) S2 SS Tch C, C E116
+2 CP American Government 6(A-E) S2 Michel, Thomas E401
+2 CP American Government 7(A-E) S2 Bybee, Kristina J E318
+2 CP American Government 8(A-E) S2 Bybee, Kristina J E316
+2 CP American History Through Music 3(A-E) S1 Michel, Thomas E401
+2 CP Economics 4(A-E) S1 Weiss, Matthew W E403
+2 CP Economics 6(A-E) S1 Weiss, Matthew W E403
+2 CP Economics 3(A-E) S2 SS Tch A, A E312
+2 CP Economics 4(A-E) S2 Weiss, Matthew W E403
+2 CP Economics 6(A-E) S2 Weiss, Matthew W E403
+2 CP History of Ancient Rome 3(A-E) S1 Knoeckel, David E316
+2 CP History of Ancient Rome 1(A-E) S2 Knoeckel, David E316
+2 CP History of Ancient Rome 3(A-E) S2 Knoeckel, David E316
+2 CP Humanities 9 American Studies 2(A-E) 20-21 Moyer, Kerry E318
+2 CP Humanities 9 American Studies 3(A-E) 20-21 Moyer, Kerry E318
+2 CP Psychology 1(A-E) S1 Meagher, Chris E312
+2 CP Psychology 2(A-E) S1 Meagher, Chris E312
+2 CP Psychology 3(A-E) S1 Smith, Ganelle G IC738
+2 CP Psychology 4(A-E) S1 Buddington, Matthew E111
+2 CP Psychology 6(A-E) S1 Smith, Ganelle G IC738
+2 CP Psychology 7(A-E) S1 Buddington, Matthew E111
+2 CP Psychology 8(A-E) S1 Meagher, Chris E312
+2 CP Psychology 1(A-E) S2 Meagher, Chris E312
+2 CP Psychology 2(A-E) S2 Meagher, Chris E312
+2 CP Psychology 3(A-E) S2 Smith, Ganelle G IC738
+2 CP Psychology 4(A-E) S2 Buddington, Matthew E111
+2 CP Psychology 6(A-E) S2 Smith, Ganelle G IC738
+2 CP Psychology 7(A-E) S2 Meagher, Chris E312
+2 CP Psychology 8(A-E) S2 Meagher, Chris E312
+2 CP Recent America 1945 to Present 2(A-E) S1 Decesare, Virginia E113
+2 CP Sociology 1(A-E) S1 Woolsey, Fletcher E314
+2 CP Sociology 2(A-E) S1 Woolsey, Fletcher E316
+2 CP Sociology 1(A-E) S2 Woolsey, Fletcher E314
+2 CP Sociology 2(A-E) S2 Woolsey, Fletcher E316
+2 CP Street Law 1(A-E) S1 Nance, Adam E405
+2 CP Street Law 2(A-E) S1 Erickson, Cari S. E405
+2 CP Street Law 3(A-E) S1 Erickson, Cari S. E405
+2 CP Street Law 4(A-E) S1 Nance, Adam E405
+2 CP Street Law 6(A-E) S1 Erickson, Cari S. E405
+2 CP Street Law 1(A-E) S2 Nance, Adam E405
+2 CP Street Law 2(A-E) S2 Erickson, Cari S. E405
+2 CP Street Law 3(A-E) S2 Erickson, Cari S. E405
+2 CP Street Law 4(A-E) S2 Nance, Adam E405
+2 CP Street Law 6(A-E) S2 Erickson, Cari S. E405
+2 CP United States History 1(A-E) 20-21 Johnson, Jonathan S E107
+2 CP United States History 1(A-E) 20-21 Moyer, Kerry E318
+2 CP United States History 1(A-E) 20-21 Smith, Ganelle G IC738
+2 CP United States History 1(A-E) 20-21 Yeatts, David B E116
+2 CP United States History 2(A-E) 20-21 Nance, Adam E403
+2 CP United States History 2(A-E) 20-21 Smith, Ganelle G IC738
+2 CP United States History 2(A-E) 20-21 Yeatts, David B E116
+2 CP United States History 2(A-E) 20-21 SS Tch B, B E107
+2 CP United States History 3(A-E) 20-21 Johnson, Jonathan S E306
+2 CP United States History (SAS Tm) 3(A-E) 20-21 Jordan, Ashley E E310
+2 CP United States History 3(A-E) 20-21 SS Tch B, B E111
+2 CP United States History 3(A-E) 20-21 SS Tch C, C E116
+2 CP United States History 4(A-E) 20-21 Bybee, Kristina J E114
+2 CP United States History (SAS Tm) 4(A-E) 20-21 Jordan, Ashley E E310
+2 CP United States History 5(A-E) 20-21 Bybee, Kristina J E114
+2 CP United States History 5(A-E) 20-21 Moyer, Kerry E318
+2 CP United States History (ELA Tm) 5(A-E) 20-21 Smith, Joseph C E107
+2 CP United States History 5(A-E) 20-21 SS Tch A, A E118
+2 CP United States History 5(A-E) 20-21 SS Tch B, B IC744
+2 CP United States History 5(A-E) 20-21 SS Tch C, C E316
+2 CP United States History 6(A-E) 20-21 SS Tch A, A E107
+2 CP United States History 6(A-E) 20-21 Kirkpatrick, Timothy E306
+2 CP United States History 7(A-E) 20-21 Kirkpatrick, Timothy E306
+2 CP United States History 7(A-E) 20-21 Nance, Adam E405
+2 CP United States History 7(A-E) 20-21 Smith, Joseph C E107
+2 CP United States History 7(A-E) 20-21 Jordan, Ashley E E401
+2 CP United States History 8(A-E) 20-21 Jordan, Ashley E E109
+2 CP United States History 8(A-E) 20-21 Moyer, Kerry E318
+2 CP United States History 8(A-E) 20-21 Nance, Adam E306
+2 CP United States History 8(A-E) 20-21 SS Tch A, A E314
+2 CP US History 11-12 Sem 1 1(A-E) S1 Zepelin, Noah E118
+2 CP US History 11-12 Sem 1 3(A-E) S1 Zepelin, Noah E118
+2 CP US History 11-12 Sem 1 6(A-E) S1 Zepelin, Noah E118
+2 CP US History 11-12 Sem 2 1(A-E) S2 Zepelin, Noah E118
+2 CP US History 11-12 Sem 2 3(A-E) S2 Zepelin, Noah E118
+2 CP US History 11-12 Sem 2 6(A-E) S2 Zepelin, Noah E118
+2 CP Western Philosophy and Ethics 4(A-E) S1 Meagher, Chris E312
+2 CP Western Philosophy and Ethics 7(A-E) S1 Meagher, Chris E312
+2 CP Western Philosophy and Ethics 4(A-E) S2 Meagher, Chris E312
+2 CP World Geography 6(A-E) S1 Buddington, Matthew E107
+2 CP World Geography 6(A-E) S2 Buddington, Matthew E107
+2 CP World Geography 7(A-E) S2 Buddington, Matthew E107
+2 CP World History 1(A-E) 20-21 SS Tch A, A IC744
+2 CP World History 1(A-E) 20-21 Weiss, Matthew W E403
+2 CP World History 2(A-E) 20-21 Pool, Emily E118
+2 CP World History 2(A-E) 20-21 Valdez, David IC744
+2 CP World History 3(A-E) 20-21 Ingles, Julie R E109
+2 CP World History 3(A-E) 20-21 Valdez, David IC744
+2 CP World History 3(A-E) 20-21 Weiss, Matthew W E403
+2 CP World History 4(A-E) 20-21 Pool, Emily E401
+2 CP World History 4(A-E) 20-21 Valdez, David IC744
+2 CP World History 5(A-E) 20-21 Erickson, Cari S. E405
+2 CP World History 5(A-E) 20-21 Hamilton, Andrew E116
+2 CP World History 5(A-E) 20-21 Ingles, Julie R E109
+2 CP World History 5(A-E) 20-21 Johnson, Jonathan S E312
+2 CP World History 5(A-E) 20-21 Pool, Emily E401
+2 CP World History 5(A-E) 20-21 Yeatts, David B E403
+2 CP World History 6(A-E) 20-21 Hamilton, Andrew E116
+2 CP World History 6(A-E) 20-21 Ingles, Julie R E109
+2 CP World History 6(A-E) 20-21 Johnson, Jonathan S E312
+2 CP World History 7(A-E) 20-21 Hamilton, Andrew E116
+2 CP World History 7(A-E) 20-21 Pool, Emily IC735
+2 CP World History 7(A-E) 20-21 Yeatts, David B E403
+2 CP World History 7(A-E) 20-21 SS Tch B, B IC738
+2 CP World History 8(A-E) 20-21 Erickson, Cari S. E405
+2 CP World History 8(A-E) 20-21 Johnson, Jonathan S E114
+2 CP World History 8(A-E) 20-21 SS Tch B, B IC738
+2 CP World History 8(A-E) 20-21 Yeatts, David B E403
+2 CP World Religions 8(A-E) S1 Zepelin, Noah E118
+2 CP World Religions 4(A-E) S2 Zepelin, Noah E118
+2 CP World Religions 7(A-E) S2 Zepelin, Noah E118
+2 CP World War 1 and 2 6(A-E) S1 Decesare, Virginia E113
+2 CP World War 1 and 2 7(A-E) S1 Decesare, Virginia E113
+2 CP World War 1 and 2 2(A-E) S2 Decesare, Virginia E113
+2 CP World War 1 and 2 6(A-E) S2 Decesare, Virginia E113
+2 CP World War 1 and 2 7(A-E) S2 Decesare, Virginia E113
+2 US History 1(A-E) 20-21 Kirkpatrick, Timothy E306
 
 # MATH
-3 *Abstract Math/Linear Algebra Honors 2(A-E) 20-21 Matuschek, Robert J W305 
-3 *Algebra 2/Trig Honors 1(A-E) 20-21 Barber, Michelle W553 
-3 *Algebra 2/Trig Honors 1(A-E) 20-21 Lefebre, Cory W544 
-3 *Algebra 2/Trig Honors 2(A-E) 20-21 Barber, Michelle W553 
-3 *Algebra 2/Trig Honors 2(A-E) 20-21 Reyes, Natalie S W308 
-3 *Algebra 2/Trig Honors 3(A-E) 20-21 Hughes, Leann M W434 
-3 *Algebra 2/Trig Honors 3(A-E) 20-21 Reyes, Natalie S W308 
-3 *Algebra 2/Trig Honors 4(A-E) 20-21 McDavid, Delisa W307 
-3 *Algebra 2/Trig Honors 5(A-E) 20-21 McDavid, Delisa W307 
-3 *Algebra 2/Trig Honors 6(A-E) 20-21 Lefebre, Cory W544 
-3 *Algebra 2/Trig Honors 7(A-E) 20-21 Hughes, Leann M W434 
-3 *Algebra 2/Trig Honors 7(A-E) 20-21 McDavid, Delisa W307 
-3 *Algebra 2/Trig Honors 8(A-E) 20-21 Lefebre, Cory W441 
-3 *AP Calculus AB 1(A-E) 20-21 Nye, Andrea S W551 
-3 *AP Calculus AB 2(A-E) 20-21 Nye, Andrea S W551 
-3 *AP Calculus AB 3(A-E) 20-21 King, Jennifer L W438 
-3 *AP Calculus AB 4(A-E) 20-21 Nye, Andrea S W551 
-3 *AP Calculus AB 6(A-E) 20-21 King, Jennifer L W438 
-3 *AP Calculus AB 7(A-E) 20-21 King, Jennifer L W438 
-3 *AP Calculus BC 1(A-E) 20-21 Carlson, Jill W310 
-3 *AP Calculus BC 2(A-E) 20-21 Dertinger, Kimberly W307 
-3 *AP Calculus BC 3(A-E) 20-21 Carlson, Jill W310 
-3 *AP Calculus BC 4(A-E) 20-21 Dertinger, Kimberly W441 
-3 *AP Calculus BC 7(A-E) 20-21 Carlson, Jill W310 
-3 *AP Calculus BC 8(A-E) 20-21 Lewis, Johanna W437 
-3 *AP Computer Science A 2(A-E) 20-21Mth Tch B, B W431 
-3 *AP Computer Science A 3(A-E) 20-21Mth Tch B, B W431 
-3 *AP Computer Science A 7(A-E) 20-21Mth Tch B, B W431 
-3 *AP Computer Science Principles 1(A-E) S2 Tomcej, Igor W431 
-3 *AP Computer Science Principles 8(A-E) S2 Mth Tch B, B W431 
-3 *AP Statistics 1(A-E) 20-21 Mimmack, Richard Karl W435 
-3 *AP Statistics 2(A-E) 20-21 Mimmack, Richard Karl W435 
-3 *AP Statistics 3(A-E) 20-21 Mimmack, Richard Karl W435 
-3 *AP Statistics 6(A-E) 20-21 Lewis, Johanna W437 
-3 *AP Statistics 7(A-E) 20-21 Lewis, Johanna W437 
-3 *Calculus 3 Honors 3(A-E) S1 Matuschek, Robert J W439 
-3 *Calculus 3 Honors 7(A-E) S1 Matuschek, Robert J W439 
-
-3 *Data Structures and Algorithms 4(A-E) S1 Mth Tch B, B W431 
-3 *Differential Equations Honors 3(A-E) S2 Matuschek, Robert J W439 
-3 *Differential Equations Honors 7(A-E) S2 Matuschek, Robert J W439 
-3 *Geometry Honors 1(A-E) 20-21 Dertinger, Kent W441 
-3 *Geometry Honors 2(A-E) 20-21 Dertinger, Kent W441 
-3 *Geometry Honors 3(A-E) 20-21 Dertinger, Kent W441 
-3 *Geometry Honors 5(A-E) 20-21 Padavic, James W544 
-3 *Geometry Honors 5(A-E) 20-21 Peterson, Timothy D W549 
-3 *Geometry Honors 7(A-E) 20-21 Peterson, Timothy D W549 
-3 *Geometry Honors 8(A-E) 20-21 Padavic, James W544 
-3 *IOS Application Development Honors 4(A-E) S2 Mth Tch B, B W431 
-3 *Pre Calculus Honors 1(A-E) 20-21 Goeglein, Dara W312 
-3 *Pre Calculus Honors 2(A-E) 20-21 Goeglein, Dara W312 
-3 *Pre Calculus Honors 2(A-E) 20-21 Padavic, James W544 
-3 *Pre Calculus Honors 3(A-E) 20-21 Meyer, Kathi W306 
-3 *Pre Calculus Honors 4(A-E) 20-21 Meyer, Kathi W306 
-3 *Pre Calculus Honors 5(A-E) 20-21 Ormsby, Kevin W439 
-3 *Pre Calculus Honors 6(A-E) 20-21 Meyer, Kathi W306 
-3 *Pre Calculus Honors 7(A-E) 20-21 Padavic, James W544 
-3 *Pre Calculus Honors 8(A-E) 20-21 Ormsby, Kevin W439 
-3 Business Calculus 7(A-E) S1 Dwyer, Lawrence W548 
-3 Business Calculus 7(A-E) S2 Stirrup, Christopher R W548 
-3 Calculus 1 1(A-E) 20-21 Berndt, Michael W436 
-3 Calculus 1 7(A-E) 20-21 Berndt, Michael W436 
-3 College Algebra 1(A-E) S1 Quayle, Cara M W305 
-3 College Algebra 3(A-E) S1 Quayle, Cara M W542 
-3 College Algebra 6(A-E) S1 Haupert, Eric W308 
-3 College Algebra 7(A-E) S1 Quayle, Cara M W542 
-3 College Algebra 1(A-E) S2 Quayle, Cara M W305 
-3 College Algebra 3(A-E) S2 Quayle, Cara M W542 
-3 College Algebra 6(A-E) S2 Haupert, Eric W308 
-3 College Algebra 7(A-E) S2 Quayle, Cara M W542 
-3 College Trigonometry 3(A-E) S1 Tomcej,Igor W433 
-3 College Trigonometry 7(A-E) S1 Tomcej,Igor W553 
-3 College Trigonometry 3(A-E) S2 Tomcej,Igor W433 
-3 College Trigonometry 7(A-E) S2 Tomcej,Igor W553 
-
-3 CP Accelerated Algebra 1 1(A-E) 20-21 Gee, Jeremey W542 
-3 CP Accelerated Algebra 1 1(A-E) 20-21 Reyes, Natalie S W308 
-3 CP Accelerated Algebra 1 2(A-E) 20-21 Gee, Jeremey W542 
-3 CP Accelerated Algebra 1 2(A-E) 20-21 Haupert, Eric W549 
-3 CP Accelerated Algebra 1 3(A-E) 20-21 Dwyer, Lawrence W545 
-3 CP Accelerated Algebra 1 4(A-E) 20-21 Reyes, Natalie S W308 
-3 CP Accelerated Algebra 1 5(A-E) 20-21 Gee, Jeremey W542 
-3 CP Accelerated Algebra 1 5(A-E) 20-21 Mth Tch A, A W551 
-3 CP Accelerated Algebra 1 6(A-E) 20-21 Mth Tch A, A W551 
-3 CP Accelerated Algebra 1 7(A-E) 20-21 Haupert, Eric W308 
-3 CP Accelerated Algebra 1 8(A-E) 20-21 Dwyer, Lawrence W549 
-3 CP Accelerated Algebra 1 8(A-E) 20-21 Mth Tch A, A W436 
-3 CP Accelerated Algebra 2 1(A-E) 20-21 Evans, Clinton T W547 
-3 CP Accelerated Algebra 2 1(A-E) 20-21 Shuman Smith, Kimberly F W545 
-3 CP Accelerated Algebra 2 2(A-E) 20-21 Evans, Clinton T W547 
-3 CP Accelerated Algebra 2 2(A-E) 20-21 Shuman Smith, Kimberly F W545 
-3 CP Accelerated Algebra 2 3(A-E) 20-21 Padavic, James W544 
-3 CP Accelerated Algebra 2 3(A-E) 20-21 Stirrup, Christopher R W548 
-3 CP Accelerated Algebra 2 4(A-E) 20-21 Haupert, Eric W544 
-3 CP Accelerated Algebra 2 4(A-E) 20-21 Peterson, Kari B W305 
-3 CP Accelerated Algebra 2 5(A-E) 20-21 Peterson, Kari B W305 
-3 CP Accelerated Algebra 2 6(A-E) 20-21 Gee, Jeremey W542 
-3 CP Accelerated Algebra 2 7(A-E) 20-21 Peterson, Kari B W305 
-3 CP Accelerated Algebra 2 7(A-E) 20-21 Shuman Smith, Kimberly F W545 
-3 CP Accelerated Algebra 2 8(A-E) 20-21 Gee, Jeremey W542 
-3 CP Accelerated Algebra 2 8(A-E) 20-21 Haupert, Eric W308 
-3 CP Accelerated Geometry 1(A-E) 20-21 McDavid, Delisa W307 
-3 CP Accelerated Geometry 1(A-E) 20-21 Ormsby, Kevin W439 
-3 CP Accelerated Geometry 2(A-E) 20-21 Meyer, Kathi W306 
-3 CP Accelerated Geometry 2(A-E) 20-21 Ormsby, Kevin W439 
-3 CP Accelerated Geometry 3(A-E) 20-21 McDavid, Delisa W307 
-3 CP Accelerated Geometry 3(A-E) 20-21 Peterson, Kari B W305 
-3 CP Accelerated Geometry 4(A-E) 20-21 Goeglein, Dara W312 
-3 CP Accelerated Geometry 4(A-E) 20-21 Shuman Smith, Kimberly F W545 
-3 CP Accelerated Geometry 5(A-E) 20-21 Goeglein, Dara W312 
-3 CP Accelerated Geometry 5(A-E) 20-21 Shuman Smith, Kimberly F W545 
-3 CP Accelerated Geometry 6(A-E) 20-21 Ormsby, Kevin W439 
-3 CP Accelerated Geometry 7(A-E) 20-21 Goeglein, Dara W312 
-3 CP Accelerated Geometry 7(A-E) 20-21 Meyer, Kathi W306 
-3 CP Accelerated Geometry 8(A-E) 20-21 Peterson, Kari B W305 
-3 CP Algebra 1 1(A-E) 20-21 Stirrup, Christopher R W548 
-
-3 CP Algebra 1 1(A-E) 20-21 Mth Tch A, A W437 
-3 CP Algebra 1 2(A-E) 20-21 Mth Tch A, A W437 
-3 CP Algebra 1 (SAS Tm) 3(A-E) 20-21 Lewis, Johanna W437 
-3 CP Algebra 1 (SAS Tm) 3(A-E) 20-21 Dempsey, Annemarie W437 
-3 CP Algebra 1 3(A-E) 20-21 Evans, Clinton T W547 
-3 CP Algebra 1 (SAS Tm) 4(A-E) 20-21 Lewis, Johanna W437 
-3 CP Algebra 1 (SAS Tm) 4(A-E) 20-21 Dempsey, Annemarie W437 
-3 CP Algebra 1 (SAS Tm) 5(A-E) 20-21 Evans, Clinton T W547 
-3 CP Algebra 1 (SAS Tm) 5(A-E) 20-21 Vanecko, Jaime W547 
-3 CP Algebra 1 5(A-E) 20-21 Stirrup, Christopher R W548 
-3 CP Algebra 1 6(A-E) 20-21 Stirrup, Christopher R W548 
-3 CP Algebra 1 7(A-E) 20-21 Evans, Clinton T W547 
-3 CP Algebra 2 1(A-E) 20-21 Peterson, Timothy D W549 
-3 CP Algebra 2 2(A-E) 20-21 Hamill, Tamara L W540 
-3 CP Algebra 2 3(A-E) 20-21 Hamill, Tamara L W540 
-3 CP Algebra 2 3(A-E) 20-21 Peterson, Timothy D W549 
-3 CP Algebra 2 4(A-E) 20-21 Peterson, Timothy D W549 
-3 CP Algebra 2 6(A-E) 20-21 Mimmack, Richard Karl W435 
-3 CP Algebra 2 7(A-E) 20-21 Hamill, Tamara L W540 
-3 CP Algebra 2 7(A-E) 20-21 Mimmack, Richard Karl W435 
-3 CP Geometry (SAS Tm) 1(A-E) 20-21 Hughes, Leann M W434 
-3 CP Geometry (SAS Tm) 1(A-E) 20-21 Vanecko, Jaime W434 
-3 CP Geometry 2(A-E) 20-21 Carlson, Jill W310 
-3 CP Geometry (SAS Tm) 2(A-E) 20-21 Hughes, Leann M W434 
-3 CP Geometry (SAS Tm) 2(A-E) 20-21 Vanecko, Jaime W434 
-3 CP Geometry 3(A-E) 20-21 Barber, Michelle W553 
-3 CP Geometry 3(A-E) 20-21 Lefebre, Cory W551 
-3 CP Geometry 4(A-E) 20-21 Barber, Michelle W553 
-3 CP Geometry 5(A-E) 20-21 Barber, Michelle W553 
-3 CP Geometry 5(A-E) 20-21 Hughes, Leann M W434 
-3 CP Geometry 6(A-E) 20-21 Carlson, Jill W310 
-3 CP Geometry 7(A-E) 20-21 Lefebre, Cory W441 
-3 Integrated Algebra/Geometry 1 3(A-E) 20-21 Dertinger, Kimberly W312 
-3 Integrated Algebra/Geometry 1 3(A-E) 20-21 Bailey, Nathaniel W312 
-3 Integrated Algebra/Geometry 1 6(A-E) 20-21 Dertinger, Kimberly W441 
-3 Integrated Algebra/Geometry 1 6(A-E) 20-21 Bailey, Nathaniel W441 
-3 Intro To Computer Science 1(A-E) S1 Tomcej, Igor W431 
-3 Intro To Computer Science 5(A-E) S1 Tomcej, Igor W431 
-3 Intro To Computer Science 6(A-E) S1 Tomcej, Igor W431 
-3 Intro To Computer Science 8(A-E) S1 Mth Tch B, B W431 
-3 Intro To Computer Science 5(A-E) S2 Tomcej, Igor W431 
-
-3 Intro To Computer Science 6(A-E) S2 Tomcej, Igor W431 
-3Precalculus/Trigonometry 1(A-E) 20-21 King, Jennifer L W438 
-3Precalculus/Trigonometry 2(A-E) 20-21 Berndt, Michael W436 
-3Precalculus/Trigonometry 2(A-E) 20-21 King, Jennifer L W438 
-3Precalculus/Trigonometry 3(A-E) 20-21 Berndt, Michael W436 
-3Precalculus/Trigonometry 4(A-E) 20-21 Quayle, Cara M W542 
-3Precalculus/Trigonometry 6(A-E) 20-21 Quayle, Cara M W434 
-3Precalculus/Trigonometry 6(A-E) 20-21 Berndt, Michael W436 
-3Precalculus/Trigonometry 7(A-E) 20-21 Nye, Andrea S W551 
-3Precalculus/Trigonometry 8(A-E) 20-21 Nye, Andrea S W551 
-3 Probability And Statistics 1(A-E) S1 Hamill, Tamara L W540 
-3 Probability And Statistics 6(A-E) S1 Hamill, Tamara L W540 
-3 Probability And Statistics 1(A-E) S2 Hamill, Tamara L W540 
-3 Probability And Statistics 6(A-E) S2 Hamill, Tamara L W540 
-3 Statistical Analysis 1(A-E) 20-21 Anderson, Paul M W433 
-3 Statistical Analysis 2(A-E) 20-21 Anderson, Paul M W433 
-3 Statistical Analysis 4(A-E) 20-21 Anderson, Paul M W433 
-3 Statistical Analysis 6(A-E) 20-21 Anderson, Paul M W433 
-3 Statistical Analysis 7(A-E) 20-21 Anderson, Paul M W433 
+3 *Abstract Math/Linear Algebra Honors 2(A-E) 20-21 Matuschek, Robert J W305
+3 *Algebra 2/Trig Honors 1(A-E) 20-21 Barber, Michelle W553
+3 *Algebra 2/Trig Honors 1(A-E) 20-21 Lefebre, Cory W544
+3 *Algebra 2/Trig Honors 2(A-E) 20-21 Barber, Michelle W553
+3 *Algebra 2/Trig Honors 2(A-E) 20-21 Reyes, Natalie S W308
+3 *Algebra 2/Trig Honors 3(A-E) 20-21 Hughes, Leann M W434
+3 *Algebra 2/Trig Honors 3(A-E) 20-21 Reyes, Natalie S W308
+3 *Algebra 2/Trig Honors 4(A-E) 20-21 McDavid, Delisa W307
+3 *Algebra 2/Trig Honors 5(A-E) 20-21 McDavid, Delisa W307
+3 *Algebra 2/Trig Honors 6(A-E) 20-21 Lefebre, Cory W544
+3 *Algebra 2/Trig Honors 7(A-E) 20-21 Hughes, Leann M W434
+3 *Algebra 2/Trig Honors 7(A-E) 20-21 McDavid, Delisa W307
+3 *Algebra 2/Trig Honors 8(A-E) 20-21 Lefebre, Cory W441
+3 *AP Calculus AB 1(A-E) 20-21 Nye, Andrea S W551
+3 *AP Calculus AB 2(A-E) 20-21 Nye, Andrea S W551
+3 *AP Calculus AB 3(A-E) 20-21 King, Jennifer L W438
+3 *AP Calculus AB 4(A-E) 20-21 Nye, Andrea S W551
+3 *AP Calculus AB 6(A-E) 20-21 King, Jennifer L W438
+3 *AP Calculus AB 7(A-E) 20-21 King, Jennifer L W438
+3 *AP Calculus BC 1(A-E) 20-21 Carlson, Jill W310
+3 *AP Calculus BC 2(A-E) 20-21 Dertinger, Kimberly W307
+3 *AP Calculus BC 3(A-E) 20-21 Carlson, Jill W310
+3 *AP Calculus BC 4(A-E) 20-21 Dertinger, Kimberly W441
+3 *AP Calculus BC 7(A-E) 20-21 Carlson, Jill W310
+3 *AP Calculus BC 8(A-E) 20-21 Lewis, Johanna W437
+3 *AP Computer Science A 2(A-E) 20-21 Mth Tch B, B W431
+3 *AP Computer Science A 3(A-E) 20-21 Mth Tch B, B W431
+3 *AP Computer Science A 7(A-E) 20-21 Mth Tch B, B W431
+3 *AP Computer Science Principles 1(A-E) S2 Tomcej, Igor W431
+3 *AP Computer Science Principles 8(A-E) S2 Mth Tch B, B W431
+3 *AP Statistics 1(A-E) 20-21 Mimmack, Richard Karl W435
+3 *AP Statistics 2(A-E) 20-21 Mimmack, Richard Karl W435
+3 *AP Statistics 3(A-E) 20-21 Mimmack, Richard Karl W435
+3 *AP Statistics 6(A-E) 20-21 Lewis, Johanna W437
+3 *AP Statistics 7(A-E) 20-21 Lewis, Johanna W437
+3 *Calculus 3 Honors 3(A-E) S1 Matuschek, Robert J W439
+3 *Calculus 3 Honors 7(A-E) S1 Matuschek, Robert J W439
+3 *Data Structures and Algorithms 4(A-E) S1 Mth Tch B, B W431
+3 *Differential Equations Honors 3(A-E) S2 Matuschek, Robert J W439
+3 *Differential Equations Honors 7(A-E) S2 Matuschek, Robert J W439
+3 *Geometry Honors 1(A-E) 20-21 Dertinger, Kent W441
+3 *Geometry Honors 2(A-E) 20-21 Dertinger, Kent W441
+3 *Geometry Honors 3(A-E) 20-21 Dertinger, Kent W441
+3 *Geometry Honors 5(A-E) 20-21 Padavic, James W544
+3 *Geometry Honors 5(A-E) 20-21 Peterson, Timothy D W549
+3 *Geometry Honors 7(A-E) 20-21 Peterson, Timothy D W549
+3 *Geometry Honors 8(A-E) 20-21 Padavic, James W544
+3 *IOS Application Development Honors 4(A-E) S2 Mth Tch B, B W431
+3 *Pre Calculus Honors 1(A-E) 20-21 Goeglein, Dara W312
+3 *Pre Calculus Honors 2(A-E) 20-21 Goeglein, Dara W312
+3 *Pre Calculus Honors 2(A-E) 20-21 Padavic, James W544
+3 *Pre Calculus Honors 3(A-E) 20-21 Meyer, Kathi W306
+3 *Pre Calculus Honors 4(A-E) 20-21 Meyer, Kathi W306
+3 *Pre Calculus Honors 5(A-E) 20-21 Ormsby, Kevin W439
+3 *Pre Calculus Honors 6(A-E) 20-21 Meyer, Kathi W306
+3 *Pre Calculus Honors 7(A-E) 20-21 Padavic, James W544
+3 *Pre Calculus Honors 8(A-E) 20-21 Ormsby, Kevin W439
+3 Business Calculus 7(A-E) S1 Dwyer, Lawrence W548
+3 Business Calculus 7(A-E) S2 Stirrup, Christopher R W548
+3 Calculus 1 1(A-E) 20-21 Berndt, Michael W436
+3 Calculus 1 7(A-E) 20-21 Berndt, Michael W436
+3 College Algebra 1(A-E) S1 Quayle, Cara M W305
+3 College Algebra 3(A-E) S1 Quayle, Cara M W542
+3 College Algebra 6(A-E) S1 Haupert, Eric W308
+3 College Algebra 7(A-E) S1 Quayle, Cara M W542
+3 College Algebra 1(A-E) S2 Quayle, Cara M W305
+3 College Algebra 3(A-E) S2 Quayle, Cara M W542
+3 College Algebra 6(A-E) S2 Haupert, Eric W308
+3 College Algebra 7(A-E) S2 Quayle, Cara M W542
+3 College Trigonometry 3(A-E) S1 Tomcej, Igor W433
+3 College Trigonometry 7(A-E) S1 Tomcej, Igor W553
+3 College Trigonometry 3(A-E) S2 Tomcej, Igor W433
+3 College Trigonometry 7(A-E) S2 Tomcej, Igor W553
+3 CP Accelerated Algebra 1 1(A-E) 20-21 Gee, Jeremey W542
+3 CP Accelerated Algebra 1 1(A-E) 20-21 Reyes, Natalie S W308
+3 CP Accelerated Algebra 1 2(A-E) 20-21 Gee, Jeremey W542
+3 CP Accelerated Algebra 1 2(A-E) 20-21 Haupert, Eric W549
+3 CP Accelerated Algebra 1 3(A-E) 20-21 Dwyer, Lawrence W545
+3 CP Accelerated Algebra 1 4(A-E) 20-21 Reyes, Natalie S W308
+3 CP Accelerated Algebra 1 5(A-E) 20-21 Gee, Jeremey W542
+3 CP Accelerated Algebra 1 5(A-E) 20-21 Mth Tch A, A W551
+3 CP Accelerated Algebra 1 6(A-E) 20-21 Mth Tch A, A W551
+3 CP Accelerated Algebra 1 7(A-E) 20-21 Haupert, Eric W308
+3 CP Accelerated Algebra 1 8(A-E) 20-21 Dwyer, Lawrence W549
+3 CP Accelerated Algebra 1 8(A-E) 20-21 Mth Tch A, A W436
+3 CP Accelerated Algebra 2 1(A-E) 20-21 Evans, Clinton T W547
+3 CP Accelerated Algebra 2 1(A-E) 20-21 Shuman Smith, Kimberly F W545
+3 CP Accelerated Algebra 2 2(A-E) 20-21 Evans, Clinton T W547
+3 CP Accelerated Algebra 2 2(A-E) 20-21 Shuman Smith, Kimberly F W545
+3 CP Accelerated Algebra 2 3(A-E) 20-21 Padavic, James W544
+3 CP Accelerated Algebra 2 3(A-E) 20-21 Stirrup, Christopher R W548
+3 CP Accelerated Algebra 2 4(A-E) 20-21 Haupert, Eric W544
+3 CP Accelerated Algebra 2 4(A-E) 20-21 Peterson, Kari B W305
+3 CP Accelerated Algebra 2 5(A-E) 20-21 Peterson, Kari B W305
+3 CP Accelerated Algebra 2 6(A-E) 20-21 Gee, Jeremey W542
+3 CP Accelerated Algebra 2 7(A-E) 20-21 Peterson, Kari B W305
+3 CP Accelerated Algebra 2 7(A-E) 20-21 Shuman Smith, Kimberly F W545
+3 CP Accelerated Algebra 2 8(A-E) 20-21 Gee, Jeremey W542
+3 CP Accelerated Algebra 2 8(A-E) 20-21 Haupert, Eric W308
+3 CP Accelerated Geometry 1(A-E) 20-21 McDavid, Delisa W307
+3 CP Accelerated Geometry 1(A-E) 20-21 Ormsby, Kevin W439
+3 CP Accelerated Geometry 2(A-E) 20-21 Meyer, Kathi W306
+3 CP Accelerated Geometry 2(A-E) 20-21 Ormsby, Kevin W439
+3 CP Accelerated Geometry 3(A-E) 20-21 McDavid, Delisa W307
+3 CP Accelerated Geometry 3(A-E) 20-21 Peterson, Kari B W305
+3 CP Accelerated Geometry 4(A-E) 20-21 Goeglein, Dara W312
+3 CP Accelerated Geometry 4(A-E) 20-21 Shuman Smith, Kimberly F W545
+3 CP Accelerated Geometry 5(A-E) 20-21 Goeglein, Dara W312
+3 CP Accelerated Geometry 5(A-E) 20-21 Shuman Smith, Kimberly F W545
+3 CP Accelerated Geometry 6(A-E) 20-21 Ormsby, Kevin W439
+3 CP Accelerated Geometry 7(A-E) 20-21 Goeglein, Dara W312
+3 CP Accelerated Geometry 7(A-E) 20-21 Meyer, Kathi W306
+3 CP Accelerated Geometry 8(A-E) 20-21 Peterson, Kari B W305
+3 CP Algebra 1 1(A-E) 20-21 Stirrup, Christopher R W548
+3 CP Algebra 1 1(A-E) 20-21 Mth Tch A, A W437
+3 CP Algebra 1 2(A-E) 20-21 Mth Tch A, A W437
+3 CP Algebra 1 (SAS Tm) 3(A-E) 20-21 Lewis, Johanna W437
+3 CP Algebra 1 (SAS Tm) 3(A-E) 20-21 Dempsey, Annemarie W437
+3 CP Algebra 1 3(A-E) 20-21 Evans, Clinton T W547
+3 CP Algebra 1 (SAS Tm) 4(A-E) 20-21 Lewis, Johanna W437
+3 CP Algebra 1 (SAS Tm) 4(A-E) 20-21 Dempsey, Annemarie W437
+3 CP Algebra 1 (SAS Tm) 5(A-E) 20-21 Evans, Clinton T W547
+3 CP Algebra 1 (SAS Tm) 5(A-E) 20-21 Vanecko, Jaime W547
+3 CP Algebra 1 5(A-E) 20-21 Stirrup, Christopher R W548
+3 CP Algebra 1 6(A-E) 20-21 Stirrup, Christopher R W548
+3 CP Algebra 1 7(A-E) 20-21 Evans, Clinton T W547
+3 CP Algebra 2 1(A-E) 20-21 Peterson, Timothy D W549
+3 CP Algebra 2 2(A-E) 20-21 Hamill, Tamara L W540
+3 CP Algebra 2 3(A-E) 20-21 Hamill, Tamara L W540
+3 CP Algebra 2 3(A-E) 20-21 Peterson, Timothy D W549
+3 CP Algebra 2 4(A-E) 20-21 Peterson, Timothy D W549
+3 CP Algebra 2 6(A-E) 20-21 Mimmack, Richard Karl W435
+3 CP Algebra 2 7(A-E) 20-21 Hamill, Tamara L W540
+3 CP Algebra 2 7(A-E) 20-21 Mimmack, Richard Karl W435
+3 CP Geometry (SAS Tm) 1(A-E) 20-21 Hughes, Leann M W434
+3 CP Geometry (SAS Tm) 1(A-E) 20-21 Vanecko, Jaime W434
+3 CP Geometry 2(A-E) 20-21 Carlson, Jill W310
+3 CP Geometry (SAS Tm) 2(A-E) 20-21 Hughes, Leann M W434
+3 CP Geometry (SAS Tm) 2(A-E) 20-21 Vanecko, Jaime W434
+3 CP Geometry 3(A-E) 20-21 Barber, Michelle W553
+3 CP Geometry 3(A-E) 20-21 Lefebre, Cory W551
+3 CP Geometry 4(A-E) 20-21 Barber, Michelle W553
+3 CP Geometry 5(A-E) 20-21 Barber, Michelle W553
+3 CP Geometry 5(A-E) 20-21 Hughes, Leann M W434
+3 CP Geometry 6(A-E) 20-21 Carlson, Jill W310
+3 CP Geometry 7(A-E) 20-21 Lefebre, Cory W441
+3 Integrated Algebra/Geometry 1 3(A-E) 20-21 Dertinger, Kimberly W312
+3 Integrated Algebra/Geometry 1 3(A-E) 20-21 Bailey, Nathaniel W312
+3 Integrated Algebra/Geometry 1 6(A-E) 20-21 Dertinger, Kimberly W441
+3 Integrated Algebra/Geometry 1 6(A-E) 20-21 Bailey, Nathaniel W441
+3 Intro To Computer Science 1(A-E) S1 Tomcej, Igor W431
+3 Intro To Computer Science 5(A-E) S1 Tomcej, Igor W431
+3 Intro To Computer Science 6(A-E) S1 Tomcej, Igor W431
+3 Intro To Computer Science 8(A-E) S1 Mth Tch B, B W431
+3 Intro To Computer Science 5(A-E) S2 Tomcej, Igor W431
+3 Intro To Computer Science 6(A-E) S2 Tomcej, Igor W431
+3 Precalculus/Trigonometry 1(A-E) 20-21 King, Jennifer L W438
+3 Precalculus/Trigonometry 2(A-E) 20-21 Berndt, Michael W436
+3 Precalculus/Trigonometry 2(A-E) 20-21 King, Jennifer L W438
+3 Precalculus/Trigonometry 3(A-E) 20-21 Berndt, Michael W436
+3 Precalculus/Trigonometry 4(A-E) 20-21 Quayle, Cara M W542
+3 Precalculus/Trigonometry 6(A-E) 20-21 Quayle, Cara M W434
+3 Precalculus/Trigonometry 6(A-E) 20-21 Berndt, Michael W436
+3 Precalculus/Trigonometry 7(A-E) 20-21 Nye, Andrea S W551
+3 Precalculus/Trigonometry 8(A-E) 20-21 Nye, Andrea S W551
+3 Probability And Statistics 1(A-E) S1 Hamill, Tamara L W540
+3 Probability And Statistics 6(A-E) S1 Hamill, Tamara L W540
+3 Probability And Statistics 1(A-E) S2 Hamill, Tamara L W540
+3 Probability And Statistics 6(A-E) S2 Hamill, Tamara L W540
+3 Statistical Analysis 1(A-E) 20-21 Anderson, Paul M W433
+3 Statistical Analysis 2(A-E) 20-21 Anderson, Paul M W433
+3 Statistical Analysis 4(A-E) 20-21 Anderson, Paul M W433
+3 Statistical Analysis 6(A-E) 20-21 Anderson, Paul M W433
+3 Statistical Analysis 7(A-E) 20-21 Anderson, Paul M W433
 
 # SCIENCE
-4 *AP Biology 1-2(A-E) 20-21 Bailey, Carl W427 
-4 *AP Biology 3-4(A-E) 20-21 Bailey, Carl W427 
-4 *AP Biology 6-7(A-E) 20-21 Smith, Stephen W427 
-4 *AP Chemistry 1(A-E) 20-21 Flynn, Kathryn C W092 
-4 *AP Chemistry 2(A-E) 20-21 Dusto, Ethan W092 
-4 *AP Chemistry 3(A-E) 20-21 Dusto, Ethan W092 
-4 *AP Environmental Science 1(A-E) 20-21 Boyce, Jeffrey W W419 
-4 *AP Environmental Science 3(A-E) 20-21 Boyce, Jeffrey W W419 
-4 *AP Environmental Science 4(A-E) 20-21 Boyce, Jeffrey W W419 
-4 *AP Environmental Science 6(A-E) 20-21 Boyce, Jeffrey W W419 
-4 *AP Environmental Science 6(A-E) 20-21 Flynn, Kathryn C W104 
-4 *AP Environmental Science 7(A-E) 20-21 Boyce, Jeffrey W W419 
-4 *AP Environmental Science 7(A-E) 20-21 Flynn, Kathryn C W421 
-4 *AP Environmental Science 8(A-E) 20-21 Flynn, Kathryn C W421 
-4 *AP Physics C 1-2(A-E) 20-21 Kern, Stefan W070 
-4 *AP Physics C 3-4(A-E) 20-21 Kern, Stefan W070 
-4 *Biology Honors 2(A-E) 20-21 Neel, Dustin W430 
-4 *Biology Honors 3(A-E) 20-21 Dawkins, Scott W415 
-4 *Biology Honors 3(A-E) 20-21 Neel, Dustin W430 
-4 *Biology Honors 4(A-E) 20-21 Comerford, James L W430 
-4 *Biology Honors 4(A-E) 20-21 Dawkins, Scott W415 
-4 *Biology Honors 5(A-E) 20-21 Comerford, James L W430 
-4 *Biology Honors 6(A-E) 20-21 Comerford, James L W430 
-4 *Biology Honors 6(A-E) 20-21 Dawkins, Scott W415 
-4 *Biology Honors 7(A-E) 20-21 Comerford, James L W430 
-4 *Chemistry Honors 1(A-E) 20-21 Gilbert, Jeremy S W105 
-4 *Chemistry Honors 2(A-E) 20-21 Gilbert, Jeremy S W105 
-4 *Chemistry Honors 3(A-E) 20-21 Gilbert, Jeremy S W105 
-4 *Chemistry Honors 4(A-E) 20-21 Donahue, Timothy W105 
-4 *Chemistry Honors 5(A-E) 20-21 Donahue, Timothy W105 
-4 *Chemistry Honors 7(A-E) 20-21 Donahue, Timothy W105 
-4 *Chemistry Honors 8(A-E) 20-21 Donahue, Timothy W105 
-4 *Physical Science Honors 2(A-E) 20-21 Boyd, Jennifer M W432 
-4 *Physical Science Honors 2(A-E) 20-21 Sutton, Lauren W104 
-4 *Physical Science Honors 3(A-E) 20-21 Boyd, Jennifer M W432 
-4 *Physical Science Honors 3(A-E) 20-21 Sutton, Lauren W104 
-4 *Physical Science Honors 4(A-E) 20-21 Sutton, Lauren W104 
-4 *Physical Science Honors 5(A-E) 20-21 Boyd, Jennifer M W432 
-
-4 *Physical Science Honors 5(A-E) 20-21 Sutton, Lauren W104 
-4 *Physical Science Honors 6(A-E) 20-21 Boyd, Jennifer M W432 
-4 *Physical Science Honors 7(A-E) 20-21 Boyd, Jennifer M W432 
-4 *Physics Honors 1(A-E) 20-21 Mernitz, Whitney W073 
-4 *Physics Honors 2(A-E) 20-21 Mernitz, Whitney W073 
-4 *Physics Honors 3(A-E) 20-21 Olsen, Jessica W073 
-4 *Physics Honors 4(A-E) 20-21 Olsen, Jessica W073 
-4 *Physics Honors 6(A-E) 20-21 Olsen, Jessica W073 
-4 *Physics/Engineering Honors 1(A-E) 20-21 Harrison, Keith P W527 
-4 *Physics/Engineering Honors 3(A-E) 20-21 Harrison, Keith P W527 
-6 CP Engineering Physics 2(A-E) 20-21 Harrison, Keith P W527 
-6 CP Engineering Physics 4(A-E) 20-21 Harrison, Keith P W527 
-4 Astronomy 2(A-E) S1 Olsen,Jessica W071 
-4 Astronomy 2(A-E) S2 Olsen,Jessica W071 
-4 Biology (SAS Tm) 5(A-E) 20-21 Vinzant, Leigh W529 
-4 Biology (SAS Tm) 5(A-E) 20-21 Evans, Laura A W529 
-4 Biology (SAS Tm) 6(A-E) 20-21 Vinzant, Leigh W529 
-4 Biology (SAS Tm) 6(A-E) 20-21 Evans, Laura A W529 
-4 Biology 7(A-E) 20-21 Vinzant, Leigh W529 
-4 Chemistry 1(A-E) S1 Seppala, Brian E W423 
-4 Chemistry (SAS Tm) 3(A-E) S1 Seppala, Brian E W423 
-4 Chemistry (SAS Tm) 3(A-E) S1 Evans, Laura A W423 
-4 Chemistry 6(A-E) S1 Seppala, Brian E W423 
-4 CP Anatomy and Physiology 1(A-E) 20-21 Bak, Alexandra K W432 
-4 CP Anatomy and Physiology 1(A-E) 20-21 Dawkins, Scott W415 
-4 CP Anatomy and Physiology 2(A-E) 20-21 Baranek, Dawn W102 
-4 CP Anatomy and Physiology 2(A-E) 20-21 Dawkins, Scott W415 
-4 CP Anatomy and Physiology 3(A-E) 20-21 Baranek, Dawn W102 
-4 CP Anatomy and Physiology 4(A-E) 20-21 Baranek, Dawn W102 
-4 CP Biochemistry 6(A-E) S1 Maudal, Michael K W105 
-4 CP Biochemistry 6(A-E) S2 Maudal, Michael K W105 
-4 CP Biology 1(A-E) 20-21 Bolton, Vince A W417 
-4 CP Biology 1(A-E) 20-21 Comerford, James L W430 
-4 CP Biology 1(A-E) 20-21 Garcia, Christine M W413 
-4 CP Biology 2(A-E) 20-21 Bolton, Vince A W417 
-4 CP Biology 2(A-E) 20-21 Garcia, Christine M W413 
-
-4 CP Biology 3(A-E) 20-21 Bolton, Vince A W417 
-4 CP Biology 3(A-E) 20-21 Garcia, Christine M W413 
-4 CP Biology 4(A-E) 20-21 Bolton, Vince A W417 
-4 CP Biology 4(A-E) 20-21 Lownsberry, Kelly W413 
-4 CP Biology 4(A-E) 20-21 Sci Tch B, B W432 
-4 CP Biology 5(A-E) 20-21 Bak, Alexandra K W417 
-4 CP Biology 5(A-E) 20-21 Lownsberry, Kelly W413 
-4 CP Biology 5(A-E) 20-21 Neel, Dustin W415 
-4 CP Biology 6(A-E) 20-21 Bak, Alexandra K W417 
-4 CP Biology 6(A-E) 20-21 Lownsberry, Kelly W413 
-4 CP Biology 7(A-E) 20-21 Bak, Alexandra K W417 
-4 CP Biology 7(A-E) 20-21 Neel, Dustin W415 
-4 CP Biology 7(A-E) 20-21 Worden, Nicole M W413 
-4 CP Biology 8(A-E) 20-21 Bak, Alexandra K W417 
-4 CP Biology 8(A-E) 20-21 Neel, Dustin W415 
-4 CP Biology 8(A-E) 20-21 Worden, Nicole M W413 
-4 CP Chemistry 1(A-E) 20-21 Dusto, Ethan W090 
-4 CP Chemistry 1(A-E) 20-21 Lownsberry, Kelly W094 
-4 CP Chemistry 1(A-E) 20-21 Young, Rae W107 
-4 CP Chemistry 2(A-E) 20-21 Lownsberry, Kelly W094 
-4 CP Chemistry 2(A-E) 20-21 Maudal, Michael K W090 
-4 CP Chemistry 2(A-E) 20-21 Young, Rae W107 
-4 CP Chemistry 3(A-E) 20-21 Maudal, Michael K W090 
-4 CP Chemistry 3(A-E) 20-21 Young, Rae W107 
-4 CP Chemistry 3(A-E) 20-21 Sci Tch A, A W094 
-4 CP Chemistry 4(A-E) 20-21 Dusto, Ethan W092 
-4 CP Chemistry 4(A-E) 20-21 Maudal, Michael K W090 
-4 CP Chemistry 6(A-E) 20-21 Bailey, Carl W090 
-4 CP Chemistry 6(A-E) 20-21 Garcia, Christine M W094 
-4 CP Chemistry 6(A-E) 20-21 Gilbert, Jeremy S W092 
-4 CP Chemistry 7(A-E) 20-21 Bailey, Carl W090 
-4 CP Chemistry 7(A-E) 20-21 Bolton, Vince A W107 
-4 CP Chemistry 7(A-E) 20-21 Garcia, Christine M W094 
-4 CP Chemistry 7(A-E) 20-21 Gilbert, Jeremy S W092 
-4 CP Chemistry 8(A-E) 20-21 Maudal, Michael K W090 
-4 CP Horticulture 6(A-E) S1 Hanson, Benjamin L W107 
-4 CP Horticulture 6(A-E) S2 Hanson, Benjamin L W107 
-4 CP Marine Biology 2(A-E) S1 Vinzant,Leigh W529 
-4 CP Marine Biology 3(A-E) S1 Vinzant,Leigh W529 
-4 CP Marine Biology 2(A-E) S2 Vinzant,Leigh W529 
-4 CP Marine Biology 3(A-E) S2 Vinzant,Leigh W529 
-
-4 CP Physical Science 1(A-E) 20-21 Duncan, Joseph W071 
-4 CP Physical Science 1(A-E) 20-21 Sci Tch A, A W102 
-4 CP Physical Science 1(A-E) 20-21 Sci Tch B, B W104 
-4 CP Physical Science 2(A-E) 20-21 Seppala, Brian E W423 
-4 CP Physical Science 2(A-E) 20-21 Sci Tch B, B W419 
-4 CP Physical Science 3(A-E) 20-21 Duncan, Joseph W071 
-4 CP Physical Science 3(A-E) 20-21 Worden, Nicole M W421 
-4 CP Physical Science 4(A-E) 20-21 Huyink, Amy J W423 
-4 CP Physical Science 4(A-E) 20-21 Worden, Nicole M W421 
-4 CP Physical Science 4(A-E) 20-21 Sci Tch C, C W107 
-4 CP Physical Science 5(A-E) 20-21 Duncan, Joseph W527 
-4 CP Physical Science 5(A-E) 20-21 Huyink, Amy J W423 
-4 CP Physical Science 5(A-E) 20-21 Worden, Nicole M W421 
-4 CP Physical Science 5(A-E) 20-21 Sci Tch A, A W102 
-4 CP Physical Science 5(A-E) 20-21 Sci Tch C, C W107 
-4 CP Physical Science 6(A-E) 20-21 Duncan, Joseph W527 
-4 CP Physical Science 7(A-E) 20-21 Seppala, Brian E W423 
-4 CP Physical Science 7(A-E) 20-21 Sci Tch A, A W102 
-4 CP Physical Science 7(A-E) 20-21 Sci Tch B, B W104 
-4 CP Physical Science 7(A-E) 20-21 Sci Tch C, C W073 
-4 CP Physical Science 8(A-E) 20-21 Huyink, Amy J W423 
-4 CP Physical Science 8(A-E) 20-21 Sci Tch A, A W102 
-4 CP Physical Science 8(A-E) 20-21 Sci Tch B, B W104 
-4 CP Physical Science 8(A-E) 20-21 Sci Tch C, C W073 
-4 CP Physics 4(A-E) 20-21 Mernitz, Whitney W071 
-4 CP Physics 6(A-E) 20-21 Kern, Stefan W070 
-4 CP Physics 6(A-E) 20-21 Mernitz, Whitney W071 
-4 CP Physics 7(A-E) 20-21 Kern, Stefan W070 
-4 CP Physics 7(A-E) 20-21 Mernitz, Whitney W071 
-4 Environmental Science 1 1(A-E) S1 Huyink, Amy J W421 
-4 Environmental Science 1 2(A-E) S1 Huyink, Amy J W421 
-4 Environmental Science 2 1(A-E) S2 Huyink, Amy J W421 
-4 Environmental Science 2 2(A-E) S2 Huyink, Amy J W421 
-4 MAL Science 1 6(A-E) S1 Baranek,Dawn W102 
-4 MAL Science 2 6(A-E) S2 Baranek,Dawn W102 
-4 Physical Science 1(A-E) 20-21 Hanson, Benjamin L W531 
-4 Physical Science (SAS Tm) 2(A-E) 20-21 Hanson, Benjamin L W531 
-4 Physical Science (SAS Tm) 2(A-E) 20-21 SPED Tch A, A W531 
-4 Physical Science 3(A-E) 20-21 Hanson, Benjamin L W531 
-4 Physical Science (SAS Tm) 7(A-E) 20-21 Hanson, Benjamin L W531 
-
-4 Physical Science (SAS Tm) 7(A-E) 20-21 SPED Tch A, A W531 
-4 PHYSICS 1(A-E) S2 Seppala, Brian E W423 
-4 PHYSICS (SAS Tm) 3(A-E) S2 Seppala, Brian E W423 
-4 PHYSICS (SAS Tm) 3(A-E) S2 Evans, Laura A W423 
-4 PHYSICS 6(A-E) S2 Seppala, Brian E W423 
-6 Robotics and Electro-Mechanical Dsg 7(A-E) 20-21 Harrison, Keith P W527 
-6 Robotics and Electro-Mechanical Dsg 8(A-E) 20-21 Duncan, Joseph W527 
-8 *AP Research 2(A-E) 20-21 Flynn, Kathryn C IC715 
+4 *AP Biology 1-2(A-E) 20-21 Bailey, Carl W427
+4 *AP Biology 3-4(A-E) 20-21 Bailey, Carl W427
+4 *AP Biology 6-7(A-E) 20-21 Smith, Stephen W427
+4 *AP Chemistry 1(A-E) 20-21 Flynn, Kathryn C W092
+4 *AP Chemistry 2(A-E) 20-21 Dusto, Ethan W092
+4 *AP Chemistry 3(A-E) 20-21 Dusto, Ethan W092
+4 *AP Environmental Science 1(A-E) 20-21 Boyce, Jeffrey W W419
+4 *AP Environmental Science 3(A-E) 20-21 Boyce, Jeffrey W W419
+4 *AP Environmental Science 4(A-E) 20-21 Boyce, Jeffrey W W419
+4 *AP Environmental Science 6(A-E) 20-21 Boyce, Jeffrey W W419
+4 *AP Environmental Science 6(A-E) 20-21 Flynn, Kathryn C W104
+4 *AP Environmental Science 7(A-E) 20-21 Boyce, Jeffrey W W419
+4 *AP Environmental Science 7(A-E) 20-21 Flynn, Kathryn C W421
+4 *AP Environmental Science 8(A-E) 20-21 Flynn, Kathryn C W421
+4 *AP Physics C 1-2(A-E) 20-21 Kern, Stefan W070
+4 *AP Physics C 3-4(A-E) 20-21 Kern, Stefan W070
+4 *Biology Honors 2(A-E) 20-21 Neel, Dustin W430
+4 *Biology Honors 3(A-E) 20-21 Dawkins, Scott W415
+4 *Biology Honors 3(A-E) 20-21 Neel, Dustin W430
+4 *Biology Honors 4(A-E) 20-21 Comerford, James L W430
+4 *Biology Honors 4(A-E) 20-21 Dawkins, Scott W415
+4 *Biology Honors 5(A-E) 20-21 Comerford, James L W430
+4 *Biology Honors 6(A-E) 20-21 Comerford, James L W430
+4 *Biology Honors 6(A-E) 20-21 Dawkins, Scott W415
+4 *Biology Honors 7(A-E) 20-21 Comerford, James L W430
+4 *Chemistry Honors 1(A-E) 20-21 Gilbert, Jeremy S W105
+4 *Chemistry Honors 2(A-E) 20-21 Gilbert, Jeremy S W105
+4 *Chemistry Honors 3(A-E) 20-21 Gilbert, Jeremy S W105
+4 *Chemistry Honors 4(A-E) 20-21 Donahue, Timothy W105
+4 *Chemistry Honors 5(A-E) 20-21 Donahue, Timothy W105
+4 *Chemistry Honors 7(A-E) 20-21 Donahue, Timothy W105
+4 *Chemistry Honors 8(A-E) 20-21 Donahue, Timothy W105
+4 *Physical Science Honors 2(A-E) 20-21 Boyd, Jennifer M W432
+4 *Physical Science Honors 2(A-E) 20-21 Sutton, Lauren W104
+4 *Physical Science Honors 3(A-E) 20-21 Boyd, Jennifer M W432
+4 *Physical Science Honors 3(A-E) 20-21 Sutton, Lauren W104
+4 *Physical Science Honors 4(A-E) 20-21 Sutton, Lauren W104
+4 *Physical Science Honors 5(A-E) 20-21 Boyd, Jennifer M W432
+4 *Physical Science Honors 5(A-E) 20-21 Sutton, Lauren W104
+4 *Physical Science Honors 6(A-E) 20-21 Boyd, Jennifer M W432
+4 *Physical Science Honors 7(A-E) 20-21 Boyd, Jennifer M W432
+4 *Physics Honors 1(A-E) 20-21 Mernitz, Whitney W073
+4 *Physics Honors 2(A-E) 20-21 Mernitz, Whitney W073
+4 *Physics Honors 3(A-E) 20-21 Olsen, Jessica W073
+4 *Physics Honors 4(A-E) 20-21 Olsen, Jessica W073
+4 *Physics Honors 6(A-E) 20-21 Olsen, Jessica W073
+4 *Physics/Engineering Honors 1(A-E) 20-21 Harrison, Keith P W527
+4 *Physics/Engineering Honors 3(A-E) 20-21 Harrison, Keith P W527
+6 CP Engineering Physics 2(A-E) 20-21 Harrison, Keith P W527
+6 CP Engineering Physics 4(A-E) 20-21 Harrison, Keith P W527
+4 Astronomy 2(A-E) S1 Olsen, Jessica W071
+4 Astronomy 2(A-E) S2 Olsen, Jessica W071
+4 Biology (SAS Tm) 5(A-E) 20-21 Vinzant, Leigh W529
+4 Biology (SAS Tm) 5(A-E) 20-21 Evans, Laura A W529
+4 Biology (SAS Tm) 6(A-E) 20-21 Vinzant, Leigh W529
+4 Biology (SAS Tm) 6(A-E) 20-21 Evans, Laura A W529
+4 Biology 7(A-E) 20-21 Vinzant, Leigh W529
+4 Chemistry 1(A-E) S1 Seppala, Brian E W423
+4 Chemistry (SAS Tm) 3(A-E) S1 Seppala, Brian E W423
+4 Chemistry (SAS Tm) 3(A-E) S1 Evans, Laura A W423
+4 Chemistry 6(A-E) S1 Seppala, Brian E W423
+4 CP Anatomy and Physiology 1(A-E) 20-21 Bak, Alexandra K W432
+4 CP Anatomy and Physiology 1(A-E) 20-21 Dawkins, Scott W415
+4 CP Anatomy and Physiology 2(A-E) 20-21 Baranek, Dawn W102
+4 CP Anatomy and Physiology 2(A-E) 20-21 Dawkins, Scott W415
+4 CP Anatomy and Physiology 3(A-E) 20-21 Baranek, Dawn W102
+4 CP Anatomy and Physiology 4(A-E) 20-21 Baranek, Dawn W102
+4 CP Biochemistry 6(A-E) S1 Maudal, Michael K W105
+4 CP Biochemistry 6(A-E) S2 Maudal, Michael K W105
+4 CP Biology 1(A-E) 20-21 Bolton, Vince A W417
+4 CP Biology 1(A-E) 20-21 Comerford, James L W430
+4 CP Biology 1(A-E) 20-21 Garcia, Christine M W413
+4 CP Biology 2(A-E) 20-21 Bolton, Vince A W417
+4 CP Biology 2(A-E) 20-21 Garcia, Christine M W413
+4 CP Biology 3(A-E) 20-21 Bolton, Vince A W417
+4 CP Biology 3(A-E) 20-21 Garcia, Christine M W413
+4 CP Biology 4(A-E) 20-21 Bolton, Vince A W417
+4 CP Biology 4(A-E) 20-21 Lownsberry, Kelly W413
+4 CP Biology 4(A-E) 20-21 Sci Tch B, B W432
+4 CP Biology 5(A-E) 20-21 Bak, Alexandra K W417
+4 CP Biology 5(A-E) 20-21 Lownsberry, Kelly W413
+4 CP Biology 5(A-E) 20-21 Neel, Dustin W415
+4 CP Biology 6(A-E) 20-21 Bak, Alexandra K W417
+4 CP Biology 6(A-E) 20-21 Lownsberry, Kelly W413
+4 CP Biology 7(A-E) 20-21 Bak, Alexandra K W417
+4 CP Biology 7(A-E) 20-21 Neel, Dustin W415
+4 CP Biology 7(A-E) 20-21 Worden, Nicole M W413
+4 CP Biology 8(A-E) 20-21 Bak, Alexandra K W417
+4 CP Biology 8(A-E) 20-21 Neel, Dustin W415
+4 CP Biology 8(A-E) 20-21 Worden, Nicole M W413
+4 CP Chemistry 1(A-E) 20-21 Dusto, Ethan W090
+4 CP Chemistry 1(A-E) 20-21 Lownsberry, Kelly W094
+4 CP Chemistry 1(A-E) 20-21 Young, Rae W107
+4 CP Chemistry 2(A-E) 20-21 Lownsberry, Kelly W094
+4 CP Chemistry 2(A-E) 20-21 Maudal, Michael K W090
+4 CP Chemistry 2(A-E) 20-21 Young, Rae W107
+4 CP Chemistry 3(A-E) 20-21 Maudal, Michael K W090
+4 CP Chemistry 3(A-E) 20-21 Young, Rae W107
+4 CP Chemistry 3(A-E) 20-21 Sci Tch A, A W094
+4 CP Chemistry 4(A-E) 20-21 Dusto, Ethan W092
+4 CP Chemistry 4(A-E) 20-21 Maudal, Michael K W090
+4 CP Chemistry 6(A-E) 20-21 Bailey, Carl W090
+4 CP Chemistry 6(A-E) 20-21 Garcia, Christine M W094
+4 CP Chemistry 6(A-E) 20-21 Gilbert, Jeremy S W092
+4 CP Chemistry 7(A-E) 20-21 Bailey, Carl W090
+4 CP Chemistry 7(A-E) 20-21 Bolton, Vince A W107
+4 CP Chemistry 7(A-E) 20-21 Garcia, Christine M W094
+4 CP Chemistry 7(A-E) 20-21 Gilbert, Jeremy S W092
+4 CP Chemistry 8(A-E) 20-21 Maudal, Michael K W090
+4 CP Horticulture 6(A-E) S1 Hanson, Benjamin L W107
+4 CP Horticulture 6(A-E) S2 Hanson, Benjamin L W107
+4 CP Marine Biology 2(A-E) S1 Vinzant, Leigh W529
+4 CP Marine Biology 3(A-E) S1 Vinzant, Leigh W529
+4 CP Marine Biology 2(A-E) S2 Vinzant, Leigh W529
+4 CP Marine Biology 3(A-E) S2 Vinzant, Leigh W529
+4 CP Physical Science 1(A-E) 20-21 Duncan, Joseph W071
+4 CP Physical Science 1(A-E) 20-21 Sci Tch A, A W102
+4 CP Physical Science 1(A-E) 20-21 Sci Tch B, B W104
+4 CP Physical Science 2(A-E) 20-21 Seppala, Brian E W423
+4 CP Physical Science 2(A-E) 20-21 Sci Tch B, B W419
+4 CP Physical Science 3(A-E) 20-21 Duncan, Joseph W071
+4 CP Physical Science 3(A-E) 20-21 Worden, Nicole M W421
+4 CP Physical Science 4(A-E) 20-21 Huyink, Amy J W423
+4 CP Physical Science 4(A-E) 20-21 Worden, Nicole M W421
+4 CP Physical Science 4(A-E) 20-21 Sci Tch C, C W107
+4 CP Physical Science 5(A-E) 20-21 Duncan, Joseph W527
+4 CP Physical Science 5(A-E) 20-21 Huyink, Amy J W423
+4 CP Physical Science 5(A-E) 20-21 Worden, Nicole M W421
+4 CP Physical Science 5(A-E) 20-21 Sci Tch A, A W102
+4 CP Physical Science 5(A-E) 20-21 Sci Tch C, C W107
+4 CP Physical Science 6(A-E) 20-21 Duncan, Joseph W527
+4 CP Physical Science 7(A-E) 20-21 Seppala, Brian E W423
+4 CP Physical Science 7(A-E) 20-21 Sci Tch A, A W102
+4 CP Physical Science 7(A-E) 20-21 Sci Tch B, B W104
+4 CP Physical Science 7(A-E) 20-21 Sci Tch C, C W073
+4 CP Physical Science 8(A-E) 20-21 Huyink, Amy J W423
+4 CP Physical Science 8(A-E) 20-21 Sci Tch A, A W102
+4 CP Physical Science 8(A-E) 20-21 Sci Tch B, B W104
+4 CP Physical Science 8(A-E) 20-21 Sci Tch C, C W073
+4 CP Physics 4(A-E) 20-21 Mernitz, Whitney W071
+4 CP Physics 6(A-E) 20-21 Kern, Stefan W070
+4 CP Physics 6(A-E) 20-21 Mernitz, Whitney W071
+4 CP Physics 7(A-E) 20-21 Kern, Stefan W070
+4 CP Physics 7(A-E) 20-21 Mernitz, Whitney W071
+4 Environmental Science 1 1(A-E) S1 Huyink, Amy J W421
+4 Environmental Science 1 2(A-E) S1 Huyink, Amy J W421
+4 Environmental Science 2 1(A-E) S2 Huyink, Amy J W421
+4 Environmental Science 2 2(A-E) S2 Huyink, Amy J W421
+4 MAL Science 1 6(A-E) S1 Baranek, Dawn W102
+4 MAL Science 2 6(A-E) S2 Baranek, Dawn W102
+4 Physical Science 1(A-E) 20-21 Hanson, Benjamin L W531
+4 Physical Science (SAS Tm) 2(A-E) 20-21 Hanson, Benjamin L W531
+4 Physical Science (SAS Tm) 2(A-E) 20-21 SPED Tch A, A W531
+4 Physical Science 3(A-E) 20-21 Hanson, Benjamin L W531
+4 Physical Science (SAS Tm) 7(A-E) 20-21 Hanson, Benjamin L W531
+4 Physical Science (SAS Tm) 7(A-E) 20-21 SPED Tch A, A W531
+4 PHYSICS 1(A-E) S2 Seppala, Brian E W423
+4 PHYSICS (SAS Tm) 3(A-E) S2 Seppala, Brian E W423
+4 PHYSICS (SAS Tm) 3(A-E) S2 Evans, Laura A W423
+4 PHYSICS 6(A-E) S2 Seppala, Brian E W423
+6 Robotics and Electro-Mechanical Dsg 7(A-E) 20-21 Harrison, Keith P W527
+6 Robotics and Electro-Mechanical Dsg 8(A-E) 20-21 Duncan, Joseph W527
+8 *AP Research 2(A-E) 20-21 Flynn, Kathryn C IC715
 
 # WORLD LANGUAGE
-5 *AP Chinese Language and Culture 4(A-E) 20-21 Song, Zhihua W301 
-5 *AP French Language and Culture 1(A-E) 20-21 Moreen, Angela W302 
-5 *AP French Language and Culture 4(A-E) 20-21 Moreen, Angela W302 
-5 *AP German Language and Culture 6(A-E) 20-21 Smith, Susanne IC733 
-5 *AP Latin 2(A-E) 20-21 Rosevear, Amy IC716 
-5 *AP Spanish Language and Culture 3(A-E) 20-21 Murillo, Jose A IC718 
-5 *AP Spanish Language and Culture 4(A-E) 20-21 Hofmeister, Jamie IC733 
-5 *AP Spanish Language and Culture 7(A-E) 20-21 Long, Lara M W304 
-5 *AP Spanish Literature and Culture 1(A-E) 20-21 Campbell, Sarah W303 
-5 *AP Spanish Literature and Culture 6(A-E) 20-21 Campbell, Sarah W303 
-5 *Chinese 3/4 Honors 1(A-E) 20-21 Song, Zhihua W301 
-5 *French 3/4 Honors 7(A-E) 20-21 Bowditch, Susan W302 
-5 *French Literature 6 Honors 6(A-E) 20-21 Cronin, Paul IC747 
-5 *German 3/4 Honors 6(A-E) 20-21 Daum-Schultz, Kerstin IC742 
-5 *Latin 3/4 Honors 7(A-E) 20-21 Rosevear, Amy IC716 
-5 *Spanish 3/4 Honors 2(A-E) 20-21 Jones, Jennifer IC740 
-5 *Spanish 3/4 Honors 6(A-E) 20-21 Jones, Jennifer IC740 
-5 CP American Sign Language 3(A-E) 20-21 Zurcher, Anne R W212 
-5 CP American Sign Language 4(A-E) 20-21 Zurcher, Anne R W216 
-5 CP American Sign Language 2 2(A-E) 20-21 Zurcher, Anne R W212 
-5 CP American Sign Language 3 6(A-E) 20-21 Zurcher, Anne R IC734 
-5 CP Chinese 1 6(A-E) 20-21 Song, Zhihua W301 
-5 CP Chinese 1 7(A-E) 20-21 Song, Zhihua W301 
-5 CP Chinese 2 2(A-E) 20-21 Song, Zhihua W301 
-5 CP French 1 2(A-E) 20-21 Bowditch, Susan W302 
-5 CP French 1 5(A-E) 20-21 Bowditch, Susan W302 
-5 CP French 1 6(A-E) 20-21 Bowditch, Susan W302 
-
-5 CP French 2 1(A-E) 20-21 Cronin, Paul IC747 
-5 CP French 2 2(A-E) 20-21 Cronin, Paul IC747 
-5 CP French 2 3(A-E) 20-21 Moreen, Angela W302 
-5 CP French 2 8(A-E) 20-21 Moreen, Angela W302 
-5 CP French 3 4(A-E) 20-21 Cronin, Paul IC747 
-5 CP French 3 7(A-E) 20-21 Cronin, Paul IC747 
-5 CP French 4 6(A-E) 20-21 Moreen, Angela W304 
-5 CP German 1 1(A-E) 20-21 Smith, Susanne IC742 
-5 CP German 1 7(A-E) 20-21 Smith, Susanne IC742 
-5 CP German 2 2(A-E) 20-21 Daum-Schultz, Kerstin IC742 
-5 CP German 2 5(A-E) 20-21 Daum-Schultz, Kerstin IC742 
-5 CP Latin 1 1(A-E) 20-21 Rosevear, Amy IC716 
-5 CP Latin 1 3(A-E) 20-21 Rosevear, Amy IC716 
-5 CP Latin 2 6(A-E) 20-21 Rosevear, Amy IC716 
-5 CP Spanish 1 1(A-E) 20-21 Arenas, Amber S IC734 
-5 CP Spanish 1 2(A-E) 20-21 Woods, Chantal M IC747 
-5 CP Spanish 1 3(A-E) 20-21 Casey, Brian W216 
-5 CP Spanish 1 4(A-E) 20-21 Lee, Rebekah S W304 
-5 CP Spanish 1 4(A-E) 20-21 Woods, Chantal M IC740 
-5 CP Spanish 1 5(A-E) 20-21 FL Tch A, A IC745 
-5 CP Spanish 1 5(A-E) 20-21 Woods, Chantal M IC740 
-5 CP Spanish 1 6(A-E) 20-21 Casey, Brian W216 
-5 CP Spanish 1 7(A-E) 20-21 Casey, Brian W216 
-5 CP Spanish 1 8(A-E) 20-21 FL Tch A, A IC718 
-5 CP Spanish 1 8(A-E) 20-21 Lee, Rebekah S W300 
-5 CP Spanish 2 1(A-E) 20-21 Barrera, Wilmer IC745 
-5 CP Spanish 2 1(A-E) 20-21 Jones, Jennifer IC740 
-5 CP Spanish 2 1(A-E) 20-21 Lee, Rebekah S W300 
-5 CP Spanish 2 2(A-E) 20-21 Arenas, Amber S IC734 
-5 CP Spanish 2 2(A-E) 20-21 Hester, Kathryn M IC745 
-5 CP Spanish 2 2(A-E) 20-21 Lee, Rebekah S W300 
-5 CP Spanish 2 3(A-E) 20-21 Hester, Kathryn M IC745 
-5 CP Spanish 2 3(A-E) 20-21 Jones, Jennifer IC740 
-5 CP Spanish 2 4(A-E) 20-21 Arenas, Amber S W300 
-5 CP Spanish 2 4(A-E) 20-21 Magerfleisch, Russell W212 
-5 CP Spanish 2 5(A-E) 20-21 Barrera, Wilmer W300 
-
-5 CP Spanish 2 5(A-E) 20-21 Lee, Rebekah S W304 
-5 CP Spanish 2 6(A-E) 20-21 Barrera, Wilmer W300 
-5 CP Spanish 2 6(A-E) 20-21 FL Tch A, A IC745 
-5 CP Spanish 2 7(A-E) 20-21 Barrera, Wilmer W300 
-5 CP Spanish 2 7(A-E) 20-21 Jones, Jennifer IC740 
-5 CP Spanish 2 7(A-E) 20-21 Magerfleisch, Russell W212 
-5 CP Spanish 2 8(A-E) 20-21 Hester, Kathryn M IC745 
-5 CP Spanish 2 8(A-E) 20-21 Magerfleisch, Russell W212 
-5 CP Spanish 3 1(A-E) 20-21 Casey, Brian W216 
-5 CP Spanish 3 1(A-E) 20-21 Long, Lara M W304 
-5 CP Spanish 3 1(A-E) 20-21 Murillo, Jose A IC718 
-5 CP Spanish 3 2(A-E) 20-21 Casey, Brian W216 
-5 CP Spanish 3 2(A-E) 20-21 Hofmeister, Jamie IC733 
-5 CP Spanish 3 2(A-E) 20-21 Long, Lara M W304 
-5 CP Spanish 3 3(A-E) 20-21 Hofmeister, Jamie IC733 
-5 CP Spanish 3 3(A-E) 20-21 Long, Lara M W304 
-5 CP Spanish 3 3(A-E) 20-21 Mosby, Susan IC734 
-5 CP Spanish 3 4(A-E) 20-21 Murillo, Jose A IC718 
-5 CP Spanish 3 5(A-E) 20-21 Mosby, Susan IC734 
-5 CP Spanish 3 6(A-E) 20-21 Murillo, Jose A IC718 
-5 CP Spanish 3 7(A-E) 20-21 Mosby, Susan IC734 
-5 CP Spanish 3 7(A-E) 20-21 Murillo, Jose A IC718 
-5 CP Spanish 3 7(A-E) 20-21 Woods, Chantal M IC733 
-5 CP Spanish 3 8(A-E) 20-21 Long, Lara M W304 
-5 CP Spanish 3 8(A-E) 20-21 Woods, Chantal M IC733 
-5 CP Spanish 3 for Spanish Speakers 3(A-E) 20-21 Barrera, Wilmer W300 
-5 CP Spanish 4 1(A-E) 20-21 Magerfleisch, Russell W212 
-5 CP Spanish 4 4(A-E) 20-21 Hester, Kathryn M IC745 
-5 CP Spanish 4 4(A-E) 20-21 Mosby, Susan IC734 
-5 CP Spanish 4 6(A-E) 20-21 Magerfleisch, Russell W212 
-5 CP Spanish 4 7(A-E) 20-21 Hester, Kathryn M IC745 
-5 CP Spanish 5 Conversation/Comp 3(A-E) 20-21 Campbell, Sarah W303 
-5 CP Spanish 5 Conversation/Comp 4(A-E) 20-21 Campbell, Sarah W303 
-5 CP Spanish 5 Conversation/Comp 7(A-E) 20-21 Campbell, Sarah W303 
-8 German Lang. Diploma Preparation 5(A-E) S1 Smith,Susanne IC747 
-8 German Lang. Diploma Preparation 5(A-E) S2 Smith,Susanne IC747 
+5 *AP Chinese Language and Culture 4(A-E) 20-21 Song, Zhihua W301
+5 *AP French Language and Culture 1(A-E) 20-21 Moreen, Angela W302
+5 *AP French Language and Culture 4(A-E) 20-21 Moreen, Angela W302
+5 *AP German Language and Culture 6(A-E) 20-21 Smith, Susanne IC733
+5 *AP Latin 2(A-E) 20-21 Rosevear, Amy IC716
+5 *AP Spanish Language and Culture 3(A-E) 20-21 Murillo, Jose A IC718
+5 *AP Spanish Language and Culture 4(A-E) 20-21 Hofmeister, Jamie IC733
+5 *AP Spanish Language and Culture 7(A-E) 20-21 Long, Lara M W304
+5 *AP Spanish Literature and Culture 1(A-E) 20-21 Campbell, Sarah W303
+5 *AP Spanish Literature and Culture 6(A-E) 20-21 Campbell, Sarah W303
+5 *Chinese 3/4 Honors 1(A-E) 20-21 Song, Zhihua W301
+5 *French 3/4 Honors 7(A-E) 20-21 Bowditch, Susan W302
+5 *French Literature 6 Honors 6(A-E) 20-21 Cronin, Paul IC747
+5 *German 3/4 Honors 6(A-E) 20-21 Daum-Schultz, Kerstin IC742
+5 *Latin 3/4 Honors 7(A-E) 20-21 Rosevear, Amy IC716
+5 *Spanish 3/4 Honors 2(A-E) 20-21 Jones, Jennifer IC740
+5 *Spanish 3/4 Honors 6(A-E) 20-21 Jones, Jennifer IC740
+5 CP American Sign Language 3(A-E) 20-21 Zurcher, Anne R W212
+5 CP American Sign Language 4(A-E) 20-21 Zurcher, Anne R W216
+5 CP American Sign Language 2 2(A-E) 20-21 Zurcher, Anne R W212
+5 CP American Sign Language 3 6(A-E) 20-21 Zurcher, Anne R IC734
+5 CP Chinese 1 6(A-E) 20-21 Song, Zhihua W301
+5 CP Chinese 1 7(A-E) 20-21 Song, Zhihua W301
+5 CP Chinese 2 2(A-E) 20-21 Song, Zhihua W301
+5 CP French 1 2(A-E) 20-21 Bowditch, Susan W302
+5 CP French 1 5(A-E) 20-21 Bowditch, Susan W302
+5 CP French 1 6(A-E) 20-21 Bowditch, Susan W302
+5 CP French 2 1(A-E) 20-21 Cronin, Paul IC747
+5 CP French 2 2(A-E) 20-21 Cronin, Paul IC747
+5 CP French 2 3(A-E) 20-21 Moreen, Angela W302
+5 CP French 2 8(A-E) 20-21 Moreen, Angela W302
+5 CP French 3 4(A-E) 20-21 Cronin, Paul IC747
+5 CP French 3 7(A-E) 20-21 Cronin, Paul IC747
+5 CP French 4 6(A-E) 20-21 Moreen, Angela W304
+5 CP German 1 1(A-E) 20-21 Smith, Susanne IC742
+5 CP German 1 7(A-E) 20-21 Smith, Susanne IC742
+5 CP German 2 2(A-E) 20-21 Daum-Schultz, Kerstin IC742
+5 CP German 2 5(A-E) 20-21 Daum-Schultz, Kerstin IC742
+5 CP Latin 1 1(A-E) 20-21 Rosevear, Amy IC716
+5 CP Latin 1 3(A-E) 20-21 Rosevear, Amy IC716
+5 CP Latin 2 6(A-E) 20-21 Rosevear, Amy IC716
+5 CP Spanish 1 1(A-E) 20-21 Arenas, Amber S IC734
+5 CP Spanish 1 2(A-E) 20-21 Woods, Chantal M IC747
+5 CP Spanish 1 3(A-E) 20-21 Casey, Brian W216
+5 CP Spanish 1 4(A-E) 20-21 Lee, Rebekah S W304
+5 CP Spanish 1 4(A-E) 20-21 Woods, Chantal M IC740
+5 CP Spanish 1 5(A-E) 20-21 FL Tch A, A IC745
+5 CP Spanish 1 5(A-E) 20-21 Woods, Chantal M IC740
+5 CP Spanish 1 6(A-E) 20-21 Casey, Brian W216
+5 CP Spanish 1 7(A-E) 20-21 Casey, Brian W216
+5 CP Spanish 1 8(A-E) 20-21 FL Tch A, A IC718
+5 CP Spanish 1 8(A-E) 20-21 Lee, Rebekah S W300
+5 CP Spanish 2 1(A-E) 20-21 Barrera, Wilmer IC745
+5 CP Spanish 2 1(A-E) 20-21 Jones, Jennifer IC740
+5 CP Spanish 2 1(A-E) 20-21 Lee, Rebekah S W300
+5 CP Spanish 2 2(A-E) 20-21 Arenas, Amber S IC734
+5 CP Spanish 2 2(A-E) 20-21 Hester, Kathryn M IC745
+5 CP Spanish 2 2(A-E) 20-21 Lee, Rebekah S W300
+5 CP Spanish 2 3(A-E) 20-21 Hester, Kathryn M IC745
+5 CP Spanish 2 3(A-E) 20-21 Jones, Jennifer IC740
+5 CP Spanish 2 4(A-E) 20-21 Arenas, Amber S W300
+5 CP Spanish 2 4(A-E) 20-21 Magerfleisch, Russell W212
+5 CP Spanish 2 5(A-E) 20-21 Barrera, Wilmer W300
+5 CP Spanish 2 5(A-E) 20-21 Lee, Rebekah S W304
+5 CP Spanish 2 6(A-E) 20-21 Barrera, Wilmer W300
+5 CP Spanish 2 6(A-E) 20-21 FL Tch A, A IC745
+5 CP Spanish 2 7(A-E) 20-21 Barrera, Wilmer W300
+5 CP Spanish 2 7(A-E) 20-21 Jones, Jennifer IC740
+5 CP Spanish 2 7(A-E) 20-21 Magerfleisch, Russell W212
+5 CP Spanish 2 8(A-E) 20-21 Hester, Kathryn M IC745
+5 CP Spanish 2 8(A-E) 20-21 Magerfleisch, Russell W212
+5 CP Spanish 3 1(A-E) 20-21 Casey, Brian W216
+5 CP Spanish 3 1(A-E) 20-21 Long, Lara M W304
+5 CP Spanish 3 1(A-E) 20-21 Murillo, Jose A IC718
+5 CP Spanish 3 2(A-E) 20-21 Casey, Brian W216
+5 CP Spanish 3 2(A-E) 20-21 Hofmeister, Jamie IC733
+5 CP Spanish 3 2(A-E) 20-21 Long, Lara M W304
+5 CP Spanish 3 3(A-E) 20-21 Hofmeister, Jamie IC733
+5 CP Spanish 3 3(A-E) 20-21 Long, Lara M W304
+5 CP Spanish 3 3(A-E) 20-21 Mosby, Susan IC734
+5 CP Spanish 3 4(A-E) 20-21 Murillo, Jose A IC718
+5 CP Spanish 3 5(A-E) 20-21 Mosby, Susan IC734
+5 CP Spanish 3 6(A-E) 20-21 Murillo, Jose A IC718
+5 CP Spanish 3 7(A-E) 20-21 Mosby, Susan IC734
+5 CP Spanish 3 7(A-E) 20-21 Murillo, Jose A IC718
+5 CP Spanish 3 7(A-E) 20-21 Woods, Chantal M IC733
+5 CP Spanish 3 8(A-E) 20-21 Long, Lara M W304
+5 CP Spanish 3 8(A-E) 20-21 Woods, Chantal M IC733
+5 CP Spanish 3 for Spanish Speakers 3(A-E) 20-21 Barrera, Wilmer W300
+5 CP Spanish 4 1(A-E) 20-21 Magerfleisch, Russell W212
+5 CP Spanish 4 4(A-E) 20-21 Hester, Kathryn M IC745
+5 CP Spanish 4 4(A-E) 20-21 Mosby, Susan IC734
+5 CP Spanish 4 6(A-E) 20-21 Magerfleisch, Russell W212
+5 CP Spanish 4 7(A-E) 20-21 Hester, Kathryn M IC745
+5 CP Spanish 5 Conversation/Comp 3(A-E) 20-21 Campbell, Sarah W303
+5 CP Spanish 5 Conversation/Comp 4(A-E) 20-21 Campbell, Sarah W303
+5 CP Spanish 5 Conversation/Comp 7(A-E) 20-21 Campbell, Sarah W303
+8 German Lang. Diploma Preparation 5(A-E) S1 Smith, Susanne IC747
+8 German Lang. Diploma Preparation 5(A-E) S2 Smith, Susanne IC747
 
 # BUSINESS
-6 Broadcast Media 7(A-E) S1 Weiss, Matthew W IC703 
-6 Broadcast Media 7(A-E) S2 Weiss, Matthew W IC703 
-6 Business Law 1 4(A-E) S1 Goodman,Michael W214 
-6 Business Law 1 6(A-E) S1 Goodman,Michael W214 
-6 Business Law 2 4(A-E) S2 Goodman, Michael W214 
-6 Child Development 6(A-E) S1 Sheets, Jennifer E W209 
-6 Computer Applications 1(A-E) S1 Sheets, Jennifer E W213 
-6 Computer Applications 1(A-E) S2 Sheets, Jennifer E W213 
-6 Contemporary Relationships 2(A-E) S2 Vasquez, Katie N W209 
-6 Contemporary Relationships 3(A-E) S2 Vasquez, Katie N W209 
-6 Contemporary Relationships 4(A-E) S2 Vasquez, Katie N W209 
-6 Contemporary Relationships 6(A-E) S2 Sheets, Jennifer E W209 
-6 Fashion/Interiors/Culinary Design 7(A-E) S2 Vasquez, Katie N W209 
-6 Fashion/Interiors/Culinary Design 8(A-E) S2 Vasquez, Katie N W209 
-6 Foods And Nutrition 1(A-E) S1 Vasquez, Katie N W209 
-6 Foods And Nutrition 2(A-E) S1 Vasquez, Katie N W209 
-6 Foods And Nutrition 3(A-E) S1 Vasquez, Katie N W209 
-6 Foods And Nutrition 4(A-E) S1 Vasquez, Katie N W209 
-6 Interior Design 1: Residential 7(A-E) S1 Vasquez, Katie N W209 
-6 Intro To Business 1(A-E) S1 Goodman, Michael W214 
-6 Intro To Business 2(A-E) S1 Padzik, Erica D W218 
-6 Intro To Business 3(A-E) S1 Sheets, Jennifer E W214 
-6 Intro To Business 5(A-E) S1 Sheets, Jennifer E W214 
-6 Intro To Business 8(A-E) S1 Sheets, Jennifer E W214 
-6 Intro To Business 1(A-E) S2 Goodman, Michael W214 
-6 Intro To Business 2(A-E) S2 Padzik, Erica D W218 
-6 Intro To Business 3(A-E) S2 Sheets, Jennifer E W214 
-6 Intro To Business 5(A-E) S2 Sheets, Jennifer E W214 
-6 Intro To Business 8(A-E) S2 Sheets, Jennifer E W214 
-6 Marketing 1 1(A-E) 20-21 Padzik, Erica D W218 
-6 Marketing 1 3(A-E) 20-21 Sheeks, Daniel W220 
-6 Marketing 1 4(A-E) 20-21 Adolphi-Seedorf, Elizabeth W218 
-6 Marketing 1 6(A-E) 20-21 Padzik, Erica D W218 
-6 Marketing 1 7(A-E) 20-21 Sheeks, Daniel W220 
-
-6 Marketing 2 3(A-E) 20-21 Padzik, Erica D W218 
-6 Marketing 2 4(A-E) 20-21 Sheeks, Daniel W220 
-6 Marketing 2 6(A-E) 20-21 Adolphi-Seedorf, Elizabeth W220 
-6 Marketing Coop 9(A-E) 20-21 Padzik, Erica D W218 
-6 Marketing Coop 9(A-E) 20-21 Sheeks, Daniel W220 
-6 Marketing Coop 9(A-E) 20-21 Adolphi-Seedorf, Elizabeth W220 
-6 Personal Finance 1(A-E) S1 Sheeks, Daniel W220 
-6 Personal Finance 2(A-E) S1 Goodman, Michael W214 
-6 Personal Finance 7(A-E) S1 Goodman, Michael W214 
-6 Personal Finance 1(A-E) S2 Sheeks, Daniel W220 
-6 Personal Finance 2(A-E) S2 Goodman, Michael W214 
-6 Personal Finance 6(A-E) S2 Goodman, Michael W214 
-6 Personal Finance 7(A-E) S2 Goodman, Michael W214 
+6 Broadcast Media 7(A-E) S1 Weiss, Matthew W IC703
+6 Broadcast Media 7(A-E) S2 Weiss, Matthew W IC703
+6 Business Law 1 4(A-E) S1 Goodman, Michael W214
+6 Business Law 1 6(A-E) S1 Goodman, Michael W214
+6 Business Law 2 4(A-E) S2 Goodman, Michael W214
+6 Child Development 6(A-E) S1 Sheets, Jennifer E W209
+6 Computer Applications 1(A-E) S1 Sheets, Jennifer E W213
+6 Computer Applications 1(A-E) S2 Sheets, Jennifer E W213
+6 Contemporary Relationships 2(A-E) S2 Vasquez, Katie N W209
+6 Contemporary Relationships 3(A-E) S2 Vasquez, Katie N W209
+6 Contemporary Relationships 4(A-E) S2 Vasquez, Katie N W209
+6 Contemporary Relationships 6(A-E) S2 Sheets, Jennifer E W209
+6 Fashion/Interiors/Culinary Design 7(A-E) S2 Vasquez, Katie N W209
+6 Fashion/Interiors/Culinary Design 8(A-E) S2 Vasquez, Katie N W209
+6 Foods And Nutrition 1(A-E) S1 Vasquez, Katie N W209
+6 Foods And Nutrition 2(A-E) S1 Vasquez, Katie N W209
+6 Foods And Nutrition 3(A-E) S1 Vasquez, Katie N W209
+6 Foods And Nutrition 4(A-E) S1 Vasquez, Katie N W209
+6 Interior Design 1: Residential 7(A-E) S1 Vasquez, Katie N W209
+6 Intro To Business 1(A-E) S1 Goodman, Michael W214
+6 Intro To Business 2(A-E) S1 Padzik, Erica D W218
+6 Intro To Business 3(A-E) S1 Sheets, Jennifer E W214
+6 Intro To Business 5(A-E) S1 Sheets, Jennifer E W214
+6 Intro To Business 8(A-E) S1 Sheets, Jennifer E W214
+6 Intro To Business 1(A-E) S2 Goodman, Michael W214
+6 Intro To Business 2(A-E) S2 Padzik, Erica D W218
+6 Intro To Business 3(A-E) S2 Sheets, Jennifer E W214
+6 Intro To Business 5(A-E) S2 Sheets, Jennifer E W214
+6 Intro To Business 8(A-E) S2 Sheets, Jennifer E W214
+6 Marketing 1 1(A-E) 20-21 Padzik, Erica D W218
+6 Marketing 1 3(A-E) 20-21 Sheeks, Daniel W220
+6 Marketing 1 4(A-E) 20-21 Adolphi-Seedorf, Elizabeth W218
+6 Marketing 1 6(A-E) 20-21 Padzik, Erica D W218
+6 Marketing 1 7(A-E) 20-21 Sheeks, Daniel W220
+6 Marketing 2 3(A-E) 20-21 Padzik, Erica D W218
+6 Marketing 2 4(A-E) 20-21 Sheeks, Daniel W220
+6 Marketing 2 6(A-E) 20-21 Adolphi-Seedorf, Elizabeth W220
+6 Marketing Coop 9(A-E) 20-21 Padzik, Erica D W218
+6 Marketing Coop 9(A-E) 20-21 Sheeks, Daniel W220
+6 Marketing Coop 9(A-E) 20-21 Adolphi-Seedorf, Elizabeth W220
+6 Personal Finance 1(A-E) S1 Sheeks, Daniel W220
+6 Personal Finance 2(A-E) S1 Goodman, Michael W214
+6 Personal Finance 7(A-E) S1 Goodman, Michael W214
+6 Personal Finance 1(A-E) S2 Sheeks, Daniel W220
+6 Personal Finance 2(A-E) S2 Goodman, Michael W214
+6 Personal Finance 6(A-E) S2 Goodman, Michael W214
+6 Personal Finance 7(A-E) S2 Goodman, Michael W214
 
 # FINE ARTS
-6 *AP Art History 2(A-E) 20-21 Ramsey, Sarah E200 
-6 *AP Music Theory 1(A-E) 20-21 Harrison, Sarah FA620 
-6 *AP Studio Art 3(A-E) 20-21 Seelaus, Alissandra C FA605 
-6 *AP Studio Art 3D 1(A-E) 20-21 Aldridge, Erin IC709 
-6 *AP Studio Art 3D 2(A-E) 20-21 Aldridge, Erin IC709 
-6 *AP Studio Art 3D 4(A-E) 20-21 Aldridge, Erin IC709 
-6 A Cappella Choir 2(A-E) 20-21 Cave, Adam FA644 
-6 Adv Drawing/Design 4(A-E) S2 Seelaus, Alissandra C IC707 
-6 Adv Video Production 7(A-E) 20-21 Gamelin, David FA622 
-6 Advanced Acting 7(A-E) 20-21 Burkart, Alex P FA621 
-6 Advanced Ceramics 7(A-E) S1 Yee, Efong Rose FA600 
-6 Advanced Ceramics 7(A-E) S2 Yee, Efong Rose FA600 
-6 Advanced Painting 6(A-E) S2 Stallings, David FA603 
-6 Artisans Workshop 3(A-E) S1 Seelaus, Alissandra C FA605 
-6 Artisans Workshop 3(A-E) S2 Seelaus, Alissandra C FA605 
-6 Beginning Acting 2(A-E) S1 Burkart, Alex P FA621 
-6 Beginning Acting 2(A-E) S2 Burkart, Alex P FA621 
-6 Beginning Acting 5(A-E) S2 Burkart, Alex P FA621 
-6 Broadcast Journalism/TV Prod 6(A-E) S1 Gamelin, David FA622 
-6 Broadcast Journalism/TV Prod 2 6(A-E) S2 Gamelin, David FA622 
-6 Ceramics 1 1(A-E) S1 Yee, Efong Rose FA600 
-6 Ceramics 1 2(A-E) S1 Yee, Efong Rose FA600 
-6 Ceramics 1 4(A-E) S1 Yee, Efong Rose FA600 
-6 Ceramics 1 6(A-E) S1 Yee, Efong Rose FA600 
-6 Ceramics 1 2(A-E) S2 Yee, Efong Rose FA600 
-6 Ceramics 1 7(A-E) S2 Yee, Efong Rose FA600 
-6 Ceramics 2 7(A-E) S1 Yee, Efong Rose FA600 
-6 Ceramics 2 1(A-E) S2 Yee, Efong Rose FA600 
-6 Ceramics 2 4(A-E) S2 Yee, Efong Rose FA600 
-6 Ceramics 2 6(A-E) S2 Yee, Efong Rose FA600 
-
-6 Chamber Orchestra 3(A-E) 20-21 Poole, Jennifer FA642 
-6 Choralaires 2(A-E) 20-21 Harrison, Sarah FA643 
-6 Choralaires 5(A-E) 20-21 Harrison, Sarah FA643 
-6 Concert Band 1(A-E) 20-21 Libby, Timothy FA640 
-6 Concert Band 1(A-E) 20-21 Wynes, Sara FA640 
-6 Concert Orchestra 4(A-E) 20-21 Poole, Jennifer FA642 
-6 Directing 7(A-E) 20-21 Burkart, Alex P FA621 
-6 Drawing/Design 1 3(A-E) S1 Stallings, David FA607 
-6 Drawing/Design 1 4(A-E) S1 Scott, Michelle A FA607 
-6 Drawing/Design 1 5(A-E) S1 Scott, Michelle A FA607 
-6 Drawing/Design 1 6(A-E) S1 Seelaus, Alissandra C FA601 
-6 Drawing/Design 1 7(A-E) S1 Seelaus, Alissandra C FA601 
-6 Drawing/Design 1 8(A-E) S1 Stallings, David FA607 
-6 Drawing/Design 1 1(A-E) S2 Seelaus, Alissandra C FA601 
-6 Drawing/Design 1 5(A-E) S2 Scott, Michelle A FA607 
-6 Drawing/Design 1 6(A-E) S2 Scott, Michelle A FA607 
-6 Drawing/Design 2 4(A-E) S1 Seelaus, Alissandra C FA601 
-6 Drawing/Design 2 3(A-E) S2 Stallings, David FA607 
-6 Drawing/Design 2 6(A-E) S2 Seelaus, Alissandra C FA601 
-6 Drawing/Design 2 7(A-E) S2 Seelaus, Alissandra C FA601 
-6 Drawing/Design 2 8(A-E) S2 Stallings, David FA607 
-6 Girls 21 4(A-E) 20-21 Cave, Adam FA644 
-6 Intermediate Acting 4(A-E) 20-21 Burkart, Alex P FA621 
-6 Jazz Band 1 7(A-E) 20-21 Libby, Timothy FA640 
-6 Jazz Band 2 6(A-E) 20-21 Libby, Timothy FA640 
-6 Jewelry/Metal 1 1(A-E) S1 Aldridge, Erin IC709 
-6 Jewelry/Metal 1 2(A-E) S1 Aldridge, Erin IC709 
-6 Jewelry/Metal 1 4(A-E) S1 Aldridge, Erin IC709 
-6 Jewelry/Metal 1 8(A-E) S1 Scott, Michelle A IC709 
-6 Jewelry/Metal 1 4(A-E) S2 Aldridge, Erin IC709 
-6 Jewelry/Metal 1 8(A-E) S2 Scott, Michelle A IC709 
-6 Jewelry/Metal 2 1(A-E) S2 Aldridge, Erin IC709 
-
-6 Jewelry/Metal 2 2(A-E) S2 Aldridge, Erin IC709 
-6 Live Figure Drawing 4(A-E) S1 Stallings, David FA603 
-6 MAL Fine Arts 6(A-E) S1 Burkart, Alex P FA607 
-6 Meistersingers 6(A-E) 20-21 Harrison, Sarah FA644 
-6 Painting 1(A-E) S1 Seelaus, Alissandra C FA603 
-6 Painting 6(A-E) S1 Stallings, David FA603 
-6 Painting 4(A-E) S2 Stallings, David FA603 
-6 Photography 1 2(A-E) S1 Adams, Todd IC707 
-6 Photography 1 3(A-E) S1 Adams, Todd IC707 
-6 Photography 1 5(A-E) S1 Adams, Todd CTE 
-6 Photography 1 6(A-E) S1 Adams, Todd CTE 
-6 Photography 1 5(A-E) S2 Adams, Todd CTE 
-6 Photography 1 6(A-E) S2 Adams, Todd CTE 
-6 Photography 2 2(A-E) S2 Adams, Todd IC707 
-6 Photography 2 3(A-E) S2 Adams, Todd IC707 
-6 Piano 5(A-E) 20-21 Wynes, Sara FA620 
-6 Piano 7(A-E) 20-21 Cave, Adam FA620 
-6 Statesmen 5(A-E) 20-21 Cave, Adam FA644 
-6 Symphonic Band 1 2(A-E) 20-21 Wynes, Sara FA640 
-6 Symphonic Band 2 4(A-E) 20-21 Libby, Timothy FA640 
-6 Symphonic Band 2 4(A-E) 20-21 Wynes, Sara FA640 
-6 Symphonic Orchestra 6(A-E) 20-21 Poole, Jennifer FA642 
-6 Technical Theatre 1 8(A-E) S1 Burkart, Alex P FA601 
-6 Technical Theatre 2 8(A-E) S2 Burkart, Alex P FA601 
-6 Troubadours 3(A-E) 20-21 Harrison, Sarah FA644 
-6 Union Street Jazz Choir 8(A-E) 20-21 Cave, Adam FA644 
-6 Video Production 1 1(A-E) S1 Gamelin, David FA622 
-6 Video Production 1 2(A-E) S1 Gamelin, David FA622 
-6 Video Production 1 3(A-E) S1 Gamelin, David FA622 
-6 Video Production 1 1(A-E) S2 Gamelin, David FA622 
-
-6 Video Production 2 2(A-E) S2 Gamelin, David FA622 
-6 Video Production 2 3(A-E) S2 Gamelin, David FA622 
-6 Wind Ensemble 3(A-E) 20-21 Libby, Timothy FA640 
-6 Yearbook 3(A-E) 20-21 Scott, Michelle A IC705 
-9 Digital Commercial Photography 7(A-E) 20-21 Adams, Todd CTE 
+6 *AP Art History 2(A-E) 20-21 Ramsey, Sarah E200
+6 *AP Music Theory 1(A-E) 20-21 Harrison, Sarah FA620
+6 *AP Studio Art 3(A-E) 20-21 Seelaus, Alissandra C FA605
+6 *AP Studio Art 3D 1(A-E) 20-21 Aldridge, Erin IC709
+6 *AP Studio Art 3D 2(A-E) 20-21 Aldridge, Erin IC709
+6 *AP Studio Art 3D 4(A-E) 20-21 Aldridge, Erin IC709
+6 A Cappella Choir 2(A-E) 20-21 Cave, Adam FA644
+6 Adv Drawing/Design 4(A-E) S2 Seelaus, Alissandra C IC707
+6 Adv Video Production 7(A-E) 20-21 Gamelin, David FA622
+6 Advanced Acting 7(A-E) 20-21 Burkart, Alex P FA621
+6 Advanced Ceramics 7(A-E) S1 Yee, Efong Rose FA600
+6 Advanced Ceramics 7(A-E) S2 Yee, Efong Rose FA600
+6 Advanced Painting 6(A-E) S2 Stallings, David FA603
+6 Artisans Workshop 3(A-E) S1 Seelaus, Alissandra C FA605
+6 Artisans Workshop 3(A-E) S2 Seelaus, Alissandra C FA605
+6 Beginning Acting 2(A-E) S1 Burkart, Alex P FA621
+6 Beginning Acting 2(A-E) S2 Burkart, Alex P FA621
+6 Beginning Acting 5(A-E) S2 Burkart, Alex P FA621
+6 Broadcast Journalism/TV Prod 6(A-E) S1 Gamelin, David FA622
+6 Broadcast Journalism/TV Prod 2 6(A-E) S2 Gamelin, David FA622
+6 Ceramics 1 1(A-E) S1 Yee, Efong Rose FA600
+6 Ceramics 1 2(A-E) S1 Yee, Efong Rose FA600
+6 Ceramics 1 4(A-E) S1 Yee, Efong Rose FA600
+6 Ceramics 1 6(A-E) S1 Yee, Efong Rose FA600
+6 Ceramics 1 2(A-E) S2 Yee, Efong Rose FA600
+6 Ceramics 1 7(A-E) S2 Yee, Efong Rose FA600
+6 Ceramics 2 7(A-E) S1 Yee, Efong Rose FA600
+6 Ceramics 2 1(A-E) S2 Yee, Efong Rose FA600
+6 Ceramics 2 4(A-E) S2 Yee, Efong Rose FA600
+6 Ceramics 2 6(A-E) S2 Yee, Efong Rose FA600
+6 Chamber Orchestra 3(A-E) 20-21 Poole, Jennifer FA642
+6 Choralaires 2(A-E) 20-21 Harrison, Sarah FA643
+6 Choralaires 5(A-E) 20-21 Harrison, Sarah FA643
+6 Concert Band 1(A-E) 20-21 Libby, Timothy FA640
+6 Concert Band 1(A-E) 20-21 Wynes, Sara FA640
+6 Concert Orchestra 4(A-E) 20-21 Poole, Jennifer FA642
+6 Directing 7(A-E) 20-21 Burkart, Alex P FA621
+6 Drawing/Design 1 3(A-E) S1 Stallings, David FA607
+6 Drawing/Design 1 4(A-E) S1 Scott, Michelle A FA607
+6 Drawing/Design 1 5(A-E) S1 Scott, Michelle A FA607
+6 Drawing/Design 1 6(A-E) S1 Seelaus, Alissandra C FA601
+6 Drawing/Design 1 7(A-E) S1 Seelaus, Alissandra C FA601
+6 Drawing/Design 1 8(A-E) S1 Stallings, David FA607
+6 Drawing/Design 1 1(A-E) S2 Seelaus, Alissandra C FA601
+6 Drawing/Design 1 5(A-E) S2 Scott, Michelle A FA607
+6 Drawing/Design 1 6(A-E) S2 Scott, Michelle A FA607
+6 Drawing/Design 2 4(A-E) S1 Seelaus, Alissandra C FA601
+6 Drawing/Design 2 3(A-E) S2 Stallings, David FA607
+6 Drawing/Design 2 6(A-E) S2 Seelaus, Alissandra C FA601
+6 Drawing/Design 2 7(A-E) S2 Seelaus, Alissandra C FA601
+6 Drawing/Design 2 8(A-E) S2 Stallings, David FA607
+6 Girls 21 4(A-E) 20-21 Cave, Adam FA644
+6 Intermediate Acting 4(A-E) 20-21 Burkart, Alex P FA621
+6 Jazz Band 1 7(A-E) 20-21 Libby, Timothy FA640
+6 Jazz Band 2 6(A-E) 20-21 Libby, Timothy FA640
+6 Jewelry/Metal 1 1(A-E) S1 Aldridge, Erin IC709
+6 Jewelry/Metal 1 2(A-E) S1 Aldridge, Erin IC709
+6 Jewelry/Metal 1 4(A-E) S1 Aldridge, Erin IC709
+6 Jewelry/Metal 1 8(A-E) S1 Scott, Michelle A IC709
+6 Jewelry/Metal 1 4(A-E) S2 Aldridge, Erin IC709
+6 Jewelry/Metal 1 8(A-E) S2 Scott, Michelle A IC709
+6 Jewelry/Metal 2 1(A-E) S2 Aldridge, Erin IC709
+6 Jewelry/Metal 2 2(A-E) S2 Aldridge, Erin IC709
+6 Live Figure Drawing 4(A-E) S1 Stallings, David FA603
+6 MAL Fine Arts 6(A-E) S1 Burkart, Alex P FA607
+6 Meistersingers 6(A-E) 20-21 Harrison, Sarah FA644
+6 Painting 1(A-E) S1 Seelaus, Alissandra C FA603
+6 Painting 6(A-E) S1 Stallings, David FA603
+6 Painting 4(A-E) S2 Stallings, David FA603
+6 Photography 1 2(A-E) S1 Adams, Todd IC707
+6 Photography 1 3(A-E) S1 Adams, Todd IC707
+6 Photography 1 5(A-E) S1 Adams, Todd CTE
+6 Photography 1 6(A-E) S1 Adams, Todd CTE
+6 Photography 1 5(A-E) S2 Adams, Todd CTE
+6 Photography 1 6(A-E) S2 Adams, Todd CTE
+6 Photography 2 2(A-E) S2 Adams, Todd IC707
+6 Photography 2 3(A-E) S2 Adams, Todd IC707
+6 Piano 5(A-E) 20-21 Wynes, Sara FA620
+6 Piano 7(A-E) 20-21 Cave, Adam FA620
+6 Statesmen 5(A-E) 20-21 Cave, Adam FA644
+6 Symphonic Band 1 2(A-E) 20-21 Wynes, Sara FA640
+6 Symphonic Band 2 4(A-E) 20-21 Libby, Timothy FA640
+6 Symphonic Band 2 4(A-E) 20-21 Wynes, Sara FA640
+6 Symphonic Orchestra 6(A-E) 20-21 Poole, Jennifer FA642
+6 Technical Theatre 1 8(A-E) S1 Burkart, Alex P FA601
+6 Technical Theatre 2 8(A-E) S2 Burkart, Alex P FA601
+6 Troubadours 3(A-E) 20-21 Harrison, Sarah FA644
+6 Union Street Jazz Choir 8(A-E) 20-21 Cave, Adam FA644
+6 Video Production 1 1(A-E) S1 Gamelin, David FA622
+6 Video Production 1 2(A-E) S1 Gamelin, David FA622
+6 Video Production 1 3(A-E) S1 Gamelin, David FA622
+6 Video Production 1 1(A-E) S2 Gamelin, David FA622
+6 Video Production 2 2(A-E) S2 Gamelin, David FA622
+6 Video Production 2 3(A-E) S2 Gamelin, David FA622
+6 Wind Ensemble 3(A-E) 20-21 Libby, Timothy FA640
+6 Yearbook 3(A-E) 20-21 Scott, Michelle A IC705
+6 Digital Commercial Photography 7(A-E) 20-21 Adams, Todd CTE
 
 # PE/HEALTH
-7 Advanced Fitness 1(A-E) S1 Betti,Benedetto W WT RM 
-7 Advanced Fitness 2(A-E) S1 Betti,Benedetto W WT RM 
-7 Advanced Fitness 4(A-E) S1 Betti,Benedetto W WT RM 
-7 Advanced Fitness 7(A-E) S1 Betti,Benedetto W WT RM 
-7 Advanced Fitness 1(A-E) S2 Betti,Benedetto W WT RM 
-7 Advanced Fitness 2(A-E) S2 Betti,Benedetto W WT RM 
-7 Advanced Fitness 4(A-E) S2 Betti,Benedetto W WT RM 
-7 Advanced Fitness 7(A-E) S2 Betti,Benedetto W WT RM 
-7 Adventure Challenge Course 4(A-E) S1 Goeglein, Michael ClimbingR 
-7 Adventure Challenge Course 5(A-E) S1 Morris, Theresa ClimbingR 
-7 Adventure Challenge Course 6(A-E) S1 Goeglein, Michael ClimbingR 
-7 Adventure Challenge Course 7(A-E) S1 Goeglein, Michael ClimbingR 
-7 Adventure Challenge Course 4(A-E) S2 Goeglein, Michael ClimbingR 
-7 Adventure Challenge Course 5(A-E) S2 Morris, Theresa ClimbingR 
-7 Adventure Challenge Course 6(A-E) S2 Goeglein, Michael ClimbingR 
-7 Adventure Challenge Course 7(A-E) S2 Goeglein, Michael ClimbingR 
-7 Adventure Leader 1(A-E) S1 Goeglein, Michael ClimbingR 
-7 Adventure Leader 2(A-E) S1 Morris, Theresa ClimbingR 
-7 Adventure Leader 3(A-E) S1 Morris, Theresa ClimbingR 
-7 Adventure Leader 4(A-E) S1 Goeglein, Michael ClimbingR 
-7 Adventure Leader 5(A-E) S1 Morris, Theresa ClimbingR 
-7 Adventure Leader 6(A-E) S1 Goeglein, Michael ClimbingR 
-7 Adventure Leader 7(A-E) S1 Goeglein, Michael ClimbingR 
-7 Adventure Leader 8(A-E) S1 Goeglein, Michael ClimbingR 
-7 Adventure Leader 8(A-E) S1 Morris, Theresa Pool 
-7 Adventure Leader 1(A-E) S2 Goeglein, Michael ClimbingR 
-7 Adventure Leader 2(A-E) S2 Morris, Theresa ClimbingR 
-7 Adventure Leader 3(A-E) S2 Morris, Theresa ClimbingR 
-7 Adventure Leader 4(A-E) S2 Goeglein, Michael ClimbingR 
-7 Adventure Leader 5(A-E) S2 Morris, Theresa ClimbingR 
-7 Adventure Leader 6(A-E) S2 Goeglein, Michael ClimbingR 
-7 Adventure Leader 7(A-E) S2 Goeglein, Michael ClimbingR 
-7 Adventure Leader 7(A-E) S2 Morris, Theresa Pool 
-7 Adventure Leader 8(A-E) S2 Goeglein, Michael ClimbingR 
-7 Adventure Leader 8(A-E) S2 Morris, Theresa Pool 
-7 Adventure Leader Training 8(A-E) S1 Goeglein,Michael ClimbingR 
-7 Adventure Leader Training 8(A-E) S2 Goeglein,Michael ClimbingR 
-7 Adventure Outdoor Ed 2(A-E) S1 Morris,Theresa ClimbingR 
-7 Adventure Outdoor Ed 3(A-E) S1 Morris,Theresa ClimbingR 
-7 Adventure Outdoor Ed 2(A-E) S2 Morris,Theresa ClimbingR 
-
-7 Adventure Outdoor Ed 3(A-E) S2 Morris, Theresa ClimbingR 
-7 Adventure Water Sports 8(A-E) S1 Morris,Theresa POOL 
-7 Adventure Water Sports 7(A-E) S2 Morris,Theresa POOL 
-7 Adventure Water Sports 8(A-E) S2 Morris,Theresa POOL 
-7Aerobics 1(A-E) S1 Lane,Holly DanceRm 
-7Aerobics 1(A-E) S2 Lane,Holly DanceRm 
-7Dance 3(A-E) S1 Lagrange, Sarah C DanceRm 
-7Dance 4(A-E) S1 Lagrange, Sarah C DanceRm 
-7Dance 5(A-E) S1 Lagrange, Sarah C DanceRm 
-7Dance 3(A-E) S2 Lagrange, Sarah C DanceRm 
-7Dance 4(A-E) S2 Lagrange, Sarah C DanceRm 
-7Dance 5(A-E) S2 Lagrange, Sarah C DanceRm 
-7Health 1(A-E) S1 Carroll, Michael W203 
-7Health 1(A-E) S1 McKean, Allison J W201 
-7Health 2(A-E) S1 Carroll, Michael W203 
-7Health 2(A-E) S1 Goldsberry, Mark S W201 
-7Health 3(A-E) S1 Goldsberry, Mark S W201 
-7Health 4(A-E) S1 Carroll, Michael W203 
-7Health 5(A-E) S1 Carroll, Michael W203 
-7Health 6(A-E) S1 Goldsberry, Mark S W201 
-7Health 7(A-E) S1 Goldsberry, Mark S W201 
-7Health 8(A-E) S1 Carroll, Michael W203 
-7Health 8(A-E) S1 Daum-Schultz, Kerstin W201 
-7Health 1(A-E) S2 Carroll, Michael W203 
-7Health 2(A-E) S2 Carroll, Michael W203 
-7Health 2(A-E) S2 Goldsberry, Mark S W201 
-7Health 3(A-E) S2 Goldsberry, Mark S W201 
-7Health 3(A-E) S2 McKean, Allison J W203 
-7Health 4(A-E) S2 Carroll, Michael W203 
-7Health 5(A-E) S2 Carroll, Michael W203 
-7Health 6(A-E) S2 Goldsberry, Mark S W201 
-7Health 7(A-E) S2 Carroll, Michael W203 
-7Health 7(A-E) S2 Goldsberry, Mark S W201 
-7Health 8(A-E) S2 Daum-Schultz, Kerstin W203 
-7 Individual Sports 1(A-E) S1 Debello, Patrick SGYM 
-7 Individual Sports 2(A-E) S1 Debello, Patrick SGYM 
-7 Individual Sports 3(A-E) S1 Lane, Holly SGYM 
-7 Individual Sports 7(A-E) S1 Adams-Moos, Sally SGYM 
-7 Individual Sports 8(A-E) S1 Adams-Moos, Sally SGYM 
-7 Individual Sports 1(A-E) S2 Debello, Patrick SGYM 
-
-7 Individual Sports 2(A-E) S2 Debello, Patrick S GYM 
-7 Individual Sports 3(A-E) S2 Lane, Holly S GYM 
-7 Individual Sports 6(A-E) S2 Lane, Holly S GYM 
-7 Individual Sports 7(A-E) S2 Adams-Moos, Sally S GYM 
-7 Individual Sports 8(A-E) S2 Adams-Moos, Sally S GYM 
-7 Peer Mentor P.E. 7(A-E) S1 Critchett,Greg EGYM 
-7 Peer Mentor P.E. 7(A-E) S2 Critchett,Greg EGYM 
-7 Personal Fitness 5(C) S1 Lane,Holly W201 
-7 Personal Fitness 8(C) S1 Lane,Holly W218 
-7 Personal Fitness 5(C) S2 Lane,Holly W201 
-7 Swimming Fitness 7(A-E) S1 Morris, Theresa POOL 
-7 Team Sports 1(A-E) S1 Luhring, Michael NGYM 
-7 Team Sports 2(A-E) S1 Adams-Moos, Sally NGYM 
-7 Team Sports 3(A-E) S1 Adams-Moos, Sally NGYM 
-7 Team Sports 4(A-E) S1 Debello, Patrick NGYM 
-7 Team Sports 5(A-E) S1 Luhring, Michael NGYM 
-7 Team Sports 6(A-E) S1 Luhring, Michael NGYM 
-7 Team Sports 7(A-E) S1 Lane, Holly NGYM 
-7 Team Sports 8(A-E) S1 Debello, Patrick NGYM 
-7 Team Sports 1(A-E) S2 Luhring, Michael NGYM 
-7 Team Sports 2(A-E) S2 Adams-Moos, Sally NGYM 
-7 Team Sports 3(A-E) S2 Adams-Moos, Sally NGYM 
-7 Team Sports 4(A-E) S2 Debello, Patrick NGYM 
-7 Team Sports 5(A-E) S2 Luhring, Michael NGYM 
-7 Team Sports 6(A-E) S2 Debello, Patrick NGYM 
-7 Team Sports 7(A-E) S2 Luhring, Michael NGYM 
-7 Team Sports 8(A-E) S2 Lane, Holly NGYM 
-7 Weight Training 1 3(A-E) S1 Luhring, Michael W WT RM 
-7 Weight Training 1 5(A-E) S1 Debello, Patrick W WT RM 
-7 Weight Training 1 6(A-E) S1 Betti, Benedetto W WT RM 
-7 Weight Training 1 8(A-E) S1 Luhring, Michael W WT RM 
-7 Weight Training 1 3(A-E) S2 Luhring, Michael W WT RM 
-7 Weight Training 1 5(A-E) S2 Debello, Patrick W WT RM 
-7 Weight Training 1 8(A-E) S2 Betti, Benedetto W WT RM 
-7 Weight Training 2 6(A-E) S2 Luhring, Michael W WT RM 
-7Yoga 2(A-E) S1 McKean, Allison J DanceRm 
-7Yoga 6(A-E) S1 McKean, Allison J DanceRm 
-7Yoga 7(A-E) S1 McKean, Allison J DanceRm 
-
-7 Yoga 8(A-E) S1 McKean, Allison J DanceRm 
-7 Yoga 2(A-E) S2 McKean, Allison J DanceRm 
-7 Yoga 6(A-E) S2 McKean, Allison J DanceRm 
-7 Yoga 7(A-E) S2 McKean, Allison J DanceRm 
-7 Yoga 8(A-E) S2 McKean, Allison J DanceRm 
+7 Advanced Fitness 1(A-E) S1 Betti, Benedetto W WT RM
+7 Advanced Fitness 2(A-E) S1 Betti, Benedetto W WT RM
+7 Advanced Fitness 4(A-E) S1 Betti, Benedetto W WT RM
+7 Advanced Fitness 7(A-E) S1 Betti, Benedetto W WT RM
+7 Advanced Fitness 1(A-E) S2 Betti, Benedetto W WT RM
+7 Advanced Fitness 2(A-E) S2 Betti, Benedetto W WT RM
+7 Advanced Fitness 4(A-E) S2 Betti, Benedetto W WT RM
+7 Advanced Fitness 7(A-E) S2 Betti, Benedetto W WT RM
+7 Adventure Challenge Course 4(A-E) S1 Goeglein, Michael Climbing R
+7 Adventure Challenge Course 5(A-E) S1 Morris, Theresa Climbing R
+7 Adventure Challenge Course 6(A-E) S1 Goeglein, Michael Climbing R
+7 Adventure Challenge Course 7(A-E) S1 Goeglein, Michael Climbing R
+7 Adventure Challenge Course 4(A-E) S2 Goeglein, Michael Climbing R
+7 Adventure Challenge Course 5(A-E) S2 Morris, Theresa Climbing R
+7 Adventure Challenge Course 6(A-E) S2 Goeglein, Michael Climbing R
+7 Adventure Challenge Course 7(A-E) S2 Goeglein, Michael Climbing R
+7 Adventure Leader 1(A-E) S1 Goeglein, Michael Climbing R
+7 Adventure Leader 2(A-E) S1 Morris, Theresa Climbing R
+7 Adventure Leader 3(A-E) S1 Morris, Theresa Climbing R
+7 Adventure Leader 4(A-E) S1 Goeglein, Michael Climbing R
+7 Adventure Leader 5(A-E) S1 Morris, Theresa Climbing R
+7 Adventure Leader 6(A-E) S1 Goeglein, Michael Climbing R
+7 Adventure Leader 7(A-E) S1 Goeglein, Michael Climbing R
+7 Adventure Leader 8(A-E) S1 Goeglein, Michael Climbing R
+7 Adventure Leader 8(A-E) S1 Morris, Theresa Pool
+7 Adventure Leader 1(A-E) S2 Goeglein, Michael Climbing R
+7 Adventure Leader 2(A-E) S2 Morris, Theresa Climbing R
+7 Adventure Leader 3(A-E) S2 Morris, Theresa Climbing R
+7 Adventure Leader 4(A-E) S2 Goeglein, Michael Climbing R
+7 Adventure Leader 5(A-E) S2 Morris, Theresa Climbing R
+7 Adventure Leader 6(A-E) S2 Goeglein, Michael Climbing R
+7 Adventure Leader 7(A-E) S2 Goeglein, Michael Climbing R
+7 Adventure Leader 7(A-E) S2 Morris, Theresa Pool
+7 Adventure Leader 8(A-E) S2 Goeglein, Michael Climbing R
+7 Adventure Leader 8(A-E) S2 Morris, Theresa Pool
+7 Adventure Leader Training 8(A-E) S1 Goeglein, Michael Climbing R
+7 Adventure Leader Training 8(A-E) S2 Goeglein, Michael Climbing R
+7 Adventure Outdoor Ed 2(A-E) S1 Morris, Theresa Climbing R
+7 Adventure Outdoor Ed 3(A-E) S1 Morris, Theresa Climbing R
+7 Adventure Outdoor Ed 2(A-E) S2 Morris, Theresa Climbing R
+7 Adventure Outdoor Ed 3(A-E) S2 Morris, Theresa Climbing R
+7 Adventure Water Sports 8(A-E) S1 Morris, Theresa Pool
+7 Adventure Water Sports 7(A-E) S2 Morris, Theresa Pool
+7 Adventure Water Sports 8(A-E) S2 Morris, Theresa Pool
+7 Aerobics 1(A-E) S1 Lane, Holly Dance Rm
+7 Aerobics 1(A-E) S2 Lane, Holly Dance Rm
+7 Dance 3(A-E) S1 Lagrange, Sarah C Dance Rm
+7 Dance 4(A-E) S1 Lagrange, Sarah C Dance Rm
+7 Dance 5(A-E) S1 Lagrange, Sarah C Dance Rm
+7 Dance 3(A-E) S2 Lagrange, Sarah C Dance Rm
+7 Dance 4(A-E) S2 Lagrange, Sarah C Dance Rm
+7 Dance 5(A-E) S2 Lagrange, Sarah C Dance Rm
+7 Health 1(A-E) S1 Carroll, Michael W203
+7 Health 1(A-E) S1 McKean, Allison J W201
+7 Health 2(A-E) S1 Carroll, Michael W203
+7 Health 2(A-E) S1 Goldsberry, Mark S W201
+7 Health 3(A-E) S1 Goldsberry, Mark S W201
+7 Health 4(A-E) S1 Carroll, Michael W203
+7 Health 5(A-E) S1 Carroll, Michael W203
+7 Health 6(A-E) S1 Goldsberry, Mark S W201
+7 Health 7(A-E) S1 Goldsberry, Mark S W201
+7 Health 8(A-E) S1 Carroll, Michael W203
+7 Health 8(A-E) S1 Daum-Schultz, Kerstin W201
+7 Health 1(A-E) S2 Carroll, Michael W203
+7 Health 2(A-E) S2 Carroll, Michael W203
+7 Health 2(A-E) S2 Goldsberry, Mark S W201
+7 Health 3(A-E) S2 Goldsberry, Mark S W201
+7 Health 3(A-E) S2 McKean, Allison J W203
+7 Health 4(A-E) S2 Carroll, Michael W203
+7 Health 5(A-E) S2 Carroll, Michael W203
+7 Health 6(A-E) S2 Goldsberry, Mark S W201
+7 Health 7(A-E) S2 Carroll, Michael W203
+7 Health 7(A-E) S2 Goldsberry, Mark S W201
+7 Health 8(A-E) S2 Daum-Schultz, Kerstin W203
+7 Individual Sports 1(A-E) S1 Debello, Patrick S GYM
+7 Individual Sports 2(A-E) S1 Debello, Patrick S GYM
+7 Individual Sports 3(A-E) S1 Lane, Holly S GYM
+7 Individual Sports 7(A-E) S1 Adams-Moos, Sally S GYM
+7 Individual Sports 8(A-E) S1 Adams-Moos, Sally S GYM
+7 Individual Sports 1(A-E) S2 Debello, Patrick S GYM
+7 Individual Sports 2(A-E) S2 Debello, Patrick S GYM
+7 Individual Sports 3(A-E) S2 Lane, Holly S GYM
+7 Individual Sports 6(A-E) S2 Lane, Holly S GYM
+7 Individual Sports 7(A-E) S2 Adams-Moos, Sally S GYM
+7 Individual Sports 8(A-E) S2 Adams-Moos, Sally S GYM
+7 Peer Mentor P.E. 7(A-E) S1 Critchett, Greg E GYM
+7 Peer Mentor P.E. 7(A-E) S2 Critchett, Greg E GYM
+7 Personal Fitness 5(A-E) S1 Lane, Holly W201
+7 Personal Fitness 8(A-E) S1 Lane, Holly W218
+7 Personal Fitness 5(A-E) S2 Lane, Holly W201
+7 Swimming Fitness 7(A-E) S1 Morris, Theresa Pool
+7 Team Sports 1(A-E) S1 Luhring, Michael N GYM
+7 Team Sports 2(A-E) S1 Adams-Moos, Sally N GYM
+7 Team Sports 3(A-E) S1 Adams-Moos, Sally N GYM
+7 Team Sports 4(A-E) S1 Debello, Patrick N GYM
+7 Team Sports 5(A-E) S1 Luhring, Michael N GYM
+7 Team Sports 6(A-E) S1 Luhring, Michael N GYM
+7 Team Sports 7(A-E) S1 Lane, Holly N GYM
+7 Team Sports 8(A-E) S1 Debello, Patrick N GYM
+7 Team Sports 1(A-E) S2 Luhring, Michael N GYM
+7 Team Sports 2(A-E) S2 Adams-Moos, Sally N GYM
+7 Team Sports 3(A-E) S2 Adams-Moos, Sally N GYM
+7 Team Sports 4(A-E) S2 Debello, Patrick N GYM
+7 Team Sports 5(A-E) S2 Luhring, Michael N GYM
+7 Team Sports 6(A-E) S2 Debello, Patrick N GYM
+7 Team Sports 7(A-E) S2 Luhring, Michael N GYM
+7 Team Sports 8(A-E) S2 Lane, Holly N GYM
+7 Weight Training 1 3(A-E) S1 Luhring, Michael W WT RM
+7 Weight Training 1 5(A-E) S1 Debello, Patrick W WT RM
+7 Weight Training 1 6(A-E) S1 Betti, Benedetto W WT RM
+7 Weight Training 1 8(A-E) S1 Luhring, Michael W WT RM
+7 Weight Training 1 3(A-E) S2 Luhring, Michael W WT RM
+7 Weight Training 1 5(A-E) S2 Debello, Patrick W WT RM
+7 Weight Training 1 8(A-E) S2 Betti, Benedetto W WT RM
+7 Weight Training 2 6(A-E) S2 Luhring, Michael W WT RM
+7 Yoga 2(A-E) S1 McKean, Allison J Dance Rm
+7 Yoga 6(A-E) S1 McKean, Allison J Dance Rm
+7 Yoga 7(A-E) S1 McKean, Allison J Dance Rm
+7 Yoga 8(A-E) S1 McKean, Allison J Dance Rm
+7 Yoga 2(A-E) S2 McKean, Allison J Dance Rm
+7 Yoga 6(A-E) S2 McKean, Allison J Dance Rm
+7 Yoga 7(A-E) S2 McKean, Allison J Dance Rm
+7 Yoga 8(A-E) S2 McKean, Allison J Dance Rm
 
 # SAS
-1 Elements of CP English 10 6(A-E) 20-21 Cullen, Tara J E070 
-1 Elements of CP English 10 6(A-E) 20-21 Eads, Nancy E094 
-1 Elements of CP English 11 1(A-E) 20-21 Cullen, Tara J E070 
-1 Elements of CP English 11 4(A-E) 20-21 Eads, Nancy E094 
-1 Elements of CP English 12 2(A-E) 20-21 Gefroh-Neumann, Tracy A E094 
-1 Elements of CP English 9 1(A-E) 20-21 Gefroh-Neumann, Tracy A E094 
-1 Elements of CP English 9 2(A-E) 20-21 Utterback, Natasha C E071 
-1 Elements of CP English 9 3(A-E) 20-21 Gefroh-Neumann, Tracy A E094 
-1 Elements Of Lit/Film 1(A-E) S2 Cullen, Tara J E070 
-1 Elements Of Multi Cultural Lit 1(A-E) S1 Cullen, Tara J E070 
-1 CP English 10 (Teamed) 3(A-E) 20-21 Eads, Nancy E406 
-1 CP English 9 (Teamed) 6(A-E) 20-21 Gefroh-Neumann, Tracy A IC746 
-1 ILC English 2(A-E) 20-21 Orzak, Blake E073 
-1 ILC English 2(A-E) 20-21 Ostedgaard, Garrett J E073 
-1 Practical English 2(A-E) 20-21 Bennethum, Caitlin K E093 
-1 Practical English 3(A-E) 20-21 Bennethum, Caitlin K E093 
-2 CP American Government (Teamed) 2(A-E) S1 Allen, Kathleen K E306 
-2 Elements of American Government 7(A-E) S2 Allen, Kathleen K E310 
-2 Elements of Economics 1 6(A-E) S1 Carpenter, Shiloh E310 
-2 Elements of Economics 2 6(A-E) S2 Carpenter, Shiloh E310 
-2 Elements of Psychology 3(A-E) 20-21 Utterback, Natasha C E071 
-2 Elements of US History 3(A-E) 20-21 Cullen, Tara J E070 
-2 Elements Of US History 5(A-E) 20-21 Carpenter, Shiloh E310 
-2 Elements Of US History 8(A-E) 20-21 Allen, Kathleen K E310 
-2 Elements of World History 1(A-E) 20-21 Carpenter, Shiloh E310 
-2 Elements of World History 2(A-E) 20-21 Carpenter, Shiloh E310 
-2 ILC Social Studies 8(A-E) 20-21 Orzak, Blake E073 
-2 ILC Social Studies 8(A-E) 20-21 Ostedgaard, Garrett J E073 
-
-2 Practical Social Studies 4(A-E) 20-21Smith, Elizabeth A E093 
-2 Practical Social Studies 8(A-E) 20-21Smith, Elizabeth A E087 
-2 CP United States History (Teamed) 3(A-E) 20-21Allen, Kathleen K E310 
-3 CP United States History (Teamed) 4(A-E) 20-21Allen, Kathleen K E310 
-3 CP Algebra 1 (Teamed) 3(A-E) 20-21Dempsey, Annemarie W437 
-3 CP Algebra 1 (Teamed) 4(A-E) 20-21Dempsey, Annemarie W437 
-3 CP Algebra 1 (Teamed) 5(A-E) 20-21SPED Tch A, A W434 
-3 CP Geometry (Teamed) 2(A-E) 20-21Vanecko, Jaime W434 
-3 CP Geometry (Teamed) 5(A-E) 20-21Vanecko, Jaime W434 
-3 Elements Integrated Algebra/Geomtry 2(A-E) 20-21SPED Tch A, A W548 
-3 Elements Integrated Algebra/Geomtry 4(A-E) 20-21SPED Tch A, A W548 
-3 Elements of CP Algebra 1 6(A-E) 20-21Vanecko, Jaime W434 
-3 Elements of CP Geometry 1(A-E) 20-21Vanecko, Jaime W306 
-3 ILC Math 3(A-E) 20-21Orzak, Blake E073 
-3 ILC Math 3(A-E) 20-21Ostedgaard, Garrett J E073 
-3 Integrated Algebra/Geometry 1 (Teamed) 3(A-E) 20-21Bailey, Nathaniel W312 
-3 Integrated Algebra/Geometry 1 (Teamed) 6(A-E) 20-21Bailey, Nathaniel W441 
-3 Practical Math 2(A-E) 20-21Smith, Elizabeth A E087 
-3 Practical Math 3(A-E) 20-21Smith, Elizabeth A E087 
-4 Biology (Teamed) 5(A-E) 20-21Evans, Laura A W529 
-4 Biology (Teamed) 6(A-E) 20-21Evans, Laura A W529 
-4 Chemistry (Teamed) 3(A-E) S1 Evans, Laura A W423 
-4 ILC Science 6(A-E) 20-21Orzak, Blake E073 
-4 ILC Science 6(A-E) 20-21Ostedgaard, Garrett J E073 
-4 Physical Science 2(A-E) 20-21Bailey, Nathaniel W531 
-4 Physical Science 7(A-E) 20-21Bailey, Nathaniel W531 
-4 Physics (Teamed) 3(A-E) S2 Evans, Laura A W423 
-4 Practical Science 4(A-E) 20-21Bennethum, Caitlin K E093 
-4 Practical Science 8(A-E) 20-21Bennethum, Caitlin K E093 
-
-6 Arts Exploration 6(A-E) S1 Bennethum, Caitlin K FA607 
-6 Practical Technology 6(A-E) S2 Bennethum, Caitlin K E093 
-7 Adaptive P.E. 7(A-E) S1 Critchett, Greg E GYM 
-7 Adaptive P.E. 7(A-E) S2 Critchett, Greg E GYM 
-7 Adaptive Swim Fitness 6(A-E) S1 Ostedgaard, Garrett J POOL 
-7 Adaptive Swim Fitness 6(A-E) S2 Ostedgaard, Garrett J POOL 
-7 Elements of Physical Education 8(A-E) S2 Utterback, Natasha C E GYM 
-8 Academic Support Lab 5(A-E) S1 Eads, Nancy E094 
-8 Academic Support Lab 7(A-E) S1 Evans, Laura A E096 
-8 Academic Support Lab 5(A-E) S2 Eads, Nancy E094 
-8 Academic Support Lab 7(A-E) S2 Evans, Laura A E096 
-8 Academic Support Lab (REACH) 5(A-E) S1 Cullen, Tara J E070 
-8 Academic Support Lab (REACH) 6(A-E) S1 SPED Tch A, A E070 
-8 Academic Support Lab (REACH) 8(A-E) S1 Utterback, Natasha C E071 
-8 Academic Support Lab (REACH) 1(A-E) S2 Utterback, Natasha C E071 
-8 Academic Support Lab (REACH) 6(A-E) S2 Sped Tch B, B E070 
-8 Life Skills 1(A-E) S1 Utterback, Natasha C E071 
-8 Life Skills 5(A-E) S2 Cullen, Tara J E070 
-8 Practical Work Applications 1(A-E) 20-21Orzak, Blake E073 
-8 Practical Work Applications 1(A-E) 20-21Smith, Elizabeth A E093 
+1 Elements of CP English 10 6(A-E) 20-21 Cullen, Tara J E070
+1 Elements of CP English 10 6(A-E) 20-21 Eads, Nancy E094
+1 Elements of CP English 11 1(A-E) 20-21 Cullen, Tara J E070
+1 Elements of CP English 11 4(A-E) 20-21 Eads, Nancy E094
+1 Elements of CP English 12 2(A-E) 20-21 Gefroh-Neumann, Tracy A E094
+1 Elements of CP English 9 1(A-E) 20-21 Gefroh-Neumann, Tracy A E094
+1 Elements of CP English 9 2(A-E) 20-21 Utterback, Natasha C E071
+1 Elements of CP English 9 3(A-E) 20-21 Gefroh-Neumann, Tracy A E094
+1 Elements of Lit/Film 1(A-E) S2 Cullen, Tara J E070
+1 Elements of Multi Cultural Lit 1(A-E) S1 Cullen, Tara J E070
+1 CP English 10 (Teamed) 3(A-E) 20-21 Eads, Nancy E406
+1 CP English 9 (Teamed) 6(A-E) 20-21 Gefroh-Neumann, Tracy A IC746
+1 ILC English 2(A-E) 20-21 Orzak, Blake E073
+1 ILC English 2(A-E) 20-21 Ostedgaard, Garrett J E073
+1 Practical English 2(A-E) 20-21 Bennethum, Caitlin K E093
+1 Practical English 3(A-E) 20-21 Bennethum, Caitlin K E093
+2 CP American Government (Teamed) 2(A-E) S1 Allen, Kathleen K E306
+2 Elements of American Government 7(A-E) S2 Allen, Kathleen K E310
+2 Elements of Economics 1 6(A-E) S1 Carpenter, Shiloh E310
+2 Elements of Economics 2 6(A-E) S2 Carpenter, Shiloh E310
+2 Elements of Psychology 3(A-E) 20-21 Utterback, Natasha C E071
+2 Elements of US History 3(A-E) 20-21 Cullen, Tara J E070
+2 Elements of US History 5(A-E) 20-21 Carpenter, Shiloh E310
+2 Elements of US History 8(A-E) 20-21 Allen, Kathleen K E310
+2 Elements of World History 1(A-E) 20-21 Carpenter, Shiloh E310
+2 Elements of World History 2(A-E) 20-21 Carpenter, Shiloh E310
+2 ILC Social Studies 8(A-E) 20-21 Orzak, Blake E073
+2 ILC Social Studies 8(A-E) 20-21 Ostedgaard, Garrett J E073
+2 Practical Social Studies 4(A-E) 20-21 Smith, Elizabeth A E093
+2 Practical Social Studies 8(A-E) 20-21 Smith, Elizabeth A E087
+2 CP United States History (Teamed) 3(A-E) 20-21 Allen, Kathleen K E310
+3 CP United States History (Teamed) 4(A-E) 20-21 Allen, Kathleen K E310
+3 CP Algebra 1 (Teamed) 3(A-E) 20-21 Dempsey, Annemarie W437
+3 CP Algebra 1 (Teamed) 4(A-E) 20-21 Dempsey, Annemarie W437
+3 CP Algebra 1 (Teamed) 5(A-E) 20-21 SPED Tch A, A W434
+3 CP Geometry (Teamed) 2(A-E) 20-21 Vanecko, Jaime W434
+3 CP Geometry (Teamed) 5(A-E) 20-21 Vanecko, Jaime W434
+3 Elements Integrated Algebra/Geomtry 2(A-E) 20-21 SPED Tch A, A W548
+3 Elements Integrated Algebra/Geomtry 4(A-E) 20-21 SPED Tch A, A W548
+3 Elements of CP Algebra 1 6(A-E) 20-21 Vanecko, Jaime W434
+3 Elements of CP Geometry 1(A-E) 20-21 Vanecko, Jaime W306
+3 ILC Math 3(A-E) 20-21 Orzak, Blake E073
+3 ILC Math 3(A-E) 20-21 Ostedgaard, Garrett J E073
+3 Integrated Algebra/Geometry 1 (Teamed) 3(A-E) 20-21 Bailey, Nathaniel W312
+3 Integrated Algebra/Geometry 1 (Teamed) 6(A-E) 20-21 Bailey, Nathaniel W441
+3 Practical Math 2(A-E) 20-21 Smith, Elizabeth A E087
+3 Practical Math 3(A-E) 20-21 Smith, Elizabeth A E087
+4 Biology (Teamed) 5(A-E) 20-21 Evans, Laura A W529
+4 Biology (Teamed) 6(A-E) 20-21 Evans, Laura A W529
+4 Chemistry (Teamed) 3(A-E) S1 Evans, Laura A W423
+4 ILC Science 6(A-E) 20-21 Orzak, Blake E073
+4 ILC Science 6(A-E) 20-21 Ostedgaard, Garrett J E073
+4 Physical Science 2(A-E) 20-21 Bailey, Nathaniel W531
+4 Physical Science 7(A-E) 20-21 Bailey, Nathaniel W531
+4 Physics (Teamed) 3(A-E) S2 Evans, Laura A W423
+4 Practical Science 4(A-E) 20-21 Bennethum, Caitlin K E093
+4 Practical Science 8(A-E) 20-21 Bennethum, Caitlin K E093
+6 Arts Exploration 6(A-E) S1 Bennethum, Caitlin K FA607
+6 Practical Technology 6(A-E) S2 Bennethum, Caitlin K E093
+7 Adaptive P.E. 7(A-E) S1 Critchett, Greg E GYM
+7 Adaptive P.E. 7(A-E) S2 Critchett, Greg E GYM
+7 Adaptive Swim Fitness 6(A-E) S1 Ostedgaard, Garrett J Pool
+7 Adaptive Swim Fitness 6(A-E) S2 Ostedgaard, Garrett J Pool
+7 Elements of Physical Education 8(A-E) S2 Utterback, Natasha C E GYM
+8 Academic Support Lab 5(A-E) S1 Eads, Nancy E094
+8 Academic Support Lab 7(A-E) S1 Evans, Laura A E096
+8 Academic Support Lab 5(A-E) S2 Eads, Nancy E094
+8 Academic Support Lab 7(A-E) S2 Evans, Laura A E096
+8 Academic Support Lab (REACH) 5(A-E) S1 Cullen, Tara J E070
+8 Academic Support Lab (REACH) 6(A-E) S1 SPED Tch A, A E070
+8 Academic Support Lab (REACH) 8(A-E) S1 Utterback, Natasha C E071
+8 Academic Support Lab (REACH) 1(A-E) S2 Utterback, Natasha C E071
+8 Academic Support Lab (REACH) 6(A-E) S2 Sped Tch B, B E070
+8 Life Skills 1(A-E) S1 Utterback, Natasha C E071
+8 Life Skills 5(A-E) S2 Cullen, Tara J E070
+8 Practical Work Applications 1(A-E) 20-21 Orzak, Blake E073
+8 Practical Work Applications 1(A-E) 20-21 Smith, Elizabeth A E093
 
 # SUPPORT COURSES
-8 Avid 10 2(A-E) 20-21 Devitt, Kelly A IC719 
-8 Avid 11 6(A-E) 20-21 Devitt, Kelly A IC719 
-8 Avid 12 7(A-E) 20-21 Devitt, Kelly A IC719 
-8 Avid 9 1(A-E) 20-21 Devitt, Kelly A IC719 
-8 Avid 9 3(A-E) 20-21 Devitt, Kelly A IC719 
-8 Freshman Seminar 3(A-E) S2 Daum-Schultz, Kerstin IC715 
-8 Junior Seminar Semester 1 3(A-E) S1 Daum-Schultz, Kerstin IC715 
-8 Sophomore Enrichment Seminar 1(A-E) 20-21 Goldsberry, Mark S W205 
-8 Sophomore Enrichment Seminar 1(A-E) 20-21 Smith, Joseph C W205 
+8 Avid 10 2(A-E) 20-21 Devitt, Kelly A IC719
+8 Avid 11 6(A-E) 20-21 Devitt, Kelly A IC719
+8 Avid 12 7(A-E) 20-21 Devitt, Kelly A IC719
+8 Avid 9 1(A-E) 20-21 Devitt, Kelly A IC719
+8 Avid 9 3(A-E) 20-21 Devitt, Kelly A IC719
+8 Freshman Seminar 3(A-E) S2 Daum-Schultz, Kerstin IC715
+8 Junior Seminar Semester 1 3(A-E) S1 Daum-Schultz, Kerstin IC715
+8 Sophomore Enrichment Seminar 1(A-E) 20-21 Goldsberry, Mark S W205
+8 Sophomore Enrichment Seminar 1(A-E) 20-21 Smith, Joseph C W205
 
 # AP CAPSTONE
-8 *AP Research 2(A-E) 20-21 Flynn, Kathryn C IC715 
-2 *AP Seminar 1(A-E) 20-21 Best, Jodi IC735 
-2 *AP Seminar 2(A-E) 20-21 Best, Jodi IC735 
+8 *AP Research 2(A-E) 20-21 Flynn, Kathryn C IC715
+2 *AP Seminar 1(A-E) 20-21 Best, Jodi IC735
+2 *AP Seminar 2(A-E) 20-21 Best, Jodi IC735
